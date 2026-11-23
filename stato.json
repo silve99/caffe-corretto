@@ -1,0 +1,39 @@
+{
+ "eseguito": "2026-11-23T17:02:33.201712+00:00",
+ "fonti": {
+  "fed": {
+   "ok": true,
+   "voci": 20
+  },
+  "bce": {
+   "ok": true,
+   "voci": 15
+  },
+  "prnewswire": {
+   "ok": true,
+   "voci": 20
+  },
+  "ansa": {
+   "ok": true,
+   "voci": 26
+  },
+  "sole24ore": {
+   "ok": true,
+   "voci": 9
+  },
+  "coindesk": {
+   "ok": true,
+   "voci": 25
+  },
+  "gdelt": {
+   "ok": true,
+   "voci": 10
+  },
+  "gdelt-traduzioni": {
+   "ok": true,
+   "voci": 34
+  }
+ },
+ "nuove_notizie": 159,
+ "errori_mercati": []
+}

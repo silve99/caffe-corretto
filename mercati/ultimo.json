@@ -1,0 +1,86 @@
+{
+ "aggiornato": "2026-11-23T17:02:42.348976+00:00",
+ "errori": [],
+ "cambi_bce": {
+  "fonte": "Banca Centrale Europea",
+  "dati": {
+   "EUR/CHF": {
+    "valore": 0.9186,
+    "data": "2026-11-23",
+    "variazione_pct": -0.4
+   },
+   "EUR/CNY": {
+    "valore": 7.2905,
+    "data": "2026-11-23",
+    "variazione_pct": -0.66
+   },
+   "EUR/GBP": {
+    "valore": 0.83673,
+    "data": "2026-11-23",
+    "variazione_pct": -0.07
+   },
+   "EUR/JPY": {
+    "valore": 174.01,
+    "data": "2026-11-23",
+    "variazione_pct": -0.2
+   },
+   "EUR/USD": {
+    "valore": 1.0939,
+    "data": "2026-11-23",
+    "variazione_pct": -0.46
+   }
+  }
+ },
+ "cripto": {
+  "fonte": "Powered by CoinGecko",
+  "dati": {
+   "BTC": {
+    "nome": "Bitcoin",
+    "prezzo_eur": 57059,
+    "variazione_24h_pct": 2.5,
+    "capitalizzazione_eur": 1147821735611
+   },
+   "ETH": {
+    "nome": "Ethereum",
+    "prezzo_eur": 1622.21,
+    "variazione_24h_pct": 3.58,
+    "capitalizzazione_eur": 198306443928
+   },
+   "BNB": {
+    "nome": "BNB",
+    "prezzo_eur": 518.74,
+    "variazione_24h_pct": 1.94,
+    "capitalizzazione_eur": 68219328775
+   },
+   "XRP": {
+    "nome": "XRP",
+    "prezzo_eur": 0.891797,
+    "variazione_24h_pct": 5.39,
+    "capitalizzazione_eur": 56643945702
+   },
+   "SOL": {
+    "nome": "Solana",
+    "prezzo_eur": 68.36,
+    "variazione_24h_pct": 6.45,
+    "capitalizzazione_eur": 40469332756
+   },
+   "DOGE": {
+    "nome": "Dogecoin",
+    "prezzo_eur": 0.053325,
+    "variazione_24h_pct": 5.94,
+    "capitalizzazione_eur": 8365130506
+   },
+   "ADA": {
+    "nome": "Cardano",
+    "prezzo_eur": 0.140506,
+    "variazione_24h_pct": 6.48,
+    "capitalizzazione_eur": 5280094852
+   }
+  }
+ },
+ "cripto_globale": {
+  "capitalizzazione_totale_eur": 1977613675620.5493,
+  "variazione_24h_pct": 0.84,
+  "dominanza_btc_pct": 58.0
+ }
+}

@@ -1,0 +1,1154 @@
+{
+ "aggiornato": "2026-11-23T17:02:33.201712+00:00",
+ "finestra_ore": 26,
+ "notizie_considerate": 118,
+ "gruppi": [
+  {
+   "id": "0644e8da476da794",
+   "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
+   "punteggio": 15.9,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 5,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
+     "url": "https://www.ilmessaggero.it:443/economia/news/borse_oggi_diretta_cosa_sta_succedendo-9908173.html",
+     "fonte": "ilmessaggero.it",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
+     "url": "https://www.ilgazzettino.it/economia/news/borse_oggi_diretta_cosa_succede-9908185.html",
+     "fonte": "ilgazzettino.it",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
+     "url": "https://www.ilmessaggero.it/economia/news/borse_oggi_diretta_cosa_sta_succedendo-9908173.html",
+     "fonte": "ilmessaggero.it",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "La diretta da Wall Street | Le borse Usa rimbalzano grazie al ritorno di Huang a Nvidia: Nasdaq +7%",
+     "url": "https://www.milanofinanza.it/news/la-diretta-da-wall-street-futures-sulle-borse-usa-in-crescita-il-nasdaq-sale-del-3-4-grazie-al-rimbalzo-202611231448344200",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
+     "url": "https://www.ilgazzettino.it:443/economia/news/borse_oggi_diretta_cosa_succede-9908185.html",
+     "fonte": "ilgazzettino.it",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "946eb68be6ea41d3",
+   "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
+   "punteggio": 9.9,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 4,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
+     "url": "https://nbcmontana.com/news/nation-world/nvidia-leads-wall-street-rebound-as-stocks-recover-from-steep-losses-jensen-huang-ceo-reinstated-sp-500-nasdaq-dow-jones-industrial-average-artificial-intelligence-ai-news",
+     "fonte": "nbcmontana.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
+     "url": "https://foxbaltimore.com/news/nation-world/nvidia-leads-wall-street-rebound-as-stocks-recover-from-steep-losses-jensen-huang-ceo-reinstated-sp-500-nasdaq-dow-jones-industrial-average-artificial-intelligence-ai-news",
+     "fonte": "foxbaltimore.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
+     "url": "https://wchstv.com/news/nation-world/nvidia-leads-wall-street-rebound-as-stocks-recover-from-steep-losses-jensen-huang-ceo-reinstated-sp-500-nasdaq-dow-jones-industrial-average-artificial-intelligence-ai-news",
+     "fonte": "wchstv.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
+     "url": "https://nebraska.tv/news/nation-world/nvidia-leads-wall-street-rebound-as-stocks-recover-from-steep-losses-jensen-huang-ceo-reinstated-sp-500-nasdaq-dow-jones-industrial-average-artificial-intelligence-ai-news",
+     "fonte": "nebraska.tv",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "b5ba451bacf760fd",
+   "titolo": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+   "punteggio": 9.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-23T10:00:00+00:00",
+   "link": [
+    {
+     "titolo": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+     "fonte": "Banca Centrale Europea",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "a44ad3a51ce50678",
+   "titolo": "Micron rialza la testa dopo il crollo a Wall Street. Ecco i tre fattori che sostengono il rimbalzo",
+   "punteggio": 6.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Micron rialza la testa dopo il crollo a Wall Street. Ecco i tre fattori che sostengono il rimbalzo",
+     "url": "https://www.milanofinanza.it/news/micron-prova-a-rialzare-la-testa-dopo-il-crollo-in-borsa-tre-fattori-che-potrebbero-favorire-il-202611231538564550",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "12ec4e8918fce5a5",
+   "titolo": "วอลล์สตรีทคึกคัก! Nvidia จุดพลุดาวโจนส์/S&P 500/Nasdaq",
+   "punteggio": 5.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "link": [
+    {
+     "titolo": "วอลล์สตรีทคึกคัก! Nvidia จุดพลุดาวโจนส์/S&P 500/Nasdaq",
+     "url": "https://www.ryt9.com/s/iq/12858839",
+     "fonte": "ryt9.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "d65f1db8d56cd198",
+   "titolo": "Retour de Huang : Nvidia catapultée à Wall Street, le marché s'envole",
+   "punteggio": 5.9,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Retour de Huang : Nvidia catapultée à Wall Street, le marché s'envole",
+     "url": "https://www.larepubliquedespyrenees.fr:443/societe/afp/retour-de-huang-nvidia-catapultee-a-wall-street-le-marche-s-envole-31622573.php",
+     "fonte": "larepubliquedespyrenees.fr",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Nvidia catapultée à Wall Street après le retour de Huang",
+     "url": "https://www.rtn.ch/rtn/Actualite/economie/20261123-Nvidia-catapultee-a-Wall-Street-apres-le-retour-de-Huang.html",
+     "fonte": "rtn.ch",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "4946c1026fd8aed2",
+   "titolo": "Nvidia il reintegro di Huang porta il titolo a +33% e fa volare il Nasdaq",
+   "punteggio": 5.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Nvidia il reintegro di Huang porta il titolo a +33% e fa volare il Nasdaq",
+     "url": "https://www.zazoom.it/2026-11-23/nvidia-il-reintegro-di-huang-porta-il-titolo-a-33-e-fa-volare-il-nasdaq/19965998/",
+     "fonte": "zazoom.it",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "1b2ec070d90d9711",
+   "titolo": "Cổ phiếu Nvidia tăng dựng đứng 33%, Nasdaq nhảy vọt 7,4%",
+   "punteggio": 5.9,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Cổ phiếu Nvidia tăng dựng đứng 33%, Nasdaq nhảy vọt 7,4%",
+     "url": "https://cafef.vn/co-phieu-nvidia-tang-dung-dung-33-nasdaq-nhay-vot-74-188261123214752152.chn",
+     "fonte": "cafef.vn",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Cổ phiếu Nvidia tăng vọt 33% và Nasdaq nhảy vọt 7,4 % trong ngày 23/11",
+     "url": "https://cafebiz.vn/co-phieu-nvidia-tang-dung-dung-33-nasdaq-nhay-vot-74-176261123221128971.chn",
+     "fonte": "cafebiz.vn",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "485ea275059d106f",
+   "titolo": "Wall Street estalla: el Nasdaq se dispara un 7% por Nvidia",
+   "punteggio": 5.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Wall Street estalla: el Nasdaq se dispara un 7% por Nvidia",
+     "url": "https://www.negocios.com/mercados/wall-street-estalla-nasdaq-dispara-7-nvidia/20261123170043498601.html",
+     "fonte": "negocios.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "eb44da2abbf93f7f",
+   "titolo": "'C'è da fare SafeTeen Roma', torna il progetto UniCredit per salute mentale adolescenti",
+   "punteggio": 5.8,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "'C'è da fare SafeTeen Roma', torna il progetto UniCredit per salute mentale adolescenti",
+     "url": "https://www.ilgiornale.it/news/adnkronos/ce-da-fare-safeteen-roma-torna-il-progetto-unicredit-per-salute-mentale-adolescenti/",
+     "fonte": "il Giornale",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Si amplia SafeTeen, il progetto di C'è Da Fare per la salute mentale degli adolescenti",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/11/23/si-amplia-safeteen-il-progetto-di-ce-da-fare-per-la-salute-mentale-degli-adolescenti_90a38b0a-52fc-49fa-9af0-6b5b7c14c277.html",
+     "fonte": "ANSA Economia",
+     "solo_verifica": true,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "1be2723bd8d76536",
+   "titolo": "Philip R. Lane: Climate change and monetary policy",
+   "punteggio": 5.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-23T14:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Philip R. Lane: Climate change and monetary policy",
+     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+     "fonte": "Banca Centrale Europea",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "997b0c2653f513aa",
+   "titolo": "Bitcoin: Nasdaq-Rutsch zieht Kurs mit",
+   "punteggio": 4.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Bitcoin: Nasdaq-Rutsch zieht Kurs mit",
+     "url": "https://www.boerse-express.com/news/articles/bitcoin-nasdaq-rutsch-zieht-kurs-mit-965900",
+     "fonte": "boerse-express.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "2ed182c05ab111d2",
+   "titolo": "Bitcoin's Oversold Rebound Faces Test as Spot ETF Outflows Exceed $1.2bn for Third Consecutive Week",
+   "punteggio": 4.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Bitcoin's Oversold Rebound Faces Test as Spot ETF Outflows Exceed $1.2bn for Third Consecutive Week",
+     "url": "https://www.investorideas.com/news/2026/cryptocurrency/11231-bitcoins-oversold-rebound-faces-test-as-spot-etf-outflows-exceed-1-2bn-for-third-consecutive-week.asp",
+     "fonte": "investorideas.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "3abb1949edf85b60",
+   "titolo": "Bitcoin steigt nach Huangs Rückkehr auf Chefposten von Nvidia",
+   "punteggio": 4.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Bitcoin steigt nach Huangs Rückkehr auf Chefposten von Nvidia",
+     "url": "https://www.moneycab.com/finanz/bitcoin-steigt-nach-huangs-rueckkehr-auf-chefposten-von-nvidia/",
+     "fonte": "moneycab.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "485dc0e0fcc832e2",
+   "titolo": "Bond per proteggersi dall'inflazione: 4 obbligazioni indicizzate che rendono oltre il 5,5%",
+   "punteggio": 4.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Bond per proteggersi dall'inflazione: 4 obbligazioni indicizzate che rendono oltre il 5,5%",
+     "url": "https://www.milanofinanza.it/news/bond-unicredit-punta-sui-titoli-indicizzati-all-inflazione-ecco-quali-202611231318465577",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "427f14f656757ff6",
+   "titolo": "Caída de bitcoin a niveles de US$61.000 espanta inversiones en ETF de criptos",
+   "punteggio": 4.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Caída de bitcoin a niveles de US$61.000 espanta inversiones en ETF de criptos",
+     "url": "https://www.larepublica.co/globoeconomia/caida-de-bitcoin-a-niveles-de-us-61-000-espanta-inversiones-en-etf-de-criptos-4530692",
+     "fonte": "larepublica.co",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "17158167fa619842",
+   "titolo": "Nvidia, clamoroso: Jensen Huang richiamato come Ceo e presidente",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Nvidia, clamoroso: Jensen Huang richiamato come Ceo e presidente",
+     "url": "https://www.tgcom24.mediaset.it/mondo/nvidia-jensen-huang-ceo_119337245-202602k.shtml",
+     "fonte": "TGCom24",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "608a75a56e7876af",
+   "titolo": "Dow Jones, S&P 500, Nasdaq: Nasdaq nach Huang-Rückkehr sieben Prozent im Plus",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Dow Jones, S&P 500, Nasdaq: Nasdaq nach Huang-Rückkehr sieben Prozent im Plus",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-nach-huang-rueckkehr-sieben-prozent-im-plus/100272031.html",
+     "fonte": "handelsblatt.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "461bb11be3681787",
+   "titolo": "Nvidia, Nasdaq | Oljefondet økte med 400 milliarder på en halvtime",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Nvidia, Nasdaq | Oljefondet økte med 400 milliarder på en halvtime",
+     "url": "https://www.nettavisen.no/okonomi/oljefondet-okte-med-400-milliarder-pa-en-halvtime/s/80-95-274916",
+     "fonte": "nettavisen.no",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "a3940f1d713fbcac",
+   "titolo": "Cybersecurity Stock Zscaler (Nasdaq:ZS) Gains on Acquisition News as the Cyber Sector Heats Up",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Cybersecurity Stock Zscaler (Nasdaq:ZS) Gains on Acquisition News as the Cyber Sector Heats Up",
+     "url": "https://www.investorideas.com/news/2026/defense/11231-cybersecurity-stock-zscaler-nasdaq-zs-gains-on-acquisition-news-as-the-cyber-sector-heats-up.asp",
+     "fonte": "investorideas.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "6dc12bcbc394d5d1",
+   "titolo": "nvidia share price: Nvidia stock before and after Jensen Huang's comeback: How Wall Street reacted to the scandal",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "nvidia share price: Nvidia stock before and after Jensen Huang's comeback: How Wall Street reacted to the scandal",
+     "url": "https://economictimes.indiatimes.com/news/international/business/nvidia-stock-before-and-after-jensen-huangs-comeback-how-wall-street-reacted-to-the-scandal/articleshow/136108488.cms",
+     "fonte": "indiatimes.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "18549a901f3996d3",
+   "titolo": "AI Stock NVIDIA Corporation (Nasdaq:NVDA) Bounces Back with CEO Jensen Huang's Triumphant Return",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "AI Stock NVIDIA Corporation (Nasdaq:NVDA) Bounces Back with CEO Jensen Huang's Triumphant Return",
+     "url": "https://www.investorideas.com/news/2026/technology/11234-ai-stock-nvidia-corporation-nasdaq-nvda-bounces-back-with-ceo-jensen-huangs-triumphant-return.asp",
+     "fonte": "investorideas.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "87eacd14cf598182",
+   "titolo": "Nvidia (Nasdaq: NVDA) Could Double in Value After Huang's Shock Comeback",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Nvidia (Nasdaq: NVDA) Could Double in Value After Huang's Shock Comeback",
+     "url": "https://www.investorideas.com/news/2026/technology/11235-nvidia-nasdaq-nvda-could-double-in-value-after-huangs-shock-comeback.asp",
+     "fonte": "investorideas.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "fcd05f13c95b69cf",
+   "titolo": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+     "url": "https://www.aol.com/articles/nvidia-shares-30-tech-stocks-153946000.html",
+     "fonte": "aol.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "c3c68938e73544a6",
+   "titolo": "Przed sesją na Wall Street: odbicie po wyprzedaży, Nvidia i spółki AI napędzają wzrost futures",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Przed sesją na Wall Street: odbicie po wyprzedaży, Nvidia i spółki AI napędzają wzrost futures",
+     "url": "https://www.pb.pl/przed-sesja-na-wall-street-odbicie-po-wyprzedazy-nvidia-i-spolki-ai-napedzaja-wzrost-futures-1270847",
+     "fonte": "pb.pl",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "ae7094f5721f99c2",
+   "titolo": "Nvidia, Jensen Huang torna ceo e l'azione vola del 33%. Anthropic sull'altalena",
+   "punteggio": 3.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Nvidia, Jensen Huang torna ceo e l'azione vola del 33%. Anthropic sull'altalena",
+     "url": "https://www.milanofinanza.it/news/anthropic-e-nvidia-rimbalzano-nel-pre-market-e-finita-la-crisi-del-tech-202611231314498108",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "d2805581970cef72",
+   "titolo": "Jensen Huang torna in Nvidia: è di nuovo presidente e ad. La reazione di Trump",
+   "punteggio": 3.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Jensen Huang torna in Nvidia: è di nuovo presidente e ad. La reazione di Trump",
+     "url": "https://www.adnkronos.com/economia/jensen-huang-nvidia-presidente-ad_55Ffg1cG4cfLgdGGaaW4bN",
+     "fonte": "Adnkronos",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "fbbc2ac540fbe7b1",
+   "titolo": "Leone d'oro al merito per Carlo Alberto Giusti rettore Università degli studi Link",
+   "punteggio": 3.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Leone d'oro al merito per Carlo Alberto Giusti rettore Università degli studi Link",
+     "url": "https://www.adnkronos.com/economia/leone-doro-al-merito-per-carlo-alberto-giusti-rettore-universita-degli-studi-link_1eRGugtOi6dWFoxOUPL98f",
+     "fonte": "Adnkronos",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "0bb0c9a00455fc38",
+   "titolo": "Due azioni del Nasdaq che possono raddoppiare entro un anno secondo gli analisti",
+   "punteggio": 3.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Due azioni del Nasdaq che possono raddoppiare entro un anno secondo gli analisti",
+     "url": "https://www.milanofinanza.it/news/le-due-azioni-del-nasdaq-che-possono-raddoppiare-entro-un-anno-secondo-gli-analisti-202611231607594813",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "6f5eacbb7ca5767c",
+   "titolo": "Anthropic vuole spendere 900 miliardi, ma per Wall Street il suo debito è già spazzatura",
+   "punteggio": 3.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Anthropic vuole spendere 900 miliardi, ma per Wall Street il suo debito è già spazzatura",
+     "url": "https://www.milanofinanza.it/news/anthropic-vuole-spendere-900-miliardi-ma-il-suo-debito-e-spazzatura-per-wall-street-202611231318594416",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "c265a13aaaa670c2",
+   "titolo": "Nvidia-besked får Wall Street att rusa",
+   "punteggio": 3.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Nvidia-besked får Wall Street att rusa",
+     "url": "https://nyheter24.se/nyheter/ekonomi/naringsliv/1533238-nvidia-besked-far-wall-street-att-rusa",
+     "fonte": "nyheter24.se",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "ac2aa58f37c26fca",
+   "titolo": "Blue Lagoon, il lusso del wellness conquista la Borsa. Ipo da 109 milioni in Islanda",
+   "punteggio": 2.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Blue Lagoon, il lusso del wellness conquista la Borsa. Ipo da 109 milioni in Islanda",
+     "url": "https://www.milanofinanza.it/news/blue-lagoon-il-lusso-del-wellness-conquista-la-borsa-ipo-da-109-milioni-in-islanda-202611231628386945",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "6e6454f2daa3e868",
+   "titolo": "TopGum Reports Eleventh Consecutive Record Quarter: Q3 Revenue Exceeds $40 Million, Driven by Approximately 52% Growth in Dietary Supplements",
+   "punteggio": 2.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:15:00+00:00",
+   "link": [
+    {
+     "titolo": "TopGum Reports Eleventh Consecutive Record Quarter: Q3 Revenue Exceeds $40 Million, Driven by Approximately 52% Growth in Dietary Supplements",
+     "url": "https://www.prnewswire.com/news-releases/topgum-reports-eleventh-consecutive-record-quarter-q3-revenue-exceeds-40-million-driven-by-approximately-52-growth-in-dietary-supplements-302948345.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "4bc2cb28c8c915bd",
+   "titolo": "\"Burnham accelera su riavvicinamento con Bruxelles ma pagherà prezzo molto alto\", l'analisi di Menon (King's College)",
+   "punteggio": 1.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "link": [
+    {
+     "titolo": "\"Burnham accelera su riavvicinamento con Bruxelles ma pagherà prezzo molto alto\", l'analisi di Menon (King's College)",
+     "url": "https://www.adnkronos.com/internazionale/esteri/ue-gb-menon-kings-college_3SBQhnTS627jMNlGD00dLB",
+     "fonte": "Adnkronos",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "eedf4c67cb5ed6d1",
+   "titolo": "Presunta evasione fiscale nella vendita da 72 milioni di un palazzo ad Armani. Sequestrati 18,8 milioni alla vedova di Felice Riva",
+   "punteggio": 1.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Presunta evasione fiscale nella vendita da 72 milioni di un palazzo ad Armani. Sequestrati 18,8 milioni alla vedova di Felice Riva",
+     "url": "https://www.milanofinanza.it/news/presunta-evasione-fiscale-nella-vendita-da-72-milioni-di-un-palazzo-ad-armani-sequestrati-18-8-milioni-202611231504334098",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "27d9456c386ce086",
+   "titolo": "Affitti brevi, i gestori delle case agli hotel: i turisti preferiscono noi a stanze squallide. Parla Celani (Aigab)",
+   "punteggio": 1.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-23T16:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Affitti brevi, i gestori delle case agli hotel: i turisti preferiscono noi a stanze squallide. Parla Celani (Aigab)",
+     "url": "https://www.milanofinanza.it/news/affitti-brevi-i-gestori-delle-case-contro-gli-hotel-i-turisti-preferiscono-noi-alle-stanze-squallide-202611231408032249",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "a659540a3070ada5",
+   "titolo": "Securitize Serves as Tokenization Provider for OKXICE's Newly Launched 24/7 Securities Trading Venue",
+   "punteggio": 1.0,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T17:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Securitize Serves as Tokenization Provider for OKXICE's Newly Launched 24/7 Securities Trading Venue",
+     "url": "https://www.prnewswire.com/news-releases/securitize-serves-as-tokenization-provider-for-okxices-newly-launched-247-securities-trading-venue-302947862.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "4c35aad0d040ac11",
+   "titolo": "Madison Dearborn Partners to Acquire Peli BioThermal, a Trusted Cold Chain Solutions Provider, from Pelican Products and Platinum Equity",
+   "punteggio": 1.0,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T17:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Madison Dearborn Partners to Acquire Peli BioThermal, a Trusted Cold Chain Solutions Provider, from Pelican Products and Platinum Equity",
+     "url": "https://www.prnewswire.com/news-releases/madison-dearborn-partners-to-acquire-peli-biothermal-a-trusted-cold-chain-solutions-provider-from-pelican-products-and-platinum-equity-302948222.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "Madison Dearborn Partners to Acquire Peli BioThermal, a Trusted Cold Chain Solutions Provider, from Pelican Products and Platinum Equity",
+     "url": "https://www.prnewswire.com/news-releases/madison-dearborn-partners-to-acquire-peli-biothermal-a-trusted-cold-chain-solutions-provider-from-pelican-products-and-platinum-equity-302948213.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "e36e1004e7198378",
+   "titolo": "NE Property Management Announces the Opening of Silo 29 Apartments in Midwest City, Featuring Private Garages, Walking Trails and a Short Commute to Downtown Oklahoma City",
+   "punteggio": 0.9,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T16:38:00+00:00",
+   "link": [
+    {
+     "titolo": "NE Property Management Announces the Opening of Silo 29 Apartments in Midwest City, Featuring Private Garages, Walking Trails and a Short Commute to Downtown Oklahoma City",
+     "url": "https://www.prnewswire.com/news-releases/ne-property-management-announces-the-opening-of-silo-29-apartments-in-midwest-city-featuring-private-garages-walking-trails-and-a-short-commute-to-downtown-oklahoma-city-302948356.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "fb09cfe559a36dc5",
+   "titolo": "Drip Capital Ranks in Top 100 on the 2026 Deloitte Technology Fast 500™",
+   "punteggio": 0.9,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T16:38:00+00:00",
+   "link": [
+    {
+     "titolo": "Drip Capital Ranks in Top 100 on the 2026 Deloitte Technology Fast 500™",
+     "url": "https://www.prnewswire.com/news-releases/drip-capital-ranks-in-top-100-on-the-2026-deloitte-technology-fast-500-302948445.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "69b180695ae60e2e",
+   "titolo": "Dominican government highlights progress on Larimar City & Resort, which now involves nearly 3,000 people",
+   "punteggio": 0.9,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T16:35:00+00:00",
+   "link": [
+    {
+     "titolo": "Dominican government highlights progress on Larimar City & Resort, which now involves nearly 3,000 people",
+     "url": "https://www.prnewswire.com/news-releases/dominican-government-highlights-progress-on-larimar-city--resort-which-now-involves-nearly-3-000-people-302948443.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "edc3632c05d06506",
+   "titolo": "In HelloNation, Insurance Expert Ellie Mills of Boca Raton, FL Explains How Part-Time Occupancy Impacts Home Insurance",
+   "punteggio": 0.9,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "In HelloNation, Insurance Expert Ellie Mills of Boca Raton, FL Explains How Part-Time Occupancy Impacts Home Insurance",
+     "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-ellie-mills-of-boca-raton-fl-explains-how-part-time-occupancy-impacts-home-insurance-302948380.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "0f3b33518e44b752",
+   "titolo": "In HelloNation, Insurance Expert Kelli Palmquist of Roseau, MN Explains How Seasonal Insurance Risks Affect Coverage",
+   "punteggio": 0.9,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "link": [
+    {
+     "titolo": "In HelloNation, Insurance Expert Kelli Palmquist of Roseau, MN Explains How Seasonal Insurance Risks Affect Coverage",
+     "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-kelli-palmquist-of-roseau-mn-explains-how-seasonal-insurance-risks-affect-coverage-302948341.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "8fee2e875dbd5ecc",
+   "titolo": "As HR Weighs AI's Risks, Financial Finesse's Human-Backed Platform Wins Personal Finance Tech of the Year",
+   "punteggio": 0.8,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T16:09:00+00:00",
+   "link": [
+    {
+     "titolo": "As HR Weighs AI's Risks, Financial Finesse's Human-Backed Platform Wins Personal Finance Tech of the Year",
+     "url": "https://www.prnewswire.com/news-releases/as-hr-weighs-ais-risks-financial-finesses-human-backed-platform-wins-personal-finance-tech-of-the-year-302948401.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "28f449c4ee715f49",
+   "titolo": "HelloNation Article Explains the Appraisal Process, Featuring Real Estate Experts Ray and Peggy Pierce",
+   "punteggio": 0.8,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:59:00+00:00",
+   "link": [
+    {
+     "titolo": "HelloNation Article Explains the Appraisal Process, Featuring Real Estate Experts Ray and Peggy Pierce",
+     "url": "https://www.prnewswire.com/news-releases/hellonation-article-explains-the-appraisal-process-featuring-real-estate-experts-ray-and-peggy-pierce-302887683.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "5ab1c57047b258c4",
+   "titolo": "Apolonia Capital Granted Category 2 License by the UAE Capital Market Authority",
+   "punteggio": 0.8,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:50:00+00:00",
+   "link": [
+    {
+     "titolo": "Apolonia Capital Granted Category 2 License by the UAE Capital Market Authority",
+     "url": "https://www.prnewswire.com/news-releases/apolonia-capital-granted-category-2-license-by-the-uae-capital-market-authority-302948376.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "d85d79b0d002d257",
+   "titolo": "This Pennsylvania Real Estate Brokerage Is Doubling Down for the Changing Market",
+   "punteggio": 0.7,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:47:00+00:00",
+   "link": [
+    {
+     "titolo": "This Pennsylvania Real Estate Brokerage Is Doubling Down for the Changing Market",
+     "url": "https://www.prnewswire.com/news-releases/this-pennsylvania-real-estate-brokerage-is-doubling-down-for-the-changing-market-302947314.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "76d0dc19dc90083e",
+   "titolo": "Insurance Expert Kathy Powell Highlights What Determines How Much Home or Renters Insurance You Need",
+   "punteggio": 0.7,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:37:00+00:00",
+   "link": [
+    {
+     "titolo": "Insurance Expert Kathy Powell Highlights What Determines How Much Home or Renters Insurance You Need",
+     "url": "https://www.prnewswire.com/news-releases/insurance-expert-kathy-powell-highlights-what-determines-how-much-home-or-renters-insurance-you-need-302948366.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "fa50e9789bd91222",
+   "titolo": "Capline Dental Services Cuts Insurance Eligibility Verification Time by 75% Using AI-Driven Checks",
+   "punteggio": 0.7,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Capline Dental Services Cuts Insurance Eligibility Verification Time by 75% Using AI-Driven Checks",
+     "url": "https://www.prnewswire.com/news-releases/capline-dental-services-cuts-insurance-eligibility-verification-time-by-75-using-ai-driven-checks-302948212.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "ee4d4e471f5e7226",
+   "titolo": "Nationwide Foundation announces $11 million contribution to provide critical food, shelter needs",
+   "punteggio": 0.7,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Nationwide Foundation announces $11 million contribution to provide critical food, shelter needs",
+     "url": "https://www.prnewswire.com/news-releases/nationwide-foundation-announces-11-million-contribution-to-provide-critical-food-shelter-needs-302948355.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "99cfabfd4c4e3b3e",
+   "titolo": "Every Bottle Has a Story: VNYRD Launches a New Digital Home for Wine Lovers",
+   "punteggio": 0.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:09:00+00:00",
+   "link": [
+    {
+     "titolo": "Every Bottle Has a Story: VNYRD Launches a New Digital Home for Wine Lovers",
+     "url": "https://www.prnewswire.com/news-releases/every-bottle-has-a-story-vnyrd-launches-a-new-digital-home-for-wine-lovers-302948277.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "f68123e4e4365d80",
+   "titolo": "Anthropic Goes Public. Direxion Goes 2X, Long or Short.",
+   "punteggio": 0.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:06:00+00:00",
+   "link": [
+    {
+     "titolo": "Anthropic Goes Public. Direxion Goes 2X, Long or Short.",
+     "url": "https://www.prnewswire.com/news-releases/anthropic-goes-public-direxion-goes-2x-long-or-short-302948339.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "ee3b8c7dbb131e58",
+   "titolo": "WPS Health Launches Medicare Supplement High-Deductible Plan for Wisconsin Seniors as Some Medicare Advantage Plans Exit",
+   "punteggio": 0.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:05:00+00:00",
+   "link": [
+    {
+     "titolo": "WPS Health Launches Medicare Supplement High-Deductible Plan for Wisconsin Seniors as Some Medicare Advantage Plans Exit",
+     "url": "https://www.prnewswire.com/news-releases/wps-health-launches-medicare-supplement-high-deductible-plan-for-wisconsin-seniors-as-some-medicare-advantage-plans-exit-302947716.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "22d3d532f1ce2e47",
+   "titolo": "LifeSecure Launches Starscape Administrators, an End-to-End TPA Solution for the Insurance Industry",
+   "punteggio": 0.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-23T15:00:00+00:00",
+   "link": [
+    {
+     "titolo": "LifeSecure Launches Starscape Administrators, an End-to-End TPA Solution for the Insurance Industry",
+     "url": "https://www.prnewswire.com/news-releases/lifesecure-launches-starscape-administrators-an-end-to-end-tpa-solution-for-the-insurance-industry-302947359.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  }
+ ]
+}
