@@ -1,19 +1,88 @@
 {
-  "_nota": "Fonti gratuite. 'ufficiale' = fonte istituzionale che basta da sola a verificare una notizia. 'solo_verifica' = testata di cui usiamo solo titolo e link per il controllo incrociato, mai il testo.",
+  "_nota": "Fonti gratuite. 'ufficiale' = fonte istituzionale che basta da sola a verificare una notizia. 'solo_verifica' = testata di cui usiamo solo titolo e link per il controllo incrociato, mai il testo. 'istituzionale' = banca centrale: le sue notizie ricevono un bonus di rilevanza.",
   "rss": [
-    { "id": "fed", "nome": "Federal Reserve", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "ufficiale": true, "lingua": "en", "categoria": "macro" },
-    { "id": "bce", "nome": "Banca Centrale Europea", "url": "https://www.ecb.europa.eu/rss/press.html", "ufficiale": true, "lingua": "en", "categoria": "macro" },
-    { "id": "globenewswire", "nome": "GlobeNewswire", "url": "https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies", "ufficiale": true, "lingua": "en", "categoria": "azioni" },
-    { "id": "prnewswire", "nome": "PR Newswire", "url": "https://www.prnewswire.com/rss/financial-services-latest-news/financial-services-latest-news-list.rss", "ufficiale": true, "lingua": "en", "categoria": "azioni" },
-    { "id": "ansa", "nome": "ANSA Economia", "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml", "solo_verifica": true, "lingua": "it", "categoria": "macro" },
-    { "id": "sole24ore", "nome": "Il Sole 24 Ore Finanza", "url": "https://www.ilsole24ore.com/rss/finanza.xml", "solo_verifica": true, "lingua": "it", "categoria": "azioni" },
-    { "id": "coindesk", "nome": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "solo_verifica": true, "lingua": "en", "categoria": "cripto" }
+    {
+      "id": "fed",
+      "nome": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "ufficiale": true,
+      "lingua": "en",
+      "categoria": "macro",
+      "istituzionale": true
+    },
+    {
+      "id": "bce",
+      "nome": "Banca Centrale Europea",
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "ufficiale": true,
+      "lingua": "en",
+      "categoria": "macro",
+      "istituzionale": true
+    },
+    {
+      "id": "prnewswire",
+      "nome": "PR Newswire",
+      "url": "https://www.prnewswire.com/rss/financial-services-latest-news/financial-services-latest-news-list.rss",
+      "ufficiale": true,
+      "lingua": "en",
+      "categoria": "azioni"
+    },
+    {
+      "id": "ansa",
+      "nome": "ANSA Economia",
+      "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml",
+      "solo_verifica": true,
+      "lingua": "it",
+      "categoria": "macro"
+    },
+    {
+      "id": "sole24ore",
+      "nome": "Il Sole 24 Ore Finanza",
+      "url": "https://www.ilsole24ore.com/rss/finanza.xml",
+      "solo_verifica": true,
+      "lingua": "it",
+      "categoria": "azioni"
+    },
+    {
+      "id": "coindesk",
+      "nome": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "solo_verifica": true,
+      "lingua": "en",
+      "categoria": "cripto"
+    }
   ],
   "gdelt": [
-    { "id": "gdelt-mercati-en", "categoria": "azioni", "query": "(\"stock market\" OR \"wall street\" OR \"s&p 500\" OR nasdaq OR earnings OR \"federal reserve\" OR \"interest rates\" OR inflation) sourcelang:english" },
-    { "id": "gdelt-cripto-en", "categoria": "cripto", "query": "(bitcoin OR ethereum OR cryptocurrency OR \"crypto market\") sourcelang:english" },
-    { "id": "gdelt-mercati-it", "categoria": "macro", "query": "(borsa OR \"piazza affari\" OR \"ftse mib\" OR bce OR spread OR inflazione OR btp OR bitcoin) sourcelang:italian" }
+    {
+      "id": "gdelt-mercati-en",
+      "categoria": "azioni",
+      "query": "(\"stock market\" OR \"wall street\" OR \"s&p 500\" OR nasdaq OR earnings OR \"federal reserve\" OR \"interest rates\" OR inflation) sourcelang:english"
+    },
+    {
+      "id": "gdelt-cripto-en",
+      "categoria": "cripto",
+      "query": "(bitcoin OR ethereum OR cryptocurrency OR \"crypto market\") sourcelang:english"
+    },
+    {
+      "id": "gdelt-mercati-it",
+      "categoria": "macro",
+      "query": "(borsa OR \"piazza affari\" OR \"ftse mib\" OR bce OR spread OR inflazione OR btp OR bitcoin) sourcelang:italian"
+    }
   ],
-  "crypto_ids": ["bitcoin", "ethereum", "solana", "ripple", "binancecoin", "cardano", "dogecoin"],
-  "valute_bce": ["USD", "GBP", "JPY", "CHF", "CNY"]
+  "crypto_ids": [
+    "bitcoin",
+    "ethereum",
+    "solana",
+    "ripple",
+    "binancecoin",
+    "cardano",
+    "dogecoin"
+  ],
+  "valute_bce": [
+    "USD",
+    "GBP",
+    "JPY",
+    "CHF",
+    "CNY"
+  ]
 }

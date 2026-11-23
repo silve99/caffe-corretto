@@ -20,6 +20,7 @@ import re
 import sys
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -104,6 +105,7 @@ def leggi_rss(fonte: dict) -> list[dict]:
                 "fonte": fonte["id"],
                 "fonte_nome": fonte["nome"],
                 "ufficiale": bool(fonte.get("ufficiale")),
+                "istituzionale": bool(fonte.get("istituzionale")),
                 "solo_verifica": bool(fonte.get("solo_verifica")),
                 "lingua": fonte.get("lingua"),
                 "categoria": fonte.get("categoria"),
@@ -116,7 +118,15 @@ def leggi_gdelt(q: dict) -> list[dict]:
         "query": q["query"], "mode": "artlist", "format": "json",
         "maxrecords": "75", "timespan": "2h", "sort": "datedesc",
     })
-    dati = scarica_json("https://api.gdeltproject.org/api/v2/doc/doc?" + parametri)
+    url = "https://api.gdeltproject.org/api/v2/doc/doc?" + parametri
+    for tentativo in range(3):
+        try:
+            dati = scarica_json(url)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or tentativo == 2:
+                raise
+            time.sleep(20 * (tentativo + 1))  # GDELT limita le richieste: aspetta e riprova
     out = []
     for a in dati.get("articles", []):
         try:
@@ -130,6 +140,7 @@ def leggi_gdelt(q: dict) -> list[dict]:
             "fonte": "gdelt:" + a.get("domain", dominio(a["url"])),
             "fonte_nome": a.get("domain", dominio(a["url"])),
             "ufficiale": False,
+            "istituzionale": False,
             "solo_verifica": False,
             "lingua": {"English": "en", "Italian": "it"}.get(a.get("language", ""), a.get("language")),
             "categoria": q["categoria"],
@@ -196,7 +207,7 @@ def mercati(config: dict) -> dict:
 
 PESI = {
     # banche centrali e tassi
-    "fed": 4, "federal reserve": 5, "powell": 4, "fomc": 5, "bce": 5, "ecb": 5, "lagarde": 4,
+    "federal reserve": 5, "jerome powell": 4, "fed chair": 4, "fomc": 5, "bce": 5, "ecb": 5, "lagarde": 4,
     "tassi": 3, "rates": 3, "rate cut": 4, "rate hike": 4, "taglio dei tassi": 4,
     # macro
     "inflazione": 3, "inflation": 3, "cpi": 3, "pil": 3, "gdp": 3, "recession": 3, "recessione": 3,
@@ -244,6 +255,7 @@ def valuta(gruppo: dict, adesso: datetime) -> dict:
     notizie = gruppo["notizie"]
     domini = {dominio(n["url"]) for n in notizie}
     ufficiale = any(n["ufficiale"] for n in notizie)
+    istituzionale = any(n.get("istituzionale") for n in notizie)
     italiano = any(n.get("lingua") == "it" for n in notizie)
     date = [datetime.fromisoformat(n["pubblicato"]) for n in notizie if n.get("pubblicato")]
     ultima = max(date) if date else adesso
@@ -251,7 +263,8 @@ def valuta(gruppo: dict, adesso: datetime) -> dict:
     p_parole = punteggio_parole([n["titolo"] for n in notizie])
     punti = (
         min(10, 2 * (len(domini) - 1))   # più fonti indipendenti = più importante
-        + (6 if ufficiale else 0)
+        + (6 if istituzionale else 0)       # banche centrali: sempre rilevanti
+        + (1 if ufficiale and not istituzionale else 0)  # comunicato aziendale: verificato ma non per forza importante
         + p_parole
         + (2 if italiano else 0)
         - 0.2 * ore
@@ -313,7 +326,7 @@ def main() -> int:
             stato["fonti"][q["id"]] = {"ok": True, "voci": len(voci)}
         except Exception as e:  # noqa: BLE001
             stato["fonti"][q["id"]] = {"ok": False, "errore": str(e)[:200]}
-        time.sleep(6)  # GDELT chiede al massimo una richiesta ogni 5 secondi
+        time.sleep(10)  # GDELT chiede al massimo una richiesta ogni 5 secondi (teniamo margine)
 
     # archivio del giorno (ora italiana), senza doppioni per URL
     file_oggi = out / "notizie" / f"{oggi.isoformat()}.json"
