@@ -85,7 +85,18 @@ In `fonti` elenca **tutte** le fonti dei fatti citati (link originali). Per i da
 - [ ] Titolo ≤ 65 caratteri, descrizione 140–160.
 - [ ] `npm run build` passa senza errori.
 
-## 6. Consegna
+## 6. Revisione e pubblicazione (automatica)
 
-Prime settimane (revisione di Daniele): crea un branch `caffe-AAAA-MM-GG`, fai commit degli articoli e apri una pull request
-"Il caffè del GG/MM". Cloudflare crea un'anteprima: Daniele la guarda e, se va bene, preme Merge → l'articolo va online.
+Daniele ha deciso (23/11/2026) che Claude revisiona e pubblica da solo: alle 05:20 lui non può approvare.
+
+1. Crea il branch `caffe-AAAA-MM-GG`, fai commit degli articoli e apri una pull request "Il caffè del GG/MM".
+2. **Revisione**: rileggi ogni articolo da capo come un caporedattore severo, con i dati sotto mano:
+   - ogni numero confrontato uno per uno con `mercati/ultimo.json` o con il titolo della fonte citata;
+   - ogni fatto presente in una fonte verificata dell'elenco `fonti`;
+   - nessuna parola vietata, nessun consiglio di investimento, disclaimer intatto;
+   - titolo e descrizione nelle lunghezze, stile accattivante come da sezione 2;
+   - `npm run build` senza errori.
+   Correggi quello che non va e annota le correzioni nella descrizione della pull request.
+3. **Se tutto è a posto**, unisci la pull request (squash) entro le 06:15: Cloudflare pubblica in 1–2 minuti.
+4. **Se resta un dubbio serio** (un numero che non torna, un fatto con una sola fonte non ufficiale), togli quel pezzo e pubblica il resto. Se non resta nulla di pubblicabile, non unire: lascia la pull request aperta con il motivo, Daniele la vedrà.
+5. Dopo l'unione controlla che `https://caffe-corretto.pages.dev/` mostri il nuovo caffè (se il sito è raggiungibile).
