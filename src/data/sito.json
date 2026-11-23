@@ -1,15 +1,6 @@
 {
   "nome": "Caffè Corretto",
   "sottotitolo": "I mercati prima del caffè",
-  "descrizione": "Ogni mattina alle 06:30 le notizie che contano su borse, cripto ed economia, spiegate in modo semplice per chi risparmia e investe.",
-  "emailContatti": "caffecorretto.redazione@gmail.com",
-  "social": {
-    "instagram": "",
-    "facebook": "",
-    "x": "",
-    "telegram": "",
-    "linkedin": "",
-    "youtube": "",
-    "tiktok": ""
-  }
+  "descrizione": "Ogni mattina alle 06:30 le notizie che contano su finanza, cripto ed economia, spiegate in modo semplice per chi risparmia e investe.",
+  "emailContatti": "caffecorretto.redazione@gmail.com"
 }
