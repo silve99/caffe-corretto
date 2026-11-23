@@ -113,39 +113,64 @@ def leggi_rss(fonte: dict) -> list[dict]:
     return out
 
 
-def leggi_gdelt(q: dict) -> list[dict]:
-    parametri = urllib.parse.urlencode({
-        "query": q["query"], "mode": "artlist", "format": "json",
-        "maxrecords": "75", "timespan": "2h", "sort": "datedesc",
-    })
-    url = "https://api.gdeltproject.org/api/v2/doc/doc?" + parametri
-    for tentativo in range(3):
-        try:
-            dati = scarica_json(url)
-            break
-        except urllib.error.HTTPError as e:
-            if e.code != 429 or tentativo == 2:
-                raise
-            time.sleep(20 * (tentativo + 1))  # GDELT limita le richieste: aspetta e riprova
+GKG_BASE = "http://data.gdeltproject.org/gdeltv2/"
+
+
+def file_gkg_recenti(quanti: int, tradotti: bool) -> list[str]:
+    """Nomi dei file GKG degli ultimi `quanti` quarti d'ora (GDELT ne pubblica uno ogni 15 minuti)."""
+    suffisso = ".translation.gkg.csv.zip" if tradotti else ".gkg.csv.zip"
+    indice = "lastupdate-translation.txt" if tradotti else "lastupdate.txt"
+    testo = scarica(GKG_BASE + indice).decode()
+    ultimo = next(l.split()[-1] for l in testo.splitlines() if l.endswith(suffisso))
+    t = datetime.strptime(ultimo.rsplit("/", 1)[1][:14], "%Y%m%d%H%M%S")
+    return [f"{GKG_BASE}{(t - timedelta(minutes=15 * i)).strftime('%Y%m%d%H%M%S')}{suffisso}" for i in range(quanti)]
+
+
+def leggi_gdelt_gkg(cfg: dict, tradotti: bool) -> list[dict]:
+    """Legge i file GKG di GDELT (file statici, senza limiti di richieste come l'API DOC).
+
+    Tiene solo gli articoli di testate in `cfg["domini"]` che toccano temi economici
+    o hanno parole chiave finanziarie nel titolo.
+    """
+    import csv, io, zipfile
+    csv.field_size_limit(10**8)
+    temi = tuple(cfg["temi"])
+    domini = {d: n for d, n in cfg["domini"].items()}
     out = []
-    for a in dati.get("articles", []):
+    for url in file_gkg_recenti(cfg.get("quarti_d_ora", 3), tradotti):
         try:
-            data = datetime.strptime(a["seendate"], "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc).isoformat()
-        except Exception:
-            data = None
-        out.append({
-            "titolo": (a.get("title") or "").strip(),
-            "url": a["url"],
-            "pubblicato": data,
-            "fonte": "gdelt:" + a.get("domain", dominio(a["url"])),
-            "fonte_nome": a.get("domain", dominio(a["url"])),
-            "ufficiale": False,
-            "istituzionale": False,
-            "solo_verifica": False,
-            "lingua": {"English": "en", "Italian": "it"}.get(a.get("language", ""), a.get("language")),
-            "categoria": q["categoria"],
-            "via": "GDELT",
-        })
+            zipdati = scarica(url, timeout=60)
+        except urllib.error.HTTPError as e:
+            if e.code == 404:
+                continue
+            raise
+        with zipfile.ZipFile(io.BytesIO(zipdati)) as z:
+            testo = z.read(z.namelist()[0]).decode("utf-8", "replace")
+        for riga in csv.reader(io.StringIO(testo), delimiter="\t", quoting=csv.QUOTE_NONE):
+            if len(riga) < 27:
+                continue
+            dom = (riga[3] or "").lower().removeprefix("www.")
+            nome = domini.get(dom)
+            if not nome:
+                continue
+            m = re.search(r"<PAGE_TITLE>(.*?)</PAGE_TITLE>", riga[26])
+            titolo = (m.group(1).strip() if m else "")
+            if not titolo:
+                continue
+            temi_riga = riga[7] + ";" + riga[8]
+            if not any(t in temi_riga for t in temi) and punteggio_parole([titolo]) == 0:
+                continue
+            try:
+                data = datetime.strptime(riga[1], "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc).isoformat()
+            except ValueError:
+                data = None
+            lingua = "it" if dom.endswith(".it") or "srclc:ita" in riga[25] else "en"
+            out.append({
+                "titolo": titolo, "url": riga[4], "pubblicato": data,
+                "fonte": "gdelt:" + dom, "fonte_nome": nome,
+                "ufficiale": False, "istituzionale": False, "solo_verifica": False,
+                "lingua": lingua, "categoria": None, "via": "GDELT",
+            })
     return out
 
 
@@ -207,7 +232,7 @@ def mercati(config: dict) -> dict:
 
 PESI = {
     # banche centrali e tassi
-    "federal reserve": 5, "jerome powell": 4, "fed chair": 4, "fomc": 5, "bce": 5, "ecb": 5, "lagarde": 4,
+    "fed": 3, "federal reserve": 5, "jerome powell": 4, "fed chair": 4, "fomc": 5, "bce": 5, "ecb": 5, "lagarde": 4,
     "tassi": 3, "rates": 3, "rate cut": 4, "rate hike": 4, "taglio dei tassi": 4,
     # macro
     "inflazione": 3, "inflation": 3, "cpi": 3, "pil": 3, "gdp": 3, "recession": 3, "recessione": 3,
@@ -319,14 +344,14 @@ def main() -> int:
             stato["fonti"][f["id"]] = {"ok": True, "voci": len(voci)}
         except Exception as e:  # noqa: BLE001
             stato["fonti"][f["id"]] = {"ok": False, "errore": str(e)[:200]}
-    for q in config["gdelt"]:
+    for tradotti in (False, True):
+        chiave = "gdelt-traduzioni" if tradotti else "gdelt"
         try:
-            voci = leggi_gdelt(q)
+            voci = leggi_gdelt_gkg(config["gdelt"], tradotti)
             nuove += voci
-            stato["fonti"][q["id"]] = {"ok": True, "voci": len(voci)}
+            stato["fonti"][chiave] = {"ok": True, "voci": len(voci)}
         except Exception as e:  # noqa: BLE001
-            stato["fonti"][q["id"]] = {"ok": False, "errore": str(e)[:200]}
-        time.sleep(10)  # GDELT chiede al massimo una richiesta ogni 5 secondi (teniamo margine)
+            stato["fonti"][chiave] = {"ok": False, "errore": str(e)[:200]}
 
     # archivio del giorno (ora italiana), senza doppioni per URL
     file_oggi = out / "notizie" / f"{oggi.isoformat()}.json"

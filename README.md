@@ -25,7 +25,7 @@ Con `bozza: true` l'articolo resta nel repository ma non viene pubblicato.
 ## Raccolta notizie
 
 `raccolta/raccogli.py` gira ogni 30 minuti con GitHub Actions (`.github/workflows/raccolta.yml`).
-Prende titoli e link da fonti gratuite (`raccolta/fonti.json`), toglie i doppioni, raggruppa le notizie
+Prende titoli e link da fonti gratuite (RSS e file GKG di GDELT, filtrati per testate e temi economici) (`raccolta/fonti.json`), toglie i doppioni, raggruppa le notizie
 uguali, assegna un punteggio e salva tutto nel branch **`dati`**:
 
 - `notizie/AAAA-MM-GG.json`: tutte le notizie del giorno (ora italiana)
