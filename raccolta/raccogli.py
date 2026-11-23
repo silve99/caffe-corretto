@@ -14,6 +14,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import html
 import json
 import os
 import re
@@ -137,6 +138,7 @@ def leggi_gdelt_gkg(cfg: dict, tradotti: bool) -> list[dict]:
     temi = tuple(cfg["temi"])
     domini = {d: n for d, n in cfg["domini"].items()}
     out = []
+    conta = {"righe": 0, "testata_in_elenco": 0, "senza_titolo": 0, "altre_testate": 0}
     for url in file_gkg_recenti(cfg.get("quarti_d_ora", 3), tradotti):
         try:
             zipdati = scarica(url, timeout=60)
@@ -149,16 +151,26 @@ def leggi_gdelt_gkg(cfg: dict, tradotti: bool) -> list[dict]:
         for riga in csv.reader(io.StringIO(testo), delimiter="\t", quoting=csv.QUOTE_NONE):
             if len(riga) < 27:
                 continue
+            conta["righe"] += 1
             dom = (riga[3] or "").lower().removeprefix("www.")
             nome = domini.get(dom)
-            if not nome:
-                continue
             m = re.search(r"<PAGE_TITLE>(.*?)</PAGE_TITLE>", riga[26])
-            titolo = (m.group(1).strip() if m else "")
+            titolo = html.unescape(m.group(1)).strip() if m else ""
             if not titolo:
+                conta["senza_titolo"] += 1
                 continue
             temi_riga = riga[7] + ";" + riga[8]
-            if not any(t in temi_riga for t in temi) and punteggio_parole([titolo]) == 0:
+            tema = any(t in temi_riga for t in temi)
+            peso = punteggio_parole([titolo])
+            if nome:
+                conta["testata_in_elenco"] += 1
+                if not tema and peso == 0:
+                    continue
+            elif tema and peso >= cfg.get("soglia_altre_testate", 4):
+                # testata non in elenco: la teniamo solo se il tema è economico e il titolo è molto rilevante
+                conta["altre_testate"] += 1
+                nome = dom
+            else:
                 continue
             try:
                 data = datetime.strptime(riga[1], "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc).isoformat()
@@ -170,7 +182,9 @@ def leggi_gdelt_gkg(cfg: dict, tradotti: bool) -> list[dict]:
                 "fonte": "gdelt:" + dom, "fonte_nome": nome,
                 "ufficiale": False, "istituzionale": False, "solo_verifica": False,
                 "lingua": lingua, "categoria": None, "via": "GDELT",
+                "in_elenco": nome != dom,
             })
+    print(f"  GDELT {'tradotti' if tradotti else 'inglese'}: {conta}")
     return out
 
 
