@@ -74,6 +74,9 @@ const anno = new Date().getFullYear();
             {SOCIAL.map((s) => <a href={s.url} rel="noopener me">{s.nome}</a>)}
           </nav>
         )}
+        {SITO.emailContatti && (
+          <p class="copy">Scrivi alla redazione: <a href={`mailto:${SITO.emailContatti}`}>{SITO.emailContatti}</a></p>
+        )}
         <p class="copy">© {anno} {SITO.nome}</p>
       </div>
     </footer>
