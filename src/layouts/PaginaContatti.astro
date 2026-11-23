@@ -1,0 +1,26 @@
+---
+import Base from './Base.astro';
+import { SITO, SOCIAL } from '../config';
+interface Props { titolo: string; descrizione: string }
+const { titolo, descrizione } = Astro.props;
+---
+<Base titolo={titolo} descrizione={descrizione}>
+  <article class="testo">
+    <h1>{titolo}</h1>
+    <slot />
+    {SITO.emailContatti && (
+      <p><strong>Email:</strong> <a href={`mailto:${SITO.emailContatti}`}>{SITO.emailContatti}</a></p>
+    )}
+    {SOCIAL.length > 0 && (
+      <>
+        <h2>Seguici</h2>
+        <ul>
+          {SOCIAL.map((s) => <li><a href={s.url} rel="noopener me">{s.nome}</a></li>)}
+        </ul>
+      </>
+    )}
+    {!SITO.emailContatti && SOCIAL.length === 0 && (
+      <p>I contatti saranno disponibili a breve.</p>
+    )}
+  </article>
+</Base>

@@ -1,0 +1,138 @@
+# Configurazione del pannello Pages CMS (https://app.pagescms.org).
+# Dice al pannello quali file si possono modificare e con quali campi.
+media:
+  input: public/immagini
+  output: /immagini
+  categories: [image]
+  rename: safe
+
+settings:
+  content:
+    merge: true   # conserva i campi che il pannello non mostra
+
+content:
+  - name: sito
+    label: Dati del sito e contatti
+    type: file
+    path: src/data/sito.json
+    format: json
+    fields:
+      - name: nome
+        label: Nome del blog
+        type: string
+        required: true
+      - name: sottotitolo
+        label: Sottotitolo (sotto il nome in alto)
+        type: string
+      - name: descrizione
+        label: Descrizione del sito (Google e home page)
+        type: text
+        options: { maxlength: 170 }
+      - name: emailContatti
+        label: Email di contatto
+        description: Compare nella pagina Contatti. Lascia vuoto per nasconderla.
+        type: string
+      - name: social
+        label: Profili social
+        description: Incolla l'indirizzo completo (https://...). I campi vuoti non compaiono sul sito.
+        type: object
+        fields:
+          - { name: instagram, label: Instagram, type: string }
+          - { name: facebook, label: Facebook, type: string }
+          - { name: x, label: X (Twitter), type: string }
+          - { name: telegram, label: Telegram, type: string }
+          - { name: linkedin, label: LinkedIn, type: string }
+          - { name: youtube, label: YouTube, type: string }
+          - { name: tiktok, label: TikTok, type: string }
+
+  - name: pagine
+    label: Pagine (chi siamo, contatti, legali)
+    type: collection
+    path: src/pages
+    subfolders: false
+    exclude: [404.astro, index.astro, rss.xml.ts]
+    view:
+      primary: titolo
+      fields: [titolo]
+    fields:
+      - name: layout
+        type: string
+        hidden: true
+        default: ../layouts/Pagina.astro
+      - name: titolo
+        label: Titolo
+        type: string
+        required: true
+      - name: descrizione
+        label: Descrizione per Google
+        type: text
+        options: { maxlength: 170 }
+      - name: body
+        label: Testo
+        type: rich-text
+        options: { format: markdown }
+
+  - name: articoli
+    label: Articoli
+    type: collection
+    path: src/content/articoli
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      primary: titolo
+      fields: [titolo, data, tipo, bozza]
+      sort: data
+      order: desc
+    fields:
+      - name: titolo
+        label: Titolo
+        type: string
+        required: true
+        options: { maxlength: 110 }
+      - name: descrizione
+        label: Descrizione per Google (massimo 170 caratteri)
+        type: text
+        required: true
+        options: { maxlength: 170 }
+      - name: data
+        label: Data e ora di pubblicazione
+        type: date
+        required: true
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+      - name: tipo
+        label: Tipo
+        type: select
+        default: breve
+        options:
+          values:
+            - { name: riepilogo, label: Riepilogo del mattino }
+            - { name: breve, label: Notizia breve }
+            - { name: settimanale, label: Riepilogo settimanale }
+      - name: categorie
+        label: Categorie
+        type: select
+        options:
+          multiple: true
+          values:
+            - { name: azioni, label: Azioni }
+            - { name: cripto, label: Cripto }
+            - { name: macro, label: Macroeconomia }
+            - { name: valute, label: Valute }
+            - { name: materie-prime, label: Materie prime }
+      - name: fonti
+        label: Fonti
+        type: object
+        list: true
+        fields:
+          - { name: nome, label: Nome della fonte, type: string, required: true }
+          - { name: url, label: Indirizzo (https://...), type: string, required: true }
+      - name: bozza
+        label: Bozza (se attivo, l'articolo NON compare sul sito)
+        type: boolean
+        default: false
+      - name: body
+        label: Testo dell'articolo
+        description: Gli articoli con tabelle si modificano meglio in modalità Source.
+        type: rich-text
+        options: { format: markdown }
