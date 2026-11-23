@@ -68,11 +68,12 @@ def parole(titolo: str) -> set[str]:
 def url_canonico(url: str) -> str:
     p = urllib.parse.urlsplit(url.strip())
     q = [(k, v) for k, v in urllib.parse.parse_qsl(p.query) if not k.lower().startswith(("utm_", "fbclid", "gclid"))]
-    return urllib.parse.urlunsplit((p.scheme.lower(), p.netloc.lower().removeprefix("www."), p.path.rstrip("/"), urllib.parse.urlencode(q), ""))
+    host = re.sub(r":(80|443)$", "", p.netloc.lower()).removeprefix("www.")
+    return urllib.parse.urlunsplit((p.scheme.lower(), host, p.path.rstrip("/"), urllib.parse.urlencode(q), ""))
 
 
 def dominio(url: str) -> str:
-    return urllib.parse.urlsplit(url).netloc.lower().removeprefix("www.")
+    return re.sub(r":\d+$", "", urllib.parse.urlsplit(url).netloc.lower()).removeprefix("www.")
 
 
 def id_notizia(url: str) -> str:
