@@ -1,0 +1,74 @@
+---
+import { SITO } from '../config';
+import '../styles/global.css';
+
+interface Props {
+  titolo?: string;
+  descrizione?: string;
+  tipoOg?: 'website' | 'article';
+  jsonLd?: Record<string, unknown>;
+  noindex?: boolean;
+}
+const { titolo, descrizione = SITO.descrizione, tipoOg = 'website', jsonLd, noindex = false } = Astro.props;
+const titoloCompleto = titolo ? `${titolo} | ${SITO.nome}` : `${SITO.nome}: ${SITO.sottotitolo.toLowerCase()}`;
+const canonico = new URL(Astro.url.pathname, Astro.site);
+const anno = new Date().getFullYear();
+---
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{titoloCompleto}</title>
+    <meta name="description" content={descrizione} />
+    <link rel="canonical" href={canonico} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <meta property="og:site_name" content={SITO.nome} />
+    <meta property="og:locale" content="it_IT" />
+    <meta property="og:type" content={tipoOg} />
+    <meta property="og:title" content={titolo ?? SITO.nome} />
+    <meta property="og:description" content={descrizione} />
+    <meta property="og:url" content={canonico} />
+    <meta name="twitter:card" content="summary" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title={SITO.nome} href="/rss.xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
+  </head>
+  <body>
+    <header class="testata">
+      <div class="contenitore testata-riga">
+        <a href="/" class="marchio">
+          <span class="tazza" aria-hidden="true">☕</span>
+          <span>
+            <strong>{SITO.nome}</strong>
+            <small>{SITO.sottotitolo}</small>
+          </span>
+        </a>
+        <nav aria-label="Principale">
+          <a href="/articoli/">Archivio</a>
+          <a href="/chi-siamo/">Chi siamo</a>
+        </nav>
+      </div>
+    </header>
+    <main class="contenitore">
+      <slot />
+    </main>
+    <footer class="piede">
+      <div class="contenitore">
+        <p class="avviso">
+          I contenuti di {SITO.nome} hanno solo scopo informativo e non costituiscono consulenza finanziaria
+          né sollecitazione all'investimento. <a href="/disclaimer/">Leggi il disclaimer</a>.
+        </p>
+        <nav aria-label="Note legali">
+          <a href="/chi-siamo/">Chi siamo</a>
+          <a href="/come-lavoriamo/">Come lavoriamo</a>
+          <a href="/disclaimer/">Disclaimer</a>
+          <a href="/privacy/">Privacy e cookie</a>
+          <a href="/rss.xml">RSS</a>
+        </nav>
+        <p class="copy">© {anno} {SITO.nome}</p>
+      </div>
+    </footer>
+  </body>
+</html>

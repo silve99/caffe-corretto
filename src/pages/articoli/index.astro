@@ -1,0 +1,12 @@
+---
+import Base from '../../layouts/Base.astro';
+import SchedaArticolo from '../../components/SchedaArticolo.astro';
+import { articoliPubblicati } from '../../lib/articoli';
+const tutti = await articoliPubblicati();
+---
+<Base titolo="Archivio" descrizione="Tutti gli articoli di Caffè Corretto su borse, cripto ed economia.">
+  <h1>Archivio</h1>
+  {tutti.length === 0 ? <p class="vuoto">Ancora nessun articolo.</p> : (
+    <ul class="lista">{tutti.map((a) => <SchedaArticolo articolo={a} />)}</ul>
+  )}
+</Base>

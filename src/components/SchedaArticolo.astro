@@ -1,0 +1,14 @@
+---
+import type { Articolo } from '../lib/articoli';
+import { formatoData, etichettaTipo } from '../lib/articoli';
+interface Props { articolo: Articolo; evidenza?: boolean }
+const { articolo, evidenza = false } = Astro.props;
+const { titolo, descrizione, data, tipo } = articolo.data;
+const Tag = evidenza ? 'h2' : 'h3';
+---
+<li class:list={['scheda', { 'in-evidenza': evidenza }]}>
+  <div class="occhiello">{etichettaTipo[tipo] ?? tipo}</div>
+  <Tag><a href={`/articoli/${articolo.id}/`}>{titolo}</a></Tag>
+  <p>{descrizione}</p>
+  <p class="meta"><time datetime={data.toISOString()}>{formatoData(data)}</time></p>
+</li>

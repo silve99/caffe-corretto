@@ -1,0 +1,29 @@
+---
+import Base from '../layouts/Base.astro';
+import SchedaArticolo from '../components/SchedaArticolo.astro';
+import { articoliPubblicati } from '../lib/articoli';
+import { SITO } from '../config';
+
+const tutti = await articoliPubblicati();
+const ultimoRiepilogo = tutti.find((a) => a.data.tipo === 'riepilogo' || a.data.tipo === 'settimanale');
+const altri = tutti.filter((a) => a !== ultimoRiepilogo).slice(0, 12);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: SITO.nome,
+  description: SITO.descrizione,
+  inLanguage: SITO.lingua,
+  url: Astro.site?.toString(),
+};
+---
+<Base jsonLd={jsonLd}>
+  <p class="meta">{SITO.descrizione}</p>
+  {tutti.length === 0 && (
+    <p class="vuoto">Il primo caffè è in preparazione: torna domani mattina alle 06:30.</p>
+  )}
+  <ul class="lista">
+    {ultimoRiepilogo && <SchedaArticolo articolo={ultimoRiepilogo} evidenza />}
+    {altri.map((a) => <SchedaArticolo articolo={a} />)}
+  </ul>
+  {tutti.length > 13 && <p><a href="/articoli/">Tutti gli articoli →</a></p>}
+</Base>

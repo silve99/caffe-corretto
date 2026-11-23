@@ -1,0 +1,47 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { articoliPubblicati, formatoData, etichettaTipo, type Articolo } from '../../lib/articoli';
+import { SITO } from '../../config';
+
+export async function getStaticPaths() {
+  const tutti = await articoliPubblicati();
+  return tutti.map((articolo) => ({ params: { id: articolo.id }, props: { articolo } }));
+}
+const { articolo } = Astro.props as { articolo: Articolo };
+const { titolo, descrizione, data, tipo, fonti } = articolo.data;
+const { Content } = await render(articolo);
+const url = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'NewsArticle',
+  headline: titolo,
+  description: descrizione,
+  datePublished: data.toISOString(),
+  dateModified: data.toISOString(),
+  inLanguage: SITO.lingua,
+  mainEntityOfPage: url,
+  author: { '@type': 'Organization', name: 'Redazione ' + SITO.nome, url: new URL('/chi-siamo/', Astro.site).toString() },
+  publisher: { '@type': 'Organization', name: SITO.nome },
+};
+---
+<Base titolo={titolo} descrizione={descrizione} tipoOg="article" jsonLd={jsonLd}>
+  <article class="testo">
+    <div class="occhiello">{etichettaTipo[tipo] ?? tipo}</div>
+    <h1>{titolo}</h1>
+    <p class="meta">
+      <time datetime={data.toISOString()}>{formatoData(data)}</time> · Redazione {SITO.nome}
+    </p>
+    <Content />
+    {fonti.length > 0 && (
+      <section class="fonti">
+        <strong>Fonti</strong>
+        <ul>{fonti.map((f) => <li><a href={f.url} rel="nofollow noopener" target="_blank">{f.nome}</a></li>)}</ul>
+      </section>
+    )}
+    <p class="fonti">
+      Questo articolo è preparato con l'aiuto dell'intelligenza artificiale a partire da fonti pubbliche
+      e ha solo scopo informativo: non è una consulenza finanziaria. <a href="/come-lavoriamo/">Come lavoriamo</a>.
+    </p>
+  </article>
+</Base>
