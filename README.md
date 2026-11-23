@@ -34,3 +34,10 @@ uguali, assegna un punteggio e salva tutto nel branch **`dati`**:
 - `stato.json`: esito dell'ultima raccolta fonte per fonte
 
 Serve il secret `COINGECKO_API_KEY` (Settings → Secrets and variables → Actions).
+
+## Pannello di modifica (Pages CMS)
+
+Il file `.pages.yml` configura il pannello gratuito [Pages CMS](https://app.pagescms.org):
+si entra con l'account GitHub e si modificano articoli, pagine (chi siamo, contatti, legali)
+e i dati del sito (`src/data/sito.json`: nome, descrizione, email, social). Ogni salvataggio
+è un commit su `main` e Cloudflare Pages ripubblica il sito in un paio di minuti.
