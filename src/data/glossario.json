@@ -324,6 +324,36 @@
       "id": "punti-base",
       "termine": "Punti base",
       "spiegazione": "Unità di misura dei tassi: 100 punti base equivalgono a un punto percentuale (1%)."
+    },
+    {
+      "id": "fondo-pensione",
+      "termine": "Fondo pensione",
+      "spiegazione": "Forma di risparmio per la vecchiaia che si aggiunge alla pensione pubblica, con vantaggi fiscali. I soldi restano vincolati fino alla pensione, salvo eccezioni."
+    },
+    {
+      "id": "irpef",
+      "termine": "IRPEF",
+      "spiegazione": "Imposta sul reddito delle persone fisiche: la principale tassa su stipendi, pensioni e redditi da lavoro, con aliquote che crescono per scaglioni."
+    },
+    {
+      "id": "tfr",
+      "termine": "TFR",
+      "spiegazione": "Trattamento di fine rapporto: la liquidazione. Ogni anno si accantona circa una mensilità di stipendio, che si riceve a fine lavoro o va in un fondo pensione."
+    },
+    {
+      "id": "redditi-diversi",
+      "termine": "Redditi diversi",
+      "spiegazione": "Per il fisco, i guadagni da vendita di titoli (plusvalenze) e le relative perdite. Solo tra redditi diversi si possono compensare le minusvalenze."
+    },
+    {
+      "id": "ivafe",
+      "termine": "IVAFE",
+      "spiegazione": "Imposta sul valore delle attività finanziarie detenute all'estero senza intermediario italiano: 0,2% all'anno, da pagare con la dichiarazione dei redditi."
+    },
+    {
+      "id": "irs",
+      "termine": "IRS (Eurirs)",
+      "spiegazione": "Tasso di riferimento per i mutui a tasso fisso: riflette quanto il mercato si aspetta che costi il denaro negli anni futuri."
     }
   ]
 }
