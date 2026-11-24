@@ -20,7 +20,7 @@ Le Borse fanno festa, Bitcoin no. Mentre Tokyo apre a +3,05% (ANSA) sull'onda de
 
 ## I numeri
 
-Secondo CoinGecko, alle 04:16 un Bitcoin vale 54.629 €, in calo dell'1,69% in 24 ore. Ieri alle 18:02 ne servivano 57.059. Ethereum scende dell'1,92% a 1.534,65 €.
+Secondo CoinGecko, alle 05:16 un Bitcoin vale 54.629 €, in calo dell'1,69% in 24 ore. Ieri alle 18:02 ne servivano 57.059. Ethereum scende dell'1,92% a 1.534,65 €.
 
 L'intero mercato delle cripto perde il 2,18% e vale oltre 1.900 miliardi di euro. Bitcoin da solo pesa per il 57,7% del totale.
 

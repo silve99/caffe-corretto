@@ -12,6 +12,8 @@ Tutto è nel branch `dati` del repository (aggiornato ogni 30 minuti):
 - `mercati/ultimo.json`: cambi di riferimento BCE e prezzi cripto CoinGecko. **Sono gli unici numeri di mercato "ufficiali" che abbiamo.**
 - `notizie/AAAA-MM-GG.json`: tutte le notizie raccolte, per cercare conferme.
 
+**Orari**: tutti gli orari nei file di dati sono in UTC (finiscono con `+00:00`). Negli articoli scrivi sempre l'ora italiana (Europe/Rome): d'inverno UTC+1, d'estate UTC+2. Il campo `aggiornato_roma` di `mercati/ultimo.json` è già convertito.
+
 Regole sui fatti (non si derogano):
 
 1. Scrivi solo fatti **verificati**. Lo stesso fatto può comparire in più gruppi (lingue diverse): uniscili tu e conta le testate.
