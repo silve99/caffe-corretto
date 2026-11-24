@@ -53,6 +53,22 @@ content:
           - { name: sottotitolo, label: Sottotitolo, type: string }
           - { name: descrizione, label: Descrizione per Google, type: text, options: { maxlength: 170 } }
 
+  - name: glossario
+    label: Glossario (spiegazioni dei termini)
+    type: file
+    path: src/data/glossario.json
+    format: json
+    fields:
+      - name: termini
+        label: Termini
+        description: Nei testi si usa così: [cedola](/glossario/cedola/), dove "cedola" è il codice qui sotto.
+        type: object
+        list: true
+        fields:
+          - { name: id, label: Codice (minuscole e trattini, non cambiarlo se è già usato), type: string, required: true }
+          - { name: termine, label: Termine, type: string, required: true }
+          - { name: spiegazione, label: Spiegazione (1-2 frasi), type: text, required: true, options: { maxlength: 200 } }
+
   - name: pagine
     label: Pagine (chi siamo, contatti, legali)
     type: collection

@@ -1,0 +1,299 @@
+{
+  "termini": [
+    {
+      "id": "accumulazione",
+      "termine": "Accumulazione",
+      "spiegazione": "ETF o fondo che reinveste da solo i dividendi incassati, invece di pagarli a chi lo possiede."
+    },
+    {
+      "id": "asta",
+      "termine": "Asta (titoli di Stato)",
+      "spiegazione": "Vendita periodica con cui il Ministero dell'Economia colloca i nuovi titoli di Stato: il prezzo si forma in base alle richieste."
+    },
+    {
+      "id": "azione",
+      "termine": "Azione",
+      "spiegazione": "Una piccola quota di proprietà di una società. Chi la possiede partecipa ai guadagni (dividendi) e ai rischi dell'azienda."
+    },
+    {
+      "id": "bce",
+      "termine": "BCE",
+      "spiegazione": "Banca Centrale Europea: decide i tassi d'interesse per i paesi dell'euro, con l'obiettivo di tenere l'inflazione vicina al 2%."
+    },
+    {
+      "id": "bitcoin",
+      "termine": "Bitcoin",
+      "spiegazione": "La prima criptovaluta, nata nel 2009: una moneta digitale che funziona senza banche, grazie a una rete di computer."
+    },
+    {
+      "id": "blockchain",
+      "termine": "Blockchain",
+      "spiegazione": "Registro digitale pubblico, copiato su migliaia di computer, in cui si scrivono le transazioni in blocchi collegati tra loro."
+    },
+    {
+      "id": "bollo",
+      "termine": "Imposta di bollo",
+      "spiegazione": "Tassa annua dello 0,2% sul valore degli investimenti nel conto titoli (per i conti correnti c'è un importo fisso)."
+    },
+    {
+      "id": "bot",
+      "termine": "BOT",
+      "spiegazione": "Buono Ordinario del Tesoro: titolo di Stato che dura al massimo un anno. Non paga cedole: guadagni la differenza tra prezzo d'acquisto e rimborso."
+    },
+    {
+      "id": "broker",
+      "termine": "Broker",
+      "spiegazione": "Intermediario autorizzato (banca o piattaforma online) che esegue per te gli ordini di acquisto e vendita in Borsa."
+    },
+    {
+      "id": "btp",
+      "termine": "BTP",
+      "spiegazione": "Buono del Tesoro Poliennale: un prestito di più anni allo Stato italiano, che ti paga un interesse (cedola) ogni sei mesi."
+    },
+    {
+      "id": "capitalizzazione",
+      "termine": "Capitalizzazione",
+      "spiegazione": "Il valore totale di una società in Borsa: prezzo di un'azione moltiplicato per il numero di azioni."
+    },
+    {
+      "id": "cct",
+      "termine": "CCT",
+      "spiegazione": "Certificato di Credito del Tesoro: titolo di Stato con cedola variabile, che segue l'andamento dei tassi di mercato."
+    },
+    {
+      "id": "cedola",
+      "termine": "Cedola",
+      "spiegazione": "L'interesse che un'obbligazione o un BTP ti paga a scadenze fisse, per esempio ogni sei mesi."
+    },
+    {
+      "id": "chiavi-private",
+      "termine": "Chiave privata",
+      "spiegazione": "Il codice segreto che dà accesso alle tue cripto. Chi lo possiede controlla le monete: se lo perdi, le perdi."
+    },
+    {
+      "id": "collocamento",
+      "termine": "Collocamento",
+      "spiegazione": "Periodo di alcuni giorni in cui un nuovo titolo si può sottoscrivere direttamente, per esempio dall'home banking."
+    },
+    {
+      "id": "conto-titoli",
+      "termine": "Conto titoli",
+      "spiegazione": "Il \"contenitore\" presso banca o broker dove vengono custoditi azioni, ETF e obbligazioni che compri. È collegato al conto corrente."
+    },
+    {
+      "id": "criptovaluta",
+      "termine": "Criptovaluta",
+      "spiegazione": "Moneta digitale che usa la crittografia e una blockchain per funzionare senza una banca centrale."
+    },
+    {
+      "id": "distribuzione",
+      "termine": "Distribuzione",
+      "spiegazione": "ETF o fondo che paga periodicamente a chi lo possiede i dividendi incassati, accreditandoli sul conto."
+    },
+    {
+      "id": "dividendo",
+      "termine": "Dividendo",
+      "spiegazione": "La parte degli utili che una società distribuisce ai suoi azionisti, di solito una o più volte all'anno."
+    },
+    {
+      "id": "etf",
+      "termine": "ETF",
+      "spiegazione": "Exchange Traded Fund: un fondo che si compra e vende in Borsa come un'azione e di solito copia un indice."
+    },
+    {
+      "id": "etp",
+      "termine": "ETP / ETN",
+      "spiegazione": "Strumenti quotati in Borsa che replicano il prezzo di un bene, per esempio una criptovaluta. Si comprano con un normale conto titoli."
+    },
+    {
+      "id": "exchange",
+      "termine": "Exchange",
+      "spiegazione": "Piattaforma online dove si comprano e vendono criptovalute in cambio di euro o di altre cripto."
+    },
+    {
+      "id": "fed",
+      "termine": "Fed",
+      "spiegazione": "Federal Reserve: la banca centrale degli Stati Uniti. Le sue decisioni sui tassi muovono i mercati di tutto il mondo."
+    },
+    {
+      "id": "ftse-mib",
+      "termine": "FTSE MIB",
+      "spiegazione": "Il principale indice della Borsa di Milano: raccoglie le 40 società italiane più grandi e scambiate."
+    },
+    {
+      "id": "halving",
+      "termine": "Halving",
+      "spiegazione": "Il \"dimezzamento\" della ricompensa per chi crea nuovi bitcoin. Avviene circa ogni quattro anni."
+    },
+    {
+      "id": "indice",
+      "termine": "Indice",
+      "spiegazione": "Un paniere di titoli scelti con regole fisse (per esempio le 40 società più grandi di Milano) che misura l'andamento di un mercato."
+    },
+    {
+      "id": "inflazione",
+      "termine": "Inflazione",
+      "spiegazione": "L'aumento generale dei prezzi nel tempo. Con il 3% di inflazione, ciò che oggi costa 100 euro tra un anno ne costa 103."
+    },
+    {
+      "id": "intraday",
+      "termine": "Intraday",
+      "spiegazione": "Durante la giornata di Borsa: un dato intraday è provvisorio e può cambiare prima della chiusura."
+    },
+    {
+      "id": "isin",
+      "termine": "ISIN",
+      "spiegazione": "Codice di 12 caratteri che identifica in modo unico un titolo, come un codice fiscale. I titoli di Stato italiani iniziano con IT."
+    },
+    {
+      "id": "kid",
+      "termine": "KID",
+      "spiegazione": "Documento di poche pagine con le informazioni chiave di un prodotto d'investimento: rischi, costi e scenari."
+    },
+    {
+      "id": "mica",
+      "termine": "MiCA",
+      "spiegazione": "Il regolamento europeo sulle cripto-attività: stabilisce chi può offrire servizi sulle criptovalute in Europa e con quali tutele."
+    },
+    {
+      "id": "miner",
+      "termine": "Miner",
+      "spiegazione": "I computer che verificano le transazioni di Bitcoin e aggiungono nuovi blocchi alla blockchain, ricevendo in cambio nuovi bitcoin."
+    },
+    {
+      "id": "minusvalenza",
+      "termine": "Minusvalenza",
+      "spiegazione": "La perdita che realizzi quando vendi un investimento a un prezzo più basso di quello d'acquisto."
+    },
+    {
+      "id": "mot",
+      "termine": "MOT",
+      "spiegazione": "Mercato Telematico delle Obbligazioni di Borsa Italiana: dove si comprano e vendono ogni giorno BTP e altre obbligazioni."
+    },
+    {
+      "id": "msci-world",
+      "termine": "MSCI World",
+      "spiegazione": "Indice che raccoglie oltre mille grandi aziende dei paesi sviluppati: uno dei più usati dagli ETF globali."
+    },
+    {
+      "id": "nasdaq",
+      "termine": "Nasdaq",
+      "spiegazione": "La Borsa americana dei titoli tecnologici, e l'indice che ne misura l'andamento (Apple, Microsoft, Nvidia...)."
+    },
+    {
+      "id": "obbligazione",
+      "termine": "Obbligazione",
+      "spiegazione": "Un prestito che fai a uno Stato o a un'azienda: ricevi interessi (cedole) e alla scadenza ti restituiscono il capitale."
+    },
+    {
+      "id": "ordine-limite",
+      "termine": "Ordine con limite di prezzo",
+      "spiegazione": "Ordine di Borsa in cui fissi il prezzo massimo a cui comprare (o minimo a cui vendere). Se il prezzo non c'è, l'ordine non viene eseguito."
+    },
+    {
+      "id": "pac",
+      "termine": "PAC",
+      "spiegazione": "Piano di Accumulo del Capitale: investi una cifra fissa a intervalli regolari, per esempio 100 euro al mese."
+    },
+    {
+      "id": "plusvalenza",
+      "termine": "Plusvalenza",
+      "spiegazione": "Il guadagno che realizzi quando vendi un investimento a un prezzo più alto di quello d'acquisto. È tassato."
+    },
+    {
+      "id": "proof-of-work",
+      "termine": "Proof of work",
+      "spiegazione": "\"Prova di lavoro\": il metodo con cui i miner si contendono, risolvendo calcoli molto difficili, il diritto di aggiungere un blocco alla blockchain."
+    },
+    {
+      "id": "rateo",
+      "termine": "Rateo",
+      "spiegazione": "La parte di cedola già maturata dal venditore di un'obbligazione: chi compra la paga, e la recupera alla cedola successiva."
+    },
+    {
+      "id": "redditi-di-capitale",
+      "termine": "Redditi di capitale",
+      "spiegazione": "Categoria fiscale di interessi e guadagni dei fondi: i guadagni degli ETF rientrano qui e non compensano perdite precedenti."
+    },
+    {
+      "id": "rendimento-a-scadenza",
+      "termine": "Rendimento a scadenza",
+      "spiegazione": "Quanto guadagni ogni anno, in percentuale, se compri un'obbligazione al prezzo di oggi e la tieni fino alla fine."
+    },
+    {
+      "id": "replica-fisica",
+      "termine": "Replica fisica",
+      "spiegazione": "L'ETF compra davvero i titoli dell'indice che vuole copiare."
+    },
+    {
+      "id": "replica-sintetica",
+      "termine": "Replica sintetica",
+      "spiegazione": "L'ETF copia l'indice con contratti finanziari (swap) stipulati con una banca, invece di comprare i titoli."
+    },
+    {
+      "id": "s-p-500",
+      "termine": "S&P 500",
+      "spiegazione": "Indice delle 500 maggiori aziende quotate negli Stati Uniti: il termometro più seguito della Borsa americana."
+    },
+    {
+      "id": "satoshi",
+      "termine": "Satoshi",
+      "spiegazione": "La più piccola frazione di un bitcoin: un centomilionesimo (0,00000001 BTC)."
+    },
+    {
+      "id": "scadenza",
+      "termine": "Scadenza",
+      "spiegazione": "La data in cui un'obbligazione o un BTP finisce e ti viene restituito il capitale."
+    },
+    {
+      "id": "sostituto-d-imposta",
+      "termine": "Sostituto d'imposta",
+      "spiegazione": "Chi calcola e paga le tasse al posto tuo: per esempio la banca italiana sui guadagni del conto titoli."
+    },
+    {
+      "id": "spread",
+      "termine": "Spread",
+      "spiegazione": "Differenza di rendimento tra i BTP italiani e i Bund tedeschi a 10 anni. Più è alto, più l'Italia paga per farsi prestare soldi."
+    },
+    {
+      "id": "stablecoin",
+      "termine": "Stablecoin",
+      "spiegazione": "Criptovaluta legata al valore di una moneta tradizionale, come il dollaro o l'euro, per restare stabile."
+    },
+    {
+      "id": "tassi",
+      "termine": "Tassi d'interesse",
+      "spiegazione": "Il \"prezzo\" del denaro: quanto costa farsi prestare soldi e quanto si guadagna a prestarli. Li influenzano le banche centrali."
+    },
+    {
+      "id": "taglio-minimo",
+      "termine": "Taglio minimo",
+      "spiegazione": "La quantità più piccola che puoi comprare di un titolo. Per i BTP è 1.000 euro di valore nominale: non puoi comprarne meno."
+    },
+    {
+      "id": "ter",
+      "termine": "TER",
+      "spiegazione": "Total Expense Ratio: il costo annuo di un fondo o ETF, in percentuale. Con un TER dello 0,20% paghi 2 euro all'anno ogni 1.000 investiti."
+    },
+    {
+      "id": "ucits",
+      "termine": "UCITS",
+      "spiegazione": "Sigla delle regole europee che tutelano chi investe nei fondi e negli ETF: limiti di rischio, diversificazione e trasparenza."
+    },
+    {
+      "id": "valore-nominale",
+      "termine": "Valore nominale",
+      "spiegazione": "Il valore \"di etichetta\" di un'obbligazione, quello che ti viene restituito alla scadenza. Il prezzo di mercato può essere diverso."
+    },
+    {
+      "id": "volatilita",
+      "termine": "Volatilità",
+      "spiegazione": "Quanto e quanto velocemente si muove il prezzo di un investimento. Alta volatilità significa sbalzi forti, in su e in giù."
+    },
+    {
+      "id": "wallet",
+      "termine": "Wallet",
+      "spiegazione": "Il \"portafoglio\" digitale che custodisce le chiavi per usare le tue criptovalute. Può essere un'app o un piccolo dispositivo."
+    }
+  ]
+}

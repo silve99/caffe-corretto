@@ -14,13 +14,13 @@ fonti:
 bozza: false
 ---
 
-Immagina di voler comprare un pezzetto di Apple, uno di Nestlé, uno di Ferrari e altri mille ancora. Uno alla volta ti servirebbero anni, un patrimonio e un foglio Excel infinito. Un ETF fa tutto questo con un solo acquisto.
+Immagina di voler comprare un pezzetto di Apple, uno di Nestlé, uno di Ferrari e altri mille ancora. Uno alla volta ti servirebbero anni, un patrimonio e un foglio Excel infinito. Un [ETF](/glossario/etf/) fa tutto questo con un solo acquisto.
 
 Ecco perché è diventato lo strumento preferito di tanti piccoli risparmiatori. Vediamo come funziona, quanto costa e dove sono le trappole.
 
 > **In 30 secondi.**
 > - Un ETF è un fondo che si compra e si vende in Borsa come un'azione.
-> - Di solito copia un indice (un "paniere" di titoli), per esempio le 500 grandi aziende americane.
+> - Di solito copia un [indice](/glossario/indice/), per esempio le 500 grandi aziende americane.
 > - Costa poco: molti ETF hanno spese annue sotto lo 0,3%.
 > - Non è garantito: se il mercato scende, scende anche l'ETF.
 
@@ -32,9 +32,9 @@ Quasi tutti gli ETF sono **passivi**: non c'è un gestore che sceglie quali tito
 
 Qualche esempio di indice:
 
-- **S&P 500**: le 500 maggiori aziende quotate negli Stati Uniti.
-- **MSCI World**: oltre mille grandi aziende dei paesi sviluppati.
-- **FTSE MIB**: le 40 società più importanti di Piazza Affari.
+- **[S&P 500](/glossario/s-p-500/)**: le 500 maggiori aziende quotate negli Stati Uniti.
+- **[MSCI World](/glossario/msci-world/)**: oltre mille grandi aziende dei paesi sviluppati.
+- **[FTSE MIB](/glossario/ftse-mib/)**: le 40 società più importanti di Piazza Affari.
 - **Indici di obbligazioni**: per esempio i titoli di Stato dell'area euro.
 
 Se l'indice sale del 10%, l'ETF sale più o meno del 10%. Se scende, scende anche lui. Niente magie: è una fotocopia del mercato.
@@ -43,7 +43,7 @@ Se l'indice sale del 10%, l'ETF sale più o meno del 10%. Se scende, scende anch
 
 **Diversificazione in un colpo solo.** Con una sola quota possiedi un frammento di centinaia di aziende. Se una va male, pesa poco sul totale. È il vecchio consiglio di non mettere tutte le uova nello stesso paniere, reso facile.
 
-**Costi bassi.** Un ETF non paga una squadra di analisti per scegliere i titoli, quindi costa poco. Il costo annuo si chiama **TER** (*Total Expense Ratio*, la spesa totale annua): per gli ETF più diffusi è spesso tra lo 0,05% e lo 0,40% all'anno. Molti fondi tradizionali gestiti attivamente superano l'1%.
+**Costi bassi.** Un ETF non paga una squadra di analisti per scegliere i titoli, quindi costa poco. Il costo annuo si chiama **[TER](/glossario/ter/)**: per gli ETF più diffusi è spesso tra lo 0,05% e lo 0,40% all'anno. Molti fondi tradizionali gestiti attivamente superano l'1%.
 
 **Trasparenza.** Sai sempre cosa c'è dentro: l'elenco dei titoli è pubblico e il prezzo si vede in tempo reale.
 
@@ -66,27 +66,27 @@ Nella scheda di un ETF trovi sempre qualche parola strana. Ecco le principali.
 | **UCITS** | Rispetta le regole europee a tutela dei risparmiatori |
 | **ISIN** | Il "codice fiscale" dell'ETF, 12 caratteri, serve per cercarlo |
 
-C'è poi il **KID**, il documento con le informazioni chiave: poche pagine che ogni ETF venduto in Europa deve avere. Leggerlo prima di comprare è una buona abitudine.
+C'è poi il **[KID](/glossario/kid/)**, il documento con le informazioni chiave: poche pagine che ogni ETF venduto in Europa deve avere. Leggerlo prima di comprare è una buona abitudine.
 
 ## Come si compra un ETF in Italia
 
 Il percorso è lo stesso delle azioni.
 
-1. **Apri un conto titoli** presso la tua banca o un broker online (un intermediario autorizzato).
+1. **Apri un [conto titoli](/glossario/conto-titoli/)** presso la tua banca o un [broker](/glossario/broker/) online.
 2. **Cerca l'ETF** con il suo codice ISIN o con la sigla di Borsa. In Italia gli ETF sono quotati su Borsa Italiana, nel segmento dedicato.
 3. **Guarda il prezzo** e scegli quante quote comprare. Molti ETF costano poche decine di euro a quota.
-4. **Inserisci l'ordine.** Meglio un ordine "con limite di prezzo", così sai al massimo quanto paghi.
+4. **Inserisci l'ordine.** Meglio un [ordine con limite di prezzo](/glossario/ordine-limite/), così sai al massimo quanto paghi.
 5. **Controlla le commissioni** della banca: su piccoli importi una commissione fissa alta può pesare più del TER di anni.
 
-Molte piattaforme permettono anche il **PAC** (Piano di Accumulo del Capitale): investi una cifra fissa ogni mese, per esempio 100 euro, e smetti di chiederti se è il momento giusto.
+Molte piattaforme permettono anche il **[PAC](/glossario/pac/)**: investi una cifra fissa ogni mese, per esempio 100 euro, e smetti di chiederti se è il momento giusto.
 
 ## Le tasse, in breve
 
-In Italia, per gli ETF europei armonizzati (quelli UCITS), i guadagni sono tassati al **26%** quando vendi o quando incassi un dividendo. La parte investita in titoli di Stato italiani e di paesi della "white list" gode dell'aliquota agevolata del 12,5%.
+In Italia, per gli ETF europei armonizzati (quelli UCITS), i guadagni sono tassati al **26%** quando vendi o quando incassi un [dividendo](/glossario/dividendo/). La parte investita in titoli di Stato italiani e di paesi della "white list" gode dell'aliquota agevolata del 12,5%.
 
-Attenzione a un dettaglio poco noto: i guadagni degli ETF sono "redditi di capitale" e **non** si possono compensare con eventuali perdite precedenti su altri titoli. Le perdite sugli ETF, invece, possono compensare guadagni futuri su azioni o obbligazioni.
+Attenzione a un dettaglio poco noto: i guadagni degli ETF sono [redditi di capitale](/glossario/redditi-di-capitale/) e **non** si possono compensare con eventuali perdite precedenti su altri titoli. Le perdite sugli ETF, invece, possono compensare guadagni futuri su azioni o obbligazioni.
 
-Sul conto titoli si paga poi l'**imposta di bollo** dello 0,2% all'anno sul valore. Se usi una banca italiana, di solito fa tutto lei come "sostituto d'imposta".
+Sul conto titoli si paga poi l'**[imposta di bollo](/glossario/bollo/)** dello 0,2% all'anno sul valore. Se usi una banca italiana, di solito fa tutto lei come [sostituto d'imposta](/glossario/sostituto-d-imposta/).
 
 ## I rischi da non dimenticare
 

@@ -1,6 +1,7 @@
 ---
 import { SITO, SOCIAL } from '../config';
 import { SEZIONE_GUIDE } from '../lib/guide';
+import Spiegazioni from '../components/Spiegazioni.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -67,6 +68,7 @@ const anno = new Date().getFullYear();
           <a href="/chi-siamo/">Chi siamo</a>
           <a href="/contatti/">Contatti</a>
           <a href="/guide/">Le guide</a>
+          <a href="/glossario/">Glossario</a>
           <a href="/come-lavoriamo/">Come lavoriamo</a>
           <a href="/disclaimer/">Disclaimer</a>
           <a href="/privacy/">Privacy e cookie</a>
@@ -83,5 +85,6 @@ const anno = new Date().getFullYear();
         <p class="copy">© {anno} {SITO.nome}</p>
       </div>
     </footer>
+    <Spiegazioni />
   </body>
 </html>

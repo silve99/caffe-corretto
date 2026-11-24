@@ -20,7 +20,7 @@ Proviamoci, senza paroloni.
 
 > **In 30 secondi.**
 > - Bitcoin è una moneta digitale che funziona senza banche, grazie a una rete di computer sparsi nel mondo.
-> - Tutte le transazioni sono scritte in un grande registro pubblico, la blockchain.
+> - Tutte le transazioni sono scritte in un grande registro pubblico, la [blockchain](/glossario/blockchain/).
 > - Ne esisteranno al massimo 21 milioni: nessuno può stamparne altri.
 > - Il prezzo è molto volatile e in Italia dal 2026 i guadagni sono tassati al 33%.
 
@@ -38,37 +38,37 @@ Quel quaderno è la **blockchain**, letteralmente "catena di blocchi". Circa ogn
 
 ## Chi scrive il quaderno: i miner
 
-A tenere aggiornato il registro sono i **miner** ("minatori"): computer potentissimi che fanno a gara per risolvere un calcolo molto difficile. Chi vince aggiunge il blocco e riceve in premio nuovi bitcoin. È così, e solo così, che nascono nuove monete.
+A tenere aggiornato il registro sono i **[miner](/glossario/miner/)** ("minatori"): computer potentissimi che fanno a gara per risolvere un calcolo molto difficile. Chi vince aggiunge il blocco e riceve in premio nuovi bitcoin. È così, e solo così, che nascono nuove monete.
 
-Questo meccanismo si chiama *proof of work* (prova di lavoro). Rende la rete molto sicura, ma consuma parecchia energia elettrica: è una delle critiche più frequenti a Bitcoin.
+Questo meccanismo si chiama [proof of work](/glossario/proof-of-work/). Rende la rete molto sicura, ma consuma parecchia energia elettrica: è una delle critiche più frequenti a Bitcoin.
 
 ## Perché solo 21 milioni
 
 Il codice di Bitcoin fissa un tetto: ne esisteranno al massimo **21 milioni**. Non esiste una banca centrale che possa decidere di crearne altri.
 
-In più, circa ogni quattro anni il premio dei miner si dimezza. È l'**halving** ("dimezzamento"): l'ultimo è avvenuto nell'aprile 2024, il prossimo è atteso intorno al 2028. Così i nuovi bitcoin arrivano sempre più lentamente, fino a fermarsi verso il 2140.
+In più, circa ogni quattro anni il premio dei miner si dimezza. È l'**[halving](/glossario/halving/)**: l'ultimo è avvenuto nell'aprile 2024, il prossimo è atteso intorno al 2028. Così i nuovi bitcoin arrivano sempre più lentamente, fino a fermarsi verso il 2140.
 
 È per questa scarsità programmata che i sostenitori lo chiamano "oro digitale". Ma scarsità non vuol dire valore garantito: il prezzo dipende solo da quanto le persone sono disposte a pagarlo.
 
 ## Non serve comprarne uno intero
 
-Un bitcoin si divide in cento milioni di parti. La più piccola si chiama **satoshi**, in onore del suo inventore. Puoi quindi comprarne anche solo 20 euro.
+Un bitcoin si divide in cento milioni di parti. La più piccola si chiama **[satoshi](/glossario/satoshi/)**, in onore del suo inventore. Puoi quindi comprarne anche solo 20 euro.
 
 ## Come si compra in Italia
 
-1. **Piattaforme di scambio (exchange).** Siti e app dove si cambiano euro in bitcoin. Scegli solo operatori **autorizzati** a lavorare in Europa secondo il regolamento MiCA: le autorità di vigilanza, come la Consob, pubblicano gli elenchi e gli avvisi sugli operatori abusivi.
-2. **Strumenti quotati in Borsa.** Esistono ETP ed ETN che replicano il prezzo di Bitcoin e si comprano con un normale conto titoli, come un'azione. Negli Stati Uniti dal gennaio 2024 ci sono anche ETF su Bitcoin.
-3. **Il portafoglio (wallet).** Se lasci i bitcoin sulla piattaforma, è lei a custodirli. Se li sposti su un tuo wallet, sei tu l'unico responsabile delle **chiavi private**, le "password" che danno accesso alle monete. Perderle significa perdere tutto, senza nessuno a cui telefonare.
+1. **Piattaforme di scambio ([exchange](/glossario/exchange/)).** Siti e app dove si cambiano euro in bitcoin. Scegli solo operatori **autorizzati** a lavorare in Europa secondo il regolamento [MiCA](/glossario/mica/): le autorità di vigilanza, come la Consob, pubblicano gli elenchi e gli avvisi sugli operatori abusivi.
+2. **Strumenti quotati in Borsa.** Esistono [ETP ed ETN](/glossario/etp/) che replicano il prezzo di Bitcoin e si comprano con un normale conto titoli, come un'azione. Negli Stati Uniti dal gennaio 2024 ci sono anche [ETF](/glossario/etf/) su Bitcoin.
+3. **Il portafoglio (wallet).** Se lasci i bitcoin sulla piattaforma, è lei a custodirli. Se li sposti su un tuo [wallet](/glossario/wallet/), sei tu l'unico responsabile delle **[chiavi private](/glossario/chiavi-private/)**, le "password" che danno accesso alle monete. Perderle significa perdere tutto, senza nessuno a cui telefonare.
 
 ## Le tasse in Italia
 
-Dal 1° gennaio 2026 i guadagni realizzati con le cripto-attività sono tassati al **33%** (nel 2025 l'aliquota era del 26%). Non c'è più la soglia di esenzione di 2.000 euro. Fanno eccezione i token di moneta elettronica in euro, che restano al 26%.
+Dal 1° gennaio 2026 i guadagni realizzati con le cripto-attività sono tassati al **33%** (nel 2025 l'aliquota era del 26%). Non c'è più la soglia di esenzione di 2.000 euro. Fanno eccezione i token di moneta elettronica in euro (un tipo di [stablecoin](/glossario/stablecoin/)), che restano al 26%.
 
 Le cripto vanno indicate nella dichiarazione dei redditi, anche se non le hai vendute, e sul loro valore si paga un'imposta del 2 per mille all'anno. Le regole cambiano spesso: controlla sempre le istruzioni aggiornate dell'Agenzia delle Entrate o chiedi a un commercialista.
 
 ## I rischi, senza giri di parole
 
-- **Volatilità estrema.** Bitcoin ha perso più della metà del suo valore in diverse occasioni, a volte in pochi mesi. E ha fatto anche il contrario.
+- **[Volatilità](/glossario/volatilita/) estrema.** Bitcoin ha perso più della metà del suo valore in diverse occasioni, a volte in pochi mesi. E ha fatto anche il contrario.
 - **Truffe.** Falsi consulenti sui social, finte piattaforme, "rendimenti garantiti": nel mondo delle cripto sono ovunque. Se qualcuno ti promette guadagni sicuri, scappa.
 - **Errori irreversibili.** Una transazione inviata all'indirizzo sbagliato non si può annullare.
 - **Nessuna tutela dei depositi.** I bitcoin non sono coperti dal Fondo di garanzia che protegge i conti correnti.

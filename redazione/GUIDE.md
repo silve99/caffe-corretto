@@ -34,7 +34,8 @@ Lo stesso delle notizie (vedi `ISTRUZIONI.md`, sezione 2), con più calma: è un
 
 - **Titolo** con la parola chiave all'inizio, max 65 caratteri: "Cos'è un ETF: la guida semplice per chi parte da zero".
 - **Attacco** con una scena o un'immagine quotidiana, mai "In questa guida vedremo…".
-- Frasi brevi, termini tecnici spiegati tra parentesi la prima volta, esempi con cifre tonde.
+- Frasi brevi, esempi con cifre tonde.
+- Termini tecnici come link al glossario la prima volta, `[TER](/glossario/ter/)`: sul sito compare la spiegazione al passaggio del mouse o al tocco. Regole complete in `ISTRUZIONI.md`, sezione 2. Nelle guide se ne possono usare di più (anche 15–20).
 - Lettore immaginario: un risparmiatore di 45 anni che non ha mai aperto un conto titoli.
 
 ## 4. Struttura (1.000–1.600 parole)
