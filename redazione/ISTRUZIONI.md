@@ -34,7 +34,7 @@ Daniele vuole articoli che **attirano e trattengono** il lettore. Il pubblico so
 - **Immagini da bar con misura**: il nome del blog lo permette ("il caffè di oggi è forte", "zucchero per le cripto"), ma al massimo 2–3 per articolo, mai forzate.
 - **Verbi vivi** quando i numeri li giustificano: "vola" per +5% e oltre, "crolla" per −5% e oltre. Sotto quelle soglie usa verbi normali (sale, scende, rimbalza, frena).
 - **Termini tecnici con la spiegazione al passaggio del mouse** (decisione di Daniele, 24/11/2026): la prima volta che usi un termine tecnico, scrivilo come link al glossario, `[cedola](/glossario/cedola/)`. Sul sito diventa una parola sottolineata a puntini, non cliccabile: passandoci sopra col mouse (o toccandola sul telefono) compare la spiegazione. **Non** aggiungere più la spiegazione tra parentesi.
-  - Le spiegazioni stanno in `src/data/glossario.json` (campo `id` = la parte dopo `/glossario/`). Se il termine manca, aggiungilo tu nello stesso commit: `termine` come si scrive, `spiegazione` in 1–2 frasi semplici (max 200 caratteri), vera per sempre (niente prezzi del giorno).
+  - Le spiegazioni stanno in `src/data/glossario.json` (campo `id` = la parte dopo `/glossario/`). Usa di preferenza i termini che ci sono già. La redazione del mattino **non modifica** il glossario: se un termine manca, scrivi comunque il link con un `id` chiaro (minuscole e trattini, es. `/glossario/quantitative-easing/`). Finché manca si vede come testo normale; lo aggiunge la redazione delle guide al giro successivo.
   - Solo la prima volta che compare il termine; niente link al glossario dentro titoli e titoletti; al massimo 8–10 per articolo.
 - **"Cosa significa per te"** alla fine di ogni sezione: 1–2 frasi concrete sulla vita di chi legge (mutuo, conto, ETF, bolletta), senza consigli.
 - **Vietato**: "imperdibile", "occasione", "compra", "vendi", "da non perdere", emoji nel testo, punti esclamativi a raffica (massimo uno per articolo).
@@ -92,7 +92,7 @@ Aiuta i lettori che partono da zero e fa salire le guide su Google.
 
 - [ ] Ogni numero nel testo è in `mercati/ultimo.json` o nel titolo di una fonte elencata.
 - [ ] Nessuna parola vietata, nessun consiglio di investimento.
-- [ ] Ogni `/glossario/<id>/` usato esiste in `src/data/glossario.json` (la build avvisa con `[glossario] termine ... non trovato`).
+- [ ] I `/glossario/<id>/` usati esistono in `src/data/glossario.json`, oppure hanno un `id` chiaro che la redazione delle guide aggiungerà (la build avvisa con `[glossario] termine ... non trovato`, non è un errore).
 - [ ] Titolo ≤ 65 caratteri, descrizione 140–160.
 - [ ] `npm run build` passa senza errori.
 

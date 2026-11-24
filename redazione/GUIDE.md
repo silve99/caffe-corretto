@@ -7,6 +7,8 @@ delle guide non scriverlo mai, scrivi "le nostre guide" se serve.
 Le guide sono **sempreverdi**: devono restare vere e utili per anni e portare lettori da Google
 nel tempo. Le modifica solo Daniele, o Claude su sua richiesta.
 
+Le guide escono in automatico il **martedì, venerdì e domenica** verso le 10:00 (decisione di Daniele, 24/11/2026).
+
 ## 1. Scegliere il tema
 
 1. Prendi il primo argomento non ancora scritto dal **piano editoriale** (sezione 6). Controlla in
@@ -102,3 +104,10 @@ Come per le notizie: branch `guida-AAAA-MM-GG`, pull request "Guida: <titolo>", 
 (fatti sulle fonti ufficiali, nessun consiglio, lunghezze di titolo e descrizione, link interni funzionanti),
 `npm run build` senza errori, poi unione (squash). Se resta un dubbio serio su un fatto, toglilo;
 se la guida non regge, non unire e lascia la pull request aperta con il motivo.
+
+## 8. Termini mancanti nel glossario
+
+Ogni volta che scrivi una guida, esegui `npm run build` prima di iniziare e guarda gli avvisi
+`[glossario] termine "<id>" non trovato`: sono termini usati negli articoli del mattino che mancano.
+Aggiungili tu a `src/data/glossario.json` (solo aggiunte: `id` uguale a quello usato, `termine`,
+`spiegazione` in 1–2 frasi, max 200 caratteri, vera per sempre) nella stessa pull request della guida.
