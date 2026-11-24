@@ -294,6 +294,36 @@
       "id": "wallet",
       "termine": "Wallet",
       "spiegazione": "Il \"portafoglio\" digitale che custodisce le chiavi per usare le tue criptovalute. Può essere un'app o un piccolo dispositivo."
+    },
+    {
+      "id": "bund",
+      "termine": "Bund",
+      "spiegazione": "Titolo di Stato tedesco a lungo termine. Il decennale è il riferimento per misurare lo spread degli altri paesi dell'euro."
+    },
+    {
+      "id": "conto-deposito",
+      "termine": "Conto deposito",
+      "spiegazione": "Conto bancario collegato al conto corrente che paga un interesse in cambio di tenere fermi i soldi, liberi o vincolati per un periodo."
+    },
+    {
+      "id": "euribor",
+      "termine": "Euribor",
+      "spiegazione": "Tasso a cui le banche dell'area euro si prestano denaro tra loro. È il riferimento dei mutui a tasso variabile."
+    },
+    {
+      "id": "fondo-comune",
+      "termine": "Fondo comune d'investimento",
+      "spiegazione": "Patrimonio formato dai soldi di molti risparmiatori, investito da una società di gestione in titoli diversi. Ognuno possiede delle quote."
+    },
+    {
+      "id": "interesse-composto",
+      "termine": "Interesse composto",
+      "spiegazione": "Meccanismo per cui gli interessi guadagnati si sommano al capitale e producono a loro volta altri interessi."
+    },
+    {
+      "id": "punti-base",
+      "termine": "Punti base",
+      "spiegazione": "Unità di misura dei tassi: 100 punti base equivalgono a un punto percentuale (1%)."
     }
   ]
 }

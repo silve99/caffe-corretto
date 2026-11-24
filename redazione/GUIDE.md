@@ -75,28 +75,39 @@ Se aggiorni una guida esistente (es. cambia un'aliquota), correggi il testo e ag
 
 ## 6. Piano editoriale (in ordine)
 
-Già pubblicate: Cos'è un ETF · Come si comprano i BTP · Bitcoin spiegato semplice.
+Già pubblicate: Cos'è un ETF · Come si comprano i BTP · Bitcoin spiegato semplice ·
+Conto deposito o BTP · Cos'è lo spread BTP-Bund · Interesse composto · PAC · Fondo d'emergenza.
 
-1. Cos'è lo spread BTP-Bund e perché ti riguarda (basi)
-2. Inflazione: cos'è e come mangia i tuoi risparmi (basi)
-3. Come funziona la Borsa: azioni, indici e dividendi (azioni)
-4. PAC: cos'è il piano di accumulo e come funziona (etf-fondi)
-5. Conto deposito o BTP: le differenze (risparmio)
-6. Tassi della BCE: cosa sono e cosa cambiano per mutuo e conto (basi)
-7. Cos'è un'obbligazione e come si legge il rendimento (obbligazioni)
-8. Interesse composto spiegato con il caffè (risparmio)
-9. Fondo d'emergenza: quanti soldi tenere da parte (risparmio)
-10. Ethereum spiegato semplice (cripto)
-11. Stablecoin: cosa sono e a cosa servono (cripto)
-12. Tasse sugli investimenti in Italia: 12,5%, 26% e bollo (tasse)
-13. Come leggere il KID di un fondo o di un ETF (etf-fondi)
-14. Fondo pensione: come funziona e i vantaggi fiscali (risparmio)
-15. Oro: come si investe e cosa sapere (basi)
-16. Recessione: cos'è e come si riconosce (basi)
-17. Cos'è il FTSE MIB e come si muove Piazza Affari (azioni)
-18. Truffe finanziarie online: come riconoscerle (basi)
+**In uscita con il lotto straordinario del 25–27/11/2026** (già scritte, NON riscriverle e non
+scegliere argomenti uguali o quasi uguali): Tasse sugli investimenti (12,5%, 26%, bollo) ·
+Regime amministrato o dichiarativo · Minusvalenze: come recuperarle · ETF ad accumulazione o a
+distribuzione · Come leggere il KID · Fondo pensione · TFR in azienda o nel fondo pensione ·
+Fondo di garanzia dei depositi (100.000 euro) · Inflazione · Tassi della BCE · Dividendi ·
+FTSE MIB · Stablecoin · Conto titoli · Truffe finanziarie online.
 
-Quando pubblichi una guida, spostala da questo elenco alla riga "Già pubblicate".
+Prossime guide automatiche, in ordine:
+
+1. Come funziona la Borsa: azioni, indici e ordini (azioni)
+2. Cos'è un'obbligazione e come si legge il rendimento (obbligazioni)
+3. Ethereum spiegato semplice (cripto)
+4. Oro: come si investe e cosa sapere (basi)
+5. Recessione: cos'è e come si riconosce (basi)
+6. Buoni fruttiferi postali: come funzionano (risparmio)
+7. BOT: cosa sono e come si comprano (obbligazioni)
+8. BTP Italia e titoli legati all'inflazione (obbligazioni)
+9. Mutuo a tasso fisso o variabile: le differenze (basi)
+10. Cos'è il rating di uno Stato o di un'azienda (obbligazioni)
+11. Volatilità: cos'è e come si misura (basi)
+12. Cos'è l'S&P 500 e perché tutti ne parlano (azioni)
+13. ETF e ETP su Bitcoin: come funzionano (cripto)
+14. Wallet cripto: come custodire le criptovalute (cripto)
+15. Investimenti all'estero: quadro RW e IVAFE (tasse)
+16. Cos'è un'IPO, la quotazione in Borsa (azioni)
+17. Certificati di investimento: cosa sono e i rischi (azioni)
+18. Obbligazioni societarie: come funzionano (obbligazioni)
+
+Quando pubblichi una guida, spostala da questo elenco alla riga "Già pubblicate". Quando il lotto
+straordinario è uscito, sposta anche quei titoli in "Già pubblicate".
 
 ## 7. Revisione e pubblicazione
 
