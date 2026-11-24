@@ -191,7 +191,8 @@ def leggi_gdelt_gkg(cfg: dict, tradotti: bool) -> list[dict]:
 
 def mercati(config: dict) -> dict:
     """Dati numerici: cambi di riferimento BCE e prezzi cripto CoinGecko."""
-    risultato: dict = {"aggiornato": datetime.now(timezone.utc).isoformat(), "errori": []}
+    ora = datetime.now(timezone.utc)
+    risultato: dict = {"aggiornato": ora.isoformat(), "aggiornato_roma": ora.astimezone(ROMA).strftime("%d/%m/%Y %H:%M"), "errori": []}
 
     # Cambi BCE (fonte: BCE, riutilizzo consentito citando la fonte)
     try:

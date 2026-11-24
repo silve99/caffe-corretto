@@ -61,7 +61,7 @@ Lunedì sera l'America brindava. Stanotte il brindisi ha attraversato il Pacific
 | EUR/JPY | 174,01 | −0,20% |
 | EUR/CNY | 7,2905 | −0,66% |
 
-Fonti: Banca Centrale Europea (cambi di riferimento del 23/11), Powered by CoinGecko (prezzi alle 04:16).
+Fonti: Banca Centrale Europea (cambi di riferimento del 23/11), Powered by CoinGecko (prezzi alle 05:16).
 
 ## Il rally di Huang sbarca in Asia
 
@@ -79,7 +79,7 @@ C'è anche una novità nel salotto buono di Wall Street. S&P Dow Jones Indices a
 
 ## Bitcoin resta fuori dalla festa
 
-Le azioni tecnologiche festeggiano, le cripto no. Secondo CoinGecko, alle 04:16 un Bitcoin vale 54.629 €, in calo dell'1,69% in 24 ore. Ieri alle 18:02 ne servivano 57.059. Ethereum scende dell'1,92% a 1.534,65 €.
+Le azioni tecnologiche festeggiano, le cripto no. Secondo CoinGecko, alle 05:16 un Bitcoin vale 54.629 €, in calo dell'1,69% in 24 ore. Ieri alle 18:02 ne servivano 57.059. Ethereum scende dell'1,92% a 1.534,65 €.
 
 Non è una ritirata generale: XRP sale dell'1,95%, Cardano del 2,36%, Solana è ferma. Ma il mercato cripto nel suo insieme perde il 2,18% e vale oltre 1.900 miliardi di euro. Bitcoin da solo ne rappresenta il 57,7%.
 
@@ -105,7 +105,7 @@ Settimana corta, infine, per Wall Street: giovedì 26 novembre la Borsa american
 Perché i mercati asiatici seguono il rimbalzo di Wall Street, acceso dal ritorno di Jensen Huang alla guida di Nvidia. Secondo l'ANSA, Tokyo apre a +3,05%.
 
 **Quanto vale un Bitcoin oggi in euro?**
-Secondo CoinGecko, alle 04:16 del 24 novembre un Bitcoin vale 54.629 €, in calo dell'1,69% rispetto a 24 ore prima.
+Secondo CoinGecko, alle 05:16 del 24 novembre un Bitcoin vale 54.629 €, in calo dell'1,69% rispetto a 24 ore prima.
 
 **Cosa succede quando un'azione entra nell'S&P 500?**
 Entra nel paniere delle 500 grandi società americane. I fondi e gli ETF che replicano l'indice devono acquistarne le azioni, perché il loro portafoglio deve copiare l'indice.
