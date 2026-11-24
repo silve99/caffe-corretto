@@ -3,10 +3,13 @@ import Base from '../layouts/Base.astro';
 import SchedaArticolo from '../components/SchedaArticolo.astro';
 import { articoliPubblicati } from '../lib/articoli';
 import { SITO } from '../config';
+import SchedaGuida from '../components/SchedaGuida.astro';
+import { guidePubblicate, SEZIONE_GUIDE } from '../lib/guide';
 
 const tutti = await articoliPubblicati();
 const ultimoRiepilogo = tutti.find((a) => a.data.tipo === 'riepilogo' || a.data.tipo === 'settimanale');
 const altri = tutti.filter((a) => a !== ultimoRiepilogo).slice(0, 12);
+const guide = (await guidePubblicate()).slice(0, 3);
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
@@ -25,5 +28,13 @@ const jsonLd = {
     {ultimoRiepilogo && <SchedaArticolo articolo={ultimoRiepilogo} evidenza />}
     {altri.map((a) => <SchedaArticolo articolo={a} />)}
   </ul>
-  {tutti.length > 13 && <p><a href="/articoli/">Tutti gli articoli →</a></p>}
+  {tutti.length > 13 && <p><a href="/articoli/">Tutte le notizie →</a></p>}
+  {guide.length > 0 && (
+    <section class="sezione-guide">
+      <h2>{SEZIONE_GUIDE.nome}</h2>
+      <p class="meta intro">{SEZIONE_GUIDE.sottotitolo}</p>
+      <ul class="lista">{guide.map((g) => <SchedaGuida guida={g} />)}</ul>
+      <p><a href="/guide/">Tutte le guide →</a></p>
+    </section>
+  )}
 </Base>

@@ -1,0 +1,12 @@
+---
+import { etichettaTema, minutiLettura, type Guida } from '../lib/guide';
+interface Props { guida: Guida }
+const { guida } = Astro.props;
+const { titolo, descrizione, tema, livello } = guida.data;
+---
+<li class="scheda scheda-guida">
+  <div class="occhiello">{etichettaTema[tema] ?? tema}</div>
+  <h3><a href={`/guide/${guida.id}/`}>{titolo}</a></h3>
+  <p>{descrizione}</p>
+  <p class="meta">{minutiLettura(guida.body)} min di lettura · per {livello === 'principiante' ? 'chi parte da zero' : 'chi sa già le basi'}</p>
+</li>

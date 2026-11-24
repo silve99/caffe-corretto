@@ -1,0 +1,52 @@
+---
+// Fumetto con la spiegazione dei termini del glossario.
+// Computer: compare passando il mouse (o col tasto Tab). Telefono: si apre e chiude toccando la parola.
+---
+<div id="spiegazione" role="tooltip" hidden></div>
+<script>
+  const box = document.getElementById('spiegazione') as HTMLDivElement;
+  let attivo: HTMLElement | null = null;
+  let ultimoPuntatore = '';
+  let ultimoTocco = 0;
+
+  function mostra(el: HTMLElement) {
+    const spiega = el.querySelector('.termine-spiega')?.textContent?.trim().replace(/^\(|\)$/g, '') ?? '';
+    box.replaceChildren();
+    const titolo = document.createElement('strong');
+    titolo.textContent = el.dataset.titolo ?? '';
+    box.append(titolo, document.createTextNode(' ' + spiega));
+    box.hidden = false;
+    attivo = el;
+    el.setAttribute('aria-describedby', 'spiegazione');
+    const r = el.getBoundingClientRect();
+    const larghezza = Math.min(300, window.innerWidth - 32);
+    box.style.width = larghezza + 'px';
+    const sinistra = Math.min(Math.max(16, r.left + r.width / 2 - larghezza / 2), window.innerWidth - 16 - larghezza);
+    const altezza = box.offsetHeight;
+    const sotto = r.bottom + 8 + altezza < window.innerHeight || r.top < altezza + 8;
+    box.style.left = sinistra + window.scrollX + 'px';
+    box.style.top = (sotto ? r.bottom + 8 : r.top - altezza - 8) + window.scrollY + 'px';
+  }
+  function nascondi() {
+    box.hidden = true;
+    attivo?.removeAttribute('aria-describedby');
+    attivo = null;
+  }
+
+  for (const el of document.querySelectorAll<HTMLElement>('.termine')) {
+    el.addEventListener('pointerdown', (e) => { ultimoPuntatore = e.pointerType; ultimoTocco = Date.now(); });
+    el.addEventListener('pointerenter', (e) => { if (e.pointerType === 'mouse') mostra(el); });
+    el.addEventListener('pointerleave', (e) => { if (e.pointerType === 'mouse' && document.activeElement !== el) nascondi(); });
+    el.addEventListener('focus', () => { if (Date.now() - ultimoTocco > 600) mostra(el); });
+    el.addEventListener('blur', () => { if (attivo === el) nascondi(); });
+    el.addEventListener('click', (e) => {
+      if (ultimoPuntatore === 'mouse') return;
+      e.stopPropagation();
+      if (attivo === el) nascondi(); else mostra(el);
+    });
+    el.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); attivo === el ? nascondi() : mostra(el); } });
+  }
+  document.addEventListener('click', (e) => { if (attivo && !(e.target as Element).closest('.termine')) nascondi(); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') nascondi(); });
+  window.addEventListener('resize', nascondi);
+</script>

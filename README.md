@@ -16,6 +16,18 @@ npm run build    # genera il sito in dist/
 Ogni articolo è un file Markdown in `src/content/articoli/` (campi definiti in `src/content.config.ts`).
 Con `bozza: true` l'articolo resta nel repository ma non viene pubblicato.
 
+## Guide
+
+Seconda sezione del sito (nome in `src/data/sito.json` → `guide`, oggi "Caffè Lungo"): guide sempreverdi
+in `src/content/guide/`, pubblicate su `/guide/<nome-file>/`. Istruzioni di scrittura e piano editoriale
+in `redazione/GUIDE.md`.
+
+## Glossario (spiegazioni al passaggio del mouse)
+
+Nei testi `[cedola](/glossario/cedola/)` diventa una parola sottolineata a puntini che mostra la spiegazione
+al passaggio del mouse o al tocco (plugin `src/plugins/rehype-glossario.mjs`, fumetto in `src/components/Spiegazioni.astro`).
+Le spiegazioni stanno in `src/data/glossario.json`, modificabili dal pannello; la pagina `/glossario/` le elenca tutte.
+
 ## Cloudflare Pages
 
 - Comando di build: `npm run build`
