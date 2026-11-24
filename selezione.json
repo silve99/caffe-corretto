@@ -1,12 +1,73 @@
 {
- "aggiornato": "2026-11-24T14:12:24.710485+00:00",
+ "aggiornato": "2026-11-24T23:36:42.969236+00:00",
  "finestra_ore": 26,
- "notizie_considerate": 210,
+ "notizie_considerate": 199,
  "gruppi": [
+  {
+   "id": "959f21fee59f08ae",
+   "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+   "punteggio": 15.0,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 7,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "link": [
+    {
+     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+     "url": "https://www.kasu.org/education-and-community-culture/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
+     "fonte": "kasu.org",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+     "url": "https://www.kedm.org/npr-news/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
+     "fonte": "kedm.org",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+     "url": "https://www.klcc.org/npr-news/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
+     "fonte": "klcc.org",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+     "url": "https://www.publicradiotulsa.org/npr-national-news/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
+     "fonte": "publicradiotulsa.org",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+     "url": "https://www.kwbu.org/latest-from-npr/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
+     "fonte": "kwbu.org",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+     "url": "https://www.wuwf.org/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
+     "fonte": "wuwf.org",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+     "url": "https://www.wgcu.org/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
+     "fonte": "wgcu.org",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
   {
    "id": "db5b22cf10e8086c",
    "titolo": "Gold Price Crash Forecast (Important Dates); US PCE Inflation Jobs Report FED Policy",
-   "punteggio": 11.9,
+   "punteggio": 10.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -23,9 +84,28 @@
    ]
   },
   {
+   "id": "469598247336939f",
+   "titolo": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
+   "punteggio": 8.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
+     "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-nvidia-anthropic-ai-retreat-fed-inflation-data/",
+     "fonte": "investors.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "160d4b1c9ae66c65",
    "titolo": "Bitcoin Kurs unter 60.000 Dollar: Nasdaq Absturz, ETF Abflüsse und Fed Zinserhöhung im Dezember",
-   "punteggio": 9.9,
+   "punteggio": 8.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -42,9 +122,146 @@
    ]
   },
   {
+   "id": "4a0bd05c8c016f27",
+   "titolo": "Wall Street: Πτώση 1,5% στον Nasdaq – Πάνω από τις 50.000 μονάδες ο Dow Jones",
+   "punteggio": 7.9,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Wall Street: Πτώση 1,5% στον Nasdaq – Πάνω από τις 50.000 μονάδες ο Dow Jones",
+     "url": "https://www.newsbomb.gr/oikonomia/story/1778812/wall-street-ptosi-1-5-ston-nasdaq-pano-apo-tis-50-000-monades-o-dow-jones",
+     "fonte": "newsbomb.gr",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Wall Street: Ανοσος του Dow Jones, έπεσαν ο Nasdaq και η Nvidia",
+     "url": "http://sofokleousin.gr/agores/wall-street-ptosi-gia-nasdaq-kai-nvidia-apoleies-59-meta-to-xthes",
+     "fonte": "sofokleousin.gr",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "8b6d2d1dce013ca6",
+   "titolo": "Wall Street: «Ξεθύμανε» το ράλι της Nvidia – Επιμένουν οι ανησυχίες για AI",
+   "punteggio": 7.9,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-24T23:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Wall Street: «Ξεθύμανε» το ράλι της Nvidia – Επιμένουν οι ανησυχίες για AI",
+     "url": "https://www.inewsgr.com/93/Wall-Street-xethymane-to-rali-tis-Nvidia--epimenoun-oi-anisychies-gia-AI.htm",
+     "fonte": "inewsgr.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Nvidia in calo a Wall Street, perde il 4,3%",
+     "url": "https://www.ansa.it/sito/notizie/economia/2026/11/24/nvidia-in-calo-a-wall-street-perde-il-43_a822e155-eb1c-4c2d-a80b-ba524d60dabb.html",
+     "fonte": "ANSA Economia",
+     "solo_verifica": true,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "aa98f7413e1c0004",
+   "titolo": "Nasdaq Tumbles Amid New Tariffs Threats; What To Do During The Rally Attempt",
+   "punteggio": 7.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Nasdaq Tumbles Amid New Tariffs Threats; What To Do During The Rally Attempt",
+     "url": "https://www.investors.com/market-trend/the-big-picture/nasdaq-tariff-threats-stock-market-rally-attempt/",
+     "fonte": "investors.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "7e7b353b3fb838da",
+   "titolo": "Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion",
+   "punteggio": 7.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion",
+     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/crypto-market-today-nov-24-bitcoin-falls-below-usd60-000-as-etf-outflows-hit-a-record-usd4-7-billion/?source=iedfolrf0000001",
+     "fonte": "fool.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "3782b7f4b791221e",
+   "titolo": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
+   "punteggio": 7.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
+     "url": "http://www.kitco.com/news/article/2026-11-24/gold-silver-extend-losses-tech-stocks-slide-fed-inflation-test-looms-kitco",
+     "fonte": "kitco.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "deaaad444efe3acf",
+   "titolo": "Bitcoin bie drejt pragut të 60 mijë dollarëve mes tërheqjeve të vazhdueshme nga fondet ETF-së",
+   "punteggio": 6.9,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Bitcoin bie drejt pragut të 60 mijë dollarëve mes tërheqjeve të vazhdueshme nga fondet ETF-së",
+     "url": "https://www.trtbalkan.com/albanian/article/b742d3296784",
+     "fonte": "trtbalkan.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Bitcoin bie drejt pragut të 60 mijë dollarëve mes tërheqjeve të vazhdueshme nga fondet ETF",
+     "url": "https://www.aa.com.tr/sq/ekonomi/bitcoin-bie-drejt-pragut-t%c3%ab-60-mij%c3%ab-dollar%c3%abve-mes-t%c3%abrheqjeve-t%c3%ab-vazhdueshme-nga-fondet-etf/4135366",
+     "fonte": "aa.com.tr",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "8cdd62f66dae47f7",
    "titolo": "Bce: ultime 15 aste - Borsa Italiana",
-   "punteggio": 8.0,
+   "punteggio": 6.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -61,56 +278,113 @@
    ]
   },
   {
-   "id": "21dc352101d68e02",
-   "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
-   "punteggio": 7.7,
-   "verificata": true,
+   "id": "0c7edadd91e0028f",
+   "titolo": "Netflix (NASDAQ: NFLX) Earns Wall Street Applause, But Earnings Data Points To A Hold",
+   "punteggio": 6.0,
+   "verificata": false,
    "ufficiale": false,
-   "fonti_distinte": 3,
+   "fonti_distinte": 1,
    "categorie": [],
-   "ultima_ora": "2026-11-23T16:45:00+00:00",
+   "ultima_ora": "2026-11-24T23:45:00+00:00",
    "link": [
     {
-     "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
-     "url": "https://www.ilmessaggero.it:443/economia/news/borse_oggi_diretta_cosa_sta_succedendo-9908173.html",
-     "fonte": "ilmessaggero.it",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
-     "url": "https://www.ilgazzettino.it/economia/news/borse_oggi_diretta_cosa_succede-9908185.html",
-     "fonte": "ilgazzettino.it",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
-     "url": "https://www.ilmessaggero.it/economia/news/borse_oggi_diretta_cosa_sta_succedendo-9908173.html",
-     "fonte": "ilmessaggero.it",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "La diretta da Wall Street | Le borse Usa rimbalzano grazie al ritorno di Huang a Nvidia: Nasdaq +7%",
-     "url": "https://www.milanofinanza.it/news/la-diretta-da-wall-street-futures-sulle-borse-usa-in-crescita-il-nasdaq-sale-del-3-4-grazie-al-rimbalzo-202611231448344200",
-     "fonte": "Milano Finanza",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Borse oggi in diretta, Wall Street vola in avvio: Nasdaq +7% con ritorno Huang",
-     "url": "https://www.ilgazzettino.it:443/economia/news/borse_oggi_diretta_cosa_succede-9908185.html",
-     "fonte": "ilgazzettino.it",
+     "titolo": "Netflix (NASDAQ: NFLX) Earns Wall Street Applause, But Earnings Data Points To A Hold",
+     "url": "https://www.foreignpolicyjournal.com/2026/11/24/netflix-nasdaq-nflx-earns-wall-street-applause-but-earnings-data-points-to-a-hold/",
+     "fonte": "foreignpolicyjournal.com",
      "solo_verifica": false,
      "via": "GDELT"
     }
    ]
   },
   {
+   "id": "5fb4ad9a136696a4",
+   "titolo": "Macklem says oil price pressures are lingering on inflation forecast",
+   "punteggio": 6.0,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Macklem says oil price pressures are lingering on inflation forecast",
+     "url": "https://www.bnnbloomberg.ca/business/economics/2026/11/24/macklem-says-inflation-forecast-is-lower-but-oil-price-pressures-are-lingering/",
+     "fonte": "bnnbloomberg.ca",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Macklem says inflation forecast is lower, but oil price pressures are lingering",
+     "url": "https://www.wellandtribune.ca/business/macklem-says-inflation-forecast-is-lower-but-oil-price-pressures-are-lingering/article_a7b9c34d-a2e7-58b8-b4ed-95da4d192a39.html",
+     "fonte": "wellandtribune.ca",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "ed7eb2071aea1f93",
+   "titolo": "Il sovrintendente Claudio Parisi Presicce: «I ragazzi riscoprono l'antichità anche attraverso i video su TikTok. Ho fatto da guida a Crowe e Lagarde. La mia famiglia? Ho 52 cugini»",
+   "punteggio": 6.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Il sovrintendente Claudio Parisi Presicce: «I ragazzi riscoprono l'antichità anche attraverso i video su TikTok. Ho fatto da guida a Crowe e Lagarde. La mia famiglia? Ho 52 cugini»",
+     "url": "https://www.corriere.it/cronache/26_novembre_24/sovrintendente-claudio-parisi-presicce-intervista-23386324-b161-492f-9d79-bc1d2733bxlk.shtml",
+     "fonte": "Corriere della Sera",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "8b3062381ff70288",
+   "titolo": "Wall Street cierra mixto, con Nasdaq y S&P 500 en rojo por caída de tecnológicas",
+   "punteggio": 5.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Wall Street cierra mixto, con Nasdaq y S&P 500 en rojo por caída de tecnológicas",
+     "url": "https://acento.com.do/economia/wall-street-cierra-mixto-con-nasdaq-y-sp-500-en-rojo-por-caida-de-tecnologicas-9796005.html",
+     "fonte": "acento.com.do",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "a22a480c189f7b85",
+   "titolo": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+   "punteggio": 5.1,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-24T19:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+     "fonte": "Federal Reserve",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "09c827e94ca89f01",
    "titolo": "Bce: Vujcic, integrazione porta resilienza, shock inevitabili, bisogna adattarsi",
-   "punteggio": 7.0,
+   "punteggio": 5.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -129,7 +403,7 @@
   {
    "id": "d1d14e40bbb0b83d",
    "titolo": "Bce: Vujcic, istituzioni credibili e stabilita' prezzi ancora salvezza contro shock",
-   "punteggio": 7.0,
+   "punteggio": 5.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -146,40 +420,228 @@
    ]
   },
   {
-   "id": "946eb68be6ea41d3",
-   "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
-   "punteggio": 5.7,
-   "verificata": true,
+   "id": "494039392891e094",
+   "titolo": "In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?",
+   "punteggio": 5.0,
+   "verificata": false,
    "ufficiale": false,
-   "fonti_distinte": 4,
+   "fonti_distinte": 1,
    "categorie": [],
-   "ultima_ora": "2026-11-23T16:30:00+00:00",
+   "ultima_ora": "2026-11-24T23:45:00+00:00",
    "link": [
     {
-     "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
-     "url": "https://nbcmontana.com/news/nation-world/nvidia-leads-wall-street-rebound-as-stocks-recover-from-steep-losses-jensen-huang-ceo-reinstated-sp-500-nasdaq-dow-jones-industrial-average-artificial-intelligence-ai-news",
-     "fonte": "nbcmontana.com",
+     "titolo": "In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?",
+     "url": "https://www.fool.com/investing/2026/11/24/in-response-to-the-turmoil-at-nvidia-bitcoin-drops-below-usd70-000-is-this-a-buy-the-dip-opportunity/?source=iedfolrf0000001",
+     "fonte": "fool.com",
      "solo_verifica": false,
      "via": "GDELT"
-    },
+    }
+   ]
+  },
+  {
+   "id": "b88c86f83a9f9e7c",
+   "titolo": "Why are US Stock Market indexes S&P 500, Nasdaq down after historic highs?",
+   "punteggio": 4.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:45:00+00:00",
+   "link": [
     {
-     "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
-     "url": "https://foxbaltimore.com/news/nation-world/nvidia-leads-wall-street-rebound-as-stocks-recover-from-steep-losses-jensen-huang-ceo-reinstated-sp-500-nasdaq-dow-jones-industrial-average-artificial-intelligence-ai-news",
-     "fonte": "foxbaltimore.com",
+     "titolo": "Why are US Stock Market indexes S&P 500, Nasdaq down after historic highs?",
+     "url": "https://economictimes.indiatimes.com/world/us/why-are-us-stock-market-indexes-sp-500-nasdaq-down-after-historic-highs/articleshow/136144084.cms",
+     "fonte": "indiatimes.com",
      "solo_verifica": false,
      "via": "GDELT"
-    },
+    }
+   ]
+  },
+  {
+   "id": "fecc587359ab238f",
+   "titolo": "U.S. Government Input Seals Jensen Huang's Return To Nvidia (NASDAQ: NVDA) As Stock Rockets 32%",
+   "punteggio": 4.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:45:00+00:00",
+   "link": [
     {
-     "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
-     "url": "https://wchstv.com/news/nation-world/nvidia-leads-wall-street-rebound-as-stocks-recover-from-steep-losses-jensen-huang-ceo-reinstated-sp-500-nasdaq-dow-jones-industrial-average-artificial-intelligence-ai-news",
-     "fonte": "wchstv.com",
+     "titolo": "U.S. Government Input Seals Jensen Huang's Return To Nvidia (NASDAQ: NVDA) As Stock Rockets 32%",
+     "url": "https://www.foreignpolicyjournal.com/2026/11/24/u-s-government-input-seals-jensen-huangs-return-to-nvidia-nasdaq-nvda-as-stock-rockets-32/",
+     "fonte": "foreignpolicyjournal.com",
      "solo_verifica": false,
      "via": "GDELT"
-    },
+    }
+   ]
+  },
+  {
+   "id": "fbee187a2cf779ad",
+   "titolo": "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
+   "punteggio": 4.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "link": [
     {
-     "titolo": "Nvidia leads Wall Street rebound as stocks recover from steep losses",
-     "url": "https://nebraska.tv/news/nation-world/nvidia-leads-wall-street-rebound-as-stocks-recover-from-steep-losses-jensen-huang-ceo-reinstated-sp-500-nasdaq-dow-jones-industrial-average-artificial-intelligence-ai-news",
-     "fonte": "nebraska.tv",
+     "titolo": "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
+     "url": "http://www.kitco.com/news/off-the-wire/2026-11-24/canadian-dollar-hits-11-day-high-investors-raise-boc-rate-hike-bets",
+     "fonte": "kitco.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "4350414c30f64259",
+   "titolo": "Nasdaq gibt nach: Tech-Werte und Furcht vor neuen US-Strafzöllen belasten die Wall Street",
+   "punteggio": 4.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Nasdaq gibt nach: Tech-Werte und Furcht vor neuen US-Strafzöllen belasten die Wall Street",
+     "url": "https://www.n-tv.de/wirtschaft/Tech-Werte-und-Furcht-vor-neuen-US-Strafzoellen-belasten-die-Wall-Street-id31573726.html",
+     "fonte": "n-tv.de",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "8883f1be5685d6c7",
+   "titolo": "Wall Street cierra mixto: Dow Jones recupera los 50.000 puntos mientras los semiconductores se desploman casi 8% y arrastran al Nasdaq",
+   "punteggio": 4.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Wall Street cierra mixto: Dow Jones recupera los 50.000 puntos mientras los semiconductores se desploman casi 8% y arrastran al Nasdaq",
+     "url": "https://www.cnnchile.com/negocios/wall-street-mixto-dow-jones-50000-caida-semiconductores-nasdaq/",
+     "fonte": "cnnchile.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "1d64a9f51d26796e",
+   "titolo": "Huang si scusa con i dipendenti di Nvidia: «Ho fatto errori terribili, ora vado in terapia. Non è stato Trump a farmi tornare»",
+   "punteggio": 4.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Huang si scusa con i dipendenti di Nvidia: «Ho fatto errori terribili, ora vado in terapia. Non è stato Trump a farmi tornare»",
+     "url": "https://www.corriere.it/economia/finanza/26_novembre_24/huang-non-e-stato-trump-a-farmi-tornare-ho-fatto-errori-terribili-ora-vado-in-terapia-52f190d4-0ebf-470b-be66-5ff93a5b1xlk.shtml",
+     "fonte": "Corriere della Sera",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "4bb64cc3e4584629",
+   "titolo": "Property market gets fresh rate cut hope as ANZ changes its outlook",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Property market gets fresh rate cut hope as ANZ changes its outlook",
+     "url": "https://www.realestatebusiness.com.au/sales/32764-property-market-gets-fresh-rate-cut-hope-as-anz-changes-its-outlook",
+     "fonte": "realestatebusiness.com.au",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "fa3a6b7f6cd9cbe6",
+   "titolo": "Wall Street cierra en terreno mixto con nuevas caídas de Anthropic y Nvidia - NotiCel - La verdad como es - Noticias de Puerto Rico",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Wall Street cierra en terreno mixto con nuevas caídas de Anthropic y Nvidia - NotiCel - La verdad como es - Noticias de Puerto Rico",
+     "url": "https://noticel.com/noticias/20261124/wall-street-cierra-en-terreno-mixto-con-nuevas-caidas-de-anthropic-y-nvidia/",
+     "fonte": "noticel.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "fdc16ee032d67fb0",
+   "titolo": "Wall Street en ordre dispersé, le rebond lié à Nvidia s'estompe - 24/11/2026 à 22:59",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Wall Street en ordre dispersé, le rebond lié à Nvidia s'estompe - 24/11/2026 à 22:59",
+     "url": "https://www.boursorama.com/bourse/actualites/wall-street-en-ordre-disperse-le-rebond-lie-a-nvidia-s-estompe-b34d83a8b4d7ce6364b0fbe496892430",
+     "fonte": "boursorama.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "4844e570b21d3539",
+   "titolo": "Bending Spoons, Ferrari e altri due fondatori vanno all'incasso: convertito un pacchetto di azioni. Che ora possono vendere",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Bending Spoons, Ferrari e altri due fondatori vanno all'incasso: convertito un pacchetto di azioni. Che ora possono vendere",
+     "url": "https://www.milanofinanza.it/news/bending-spoons-ferrari-e-altri-due-fondatori-vanno-all-incasso-convertito-un-pacchetto-di-azioni-che-202611241813193503",
+     "fonte": "Milano Finanza",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "e143263c44b0786c",
+   "titolo": "Stellantis, per Mirafiori piano da 90 mila Fiat 500 nel 2027 con la nuova batteria per l'elettrica",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Stellantis, per Mirafiori piano da 90 mila Fiat 500 nel 2027 con la nuova batteria per l'elettrica",
+     "url": "https://www.milanofinanza.it/news/stellantis-per-mirafiori-piano-da-90-mila-fiat-500-nel-2027-con-la-nuova-batteria-per-l-elettrica-202611241852488940",
+     "fonte": "Milano Finanza",
      "solo_verifica": false,
      "via": "GDELT"
     }
@@ -188,7 +650,7 @@
   {
    "id": "e761572b8212c00f",
    "titolo": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
-   "punteggio": 5.4,
+   "punteggio": 3.5,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -209,7 +671,7 @@
   {
    "id": "09662810c5bb2c42",
    "titolo": "Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue - Ultima ora",
-   "punteggio": 5.0,
+   "punteggio": 3.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -235,7 +697,7 @@
   {
    "id": "c08847a458163853",
    "titolo": "Nvidia depremi tersine döndü! Borsalar uçtu, altın ve Bitcoin yükselişe geçti",
-   "punteggio": 4.9,
+   "punteggio": 3.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -254,7 +716,7 @@
   {
    "id": "0df012e7994c6645",
    "titolo": "Pound claws above 19-month low, as dollar pauses after Nvidia-driven rally",
-   "punteggio": 4.0,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -273,7 +735,7 @@
   {
    "id": "b3e644a0efd47025",
    "titolo": "Nvidia's 37% rally wipes out gains for bearish investors; leveraged short ETFs plunge up to 92%",
-   "punteggio": 4.0,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -292,7 +754,7 @@
   {
    "id": "a81ca7dee7e724d2",
    "titolo": "Tripoli, 'nessuna intesa con Kiev per l'attacco alle navi russe a Bengasi' - Nazioni",
-   "punteggio": 4.0,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -311,7 +773,7 @@
   {
    "id": "bd485fef553a7903",
    "titolo": "Intesa Sanpaolo Assicurazioni supporta le imprese innovative ad impatto sociale - Notizie",
-   "punteggio": 4.0,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -328,9 +790,47 @@
    ]
   },
   {
+   "id": "bcd5254ee7c3bb5b",
+   "titolo": "Opinioni | Il falso dilemma su Kiev",
+   "punteggio": 2.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Opinioni | Il falso dilemma su Kiev",
+     "url": "https://www.corriere.it/opinioni/26_novembre_24/il-falso-dilemma-su-kiev-39b35cf5-548a-4af4-b6dc-26042ca79xlk.shtml",
+     "fonte": "Corriere della Sera",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "294de5cb7de44802",
+   "titolo": "Manovra, i temi caldi nel centrodestra e la spinta sul condono. L'Ue promuove i conti dell'Italia",
+   "punteggio": 2.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Manovra, i temi caldi nel centrodestra e la spinta sul condono. L'Ue promuove i conti dell'Italia",
+     "url": "https://www.corriere.it/economia/finanza/26_novembre_24/manovra-temi-maggioranza-ue-promuove-conti-italia-d6c7e558-0302-4d28-90f6-7103288abxlk.shtml",
+     "fonte": "Corriere della Sera",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "a142b1ad55166b48",
    "titolo": "Europe's earnings boom challenges Wall Street, but may prove fleeting",
-   "punteggio": 3.9,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -349,7 +849,7 @@
   {
    "id": "2db5d3090a0ac43e",
    "titolo": "Nvidia rally triggers losses of up to 92% for leveraged…",
-   "punteggio": 3.9,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -368,7 +868,7 @@
   {
    "id": "a64e83f86f2737d2",
    "titolo": "Chip, AI stocks retreat after record-breaking rally on Huang's return",
-   "punteggio": 3.9,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -387,7 +887,7 @@
   {
    "id": "f40d1d2325ac9ad4",
    "titolo": "NVIDIA-Aktie an der NASDAQ mit Kurssprung: Was Trumps Gewinn und sein Einfluss auf Huangs Rückkehr für Anleger bedeuten",
-   "punteggio": 3.9,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -406,7 +906,7 @@
   {
    "id": "c125a464f7d2cc49",
    "titolo": "Nvidia, il ritorno di Huang e quel dettaglio che nessuno vuole vedere",
-   "punteggio": 3.9,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -425,7 +925,7 @@
   {
    "id": "d21b333d7dccc5b3",
    "titolo": "Booking Holdings Inc. to Present at the Nasdaq 55th Investor Conference",
-   "punteggio": 3.0,
+   "punteggio": 1.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -446,7 +946,7 @@
   {
    "id": "4f7b7000b2892905",
    "titolo": "O que aconteceu com a tentativa de Bukele de transformar El Salvador no 'páis do bitcoin'?",
-   "punteggio": 3.0,
+   "punteggio": 1.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -465,7 +965,7 @@
   {
    "id": "1244e58d0e575d85",
    "titolo": "Borsa elettrica: prezzi orari di mercato - MGP",
-   "punteggio": 3.0,
+   "punteggio": 1.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -484,7 +984,7 @@
   {
    "id": "965853351907f055",
    "titolo": "Borsa elettrica: quotazioni e scambi MGP",
-   "punteggio": 3.0,
+   "punteggio": 1.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -503,7 +1003,7 @@
   {
    "id": "66a5a284012b12ba",
    "titolo": "Gas: indice Italian Gas Index - Borsa Italiana",
-   "punteggio": 3.0,
+   "punteggio": 1.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -520,680 +1020,8 @@
    ]
   },
   {
-   "id": "a44ad3a51ce50678",
-   "titolo": "Micron rialza la testa dopo il crollo a Wall Street. Ecco i tre fattori che sostengono il rimbalzo",
-   "punteggio": 2.6,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-23T16:15:00+00:00",
-   "link": [
-    {
-     "titolo": "Micron rialza la testa dopo il crollo a Wall Street. Ecco i tre fattori che sostengono il rimbalzo",
-     "url": "https://www.milanofinanza.it/news/micron-prova-a-rialzare-la-testa-dopo-il-crollo-in-borsa-tre-fattori-che-potrebbero-favorire-il-202611231538564550",
-     "fonte": "Milano Finanza",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "26cb700d57bbf986",
-   "titolo": "Vaibhav Sooryavanshi: 15-year-old smashes the record for the fastest List A double century",
-   "punteggio": 2.0,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Vaibhav Sooryavanshi: 15-year-old smashes the record for the fastest List A double century",
-     "url": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo",
-     "fonte": "BBC",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "9be97f623e64bc08",
-   "titolo": "Ricette contraffatte per ottenere oppiodi, 45enne arrestato in farmacia in Brianza - Notizie",
-   "punteggio": 2.0,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Ricette contraffatte per ottenere oppiodi, 45enne arrestato in farmacia in Brianza - Notizie",
-     "url": "https://www.ansa.it/lombardia/notizie/2026/11/24/ricette-contraffatte-per-ottenere-oppiodi-45enne-arrestato-in-farmacia-in-brianza_cecd2a22-d37f-48ac-bb47-d6d28a8bbf84.html",
-     "fonte": "ANSA",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "9c866c2ab92d4c1f",
-   "titolo": "Quanto vale il bar italiano e cosa chiedono i clienti",
-   "punteggio": 2.0,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Quanto vale il bar italiano e cosa chiedono i clienti",
-     "url": "https://www.repubblica.it/economia/rapporti/osserva-italia/osservabeverage/2026/11/24/news/quanto_vale_il_bar_italiano_e_cosa_chiedono_i_clienti-425746401/",
-     "fonte": "la Repubblica",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "5d1dfe0fe651c4a0",
-   "titolo": "Imprese: ok Parlamento Ue definizione pmi a media capitalizzazione -2-",
-   "punteggio": 2.0,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Imprese: ok Parlamento Ue definizione pmi a media capitalizzazione -2-",
-     "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/imprese-ok-parlamento-ue-definizione-pmi-a-media-capitalizzazione-2-nRC_24112026_1319_360883129.html",
-     "fonte": "Borsa Italiana",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "2005a8f1b38e8f64",
-   "titolo": "Manovra: tagliola su oltre 1.700 emendamenti, anche la proposta della Lega di alzare l'Ires alle banche - Notizie",
-   "punteggio": 1.9,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T13:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Manovra: tagliola su oltre 1.700 emendamenti, anche la proposta della Lega di alzare l'Ires alle banche - Notizie",
-     "url": "https://www.ansa.it/sito/notizie/politica/2026/11/24/manovra-tagliola-su-oltre-1.700-emendamenti-anche-la-proposta-della-lega-di-alzare_6fda15fa-62be-4fc8-9ee0-e23897a4997a.html",
-     "fonte": "ANSA",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "ef8fbf9b7bfa8f69",
-   "titolo": "QQQ Is Almost Half In 10 Stocks. This Nasdaq ETF Caps Every One at 1%",
-   "punteggio": 1.8,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T03:00:00+00:00",
-   "link": [
-    {
-     "titolo": "QQQ Is Almost Half In 10 Stocks. This Nasdaq ETF Caps Every One at 1%",
-     "url": "https://247wallst.com/investing/etf/2026/11/23/qqq-is-almost-half-in-10-stocks-this-nasdaq-etf-caps-every-one-at-1/",
-     "fonte": "247wallst.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "597c4e81bca6d33b",
-   "titolo": "Asian stocks rally as Huang's Nvidia return revives AI trade",
-   "punteggio": 1.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T02:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Asian stocks rally as Huang's Nvidia return revives AI trade",
-     "url": "https://www.channelnewsasia.com/business/asian-stocks-rally-jensen-huang-nvidia-return-revives-ai-trade-6576636",
-     "fonte": "channelnewsasia.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "4b027a3f2fe0208a",
-   "titolo": "Asian markets follow Wall Street: Nikkei, Kospi jump up to 8% as Jensen Huang's return sparks rally in AI stocks",
-   "punteggio": 1.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T02:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Asian markets follow Wall Street: Nikkei, Kospi jump up to 8% as Jensen Huang's return sparks rally in AI stocks",
-     "url": "https://www.livemint.com/market/stock-market-news/asian-markets-follow-wall-street-nikkei-kospi-jump-up-to-8-as-jensen-huang-s-return-sparks-rally-in-ai-stocks-11795485047635.html",
-     "fonte": "livemint.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "12ec4e8918fce5a5",
-   "titolo": "วอลล์สตรีทคึกคัก! Nvidia จุดพลุดาวโจนส์/S&P 500/Nasdaq",
-   "punteggio": 1.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-23T16:45:00+00:00",
-   "link": [
-    {
-     "titolo": "วอลล์สตรีทคึกคัก! Nvidia จุดพลุดาวโจนส์/S&P 500/Nasdaq",
-     "url": "https://www.ryt9.com/s/iq/12858839",
-     "fonte": "ryt9.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "5d124108e3a18998",
-   "titolo": "Retour de Huang : Nvidia catapultée à Wall Street, le marché s'envole",
-   "punteggio": 1.7,
-   "verificata": true,
-   "ufficiale": false,
-   "fonti_distinte": 2,
-   "categorie": [],
-   "ultima_ora": "2026-11-23T16:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Retour de Huang : Nvidia catapultée à Wall Street, le marché s'envole",
-     "url": "https://www.larepubliquedespyrenees.fr:443/societe/afp/retour-de-huang-nvidia-catapultee-a-wall-street-le-marche-s-envole-31622573.php",
-     "fonte": "larepubliquedespyrenees.fr",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Nvidia catapultée à Wall Street après le retour de Huang",
-     "url": "https://www.rtn.ch/rtn/Actualite/economie/20261123-Nvidia-catapultee-a-Wall-Street-apres-le-retour-de-Huang.html",
-     "fonte": "rtn.ch",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "4946c1026fd8aed2",
-   "titolo": "Nvidia il reintegro di Huang porta il titolo a +33% e fa volare il Nasdaq",
-   "punteggio": 1.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-23T16:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Nvidia il reintegro di Huang porta il titolo a +33% e fa volare il Nasdaq",
-     "url": "https://www.zazoom.it/2026-11-23/nvidia-il-reintegro-di-huang-porta-il-titolo-a-33-e-fa-volare-il-nasdaq/19965998/",
-     "fonte": "zazoom.it",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "1b2ec070d90d9711",
-   "titolo": "Cổ phiếu Nvidia tăng dựng đứng 33%, Nasdaq nhảy vọt 7,4%",
-   "punteggio": 1.7,
-   "verificata": true,
-   "ufficiale": false,
-   "fonti_distinte": 2,
-   "categorie": [],
-   "ultima_ora": "2026-11-23T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Cổ phiếu Nvidia tăng dựng đứng 33%, Nasdaq nhảy vọt 7,4%",
-     "url": "https://cafef.vn/co-phieu-nvidia-tang-dung-dung-33-nasdaq-nhay-vot-74-188261123214752152.chn",
-     "fonte": "cafef.vn",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Cổ phiếu Nvidia tăng vọt 33% và Nasdaq nhảy vọt 7,4 % trong ngày 23/11",
-     "url": "https://cafebiz.vn/co-phieu-nvidia-tang-dung-dung-33-nasdaq-nhay-vot-74-176261123221128971.chn",
-     "fonte": "cafebiz.vn",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "485ea275059d106f",
-   "titolo": "Wall Street estalla: el Nasdaq se dispara un 7% por Nvidia",
-   "punteggio": 1.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-23T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Wall Street estalla: el Nasdaq se dispara un 7% por Nvidia",
-     "url": "https://www.negocios.com/mercados/wall-street-estalla-nasdaq-dispara-7-nvidia/20261123170043498601.html",
-     "fonte": "negocios.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "eb44da2abbf93f7f",
-   "titolo": "'C'è da fare SafeTeen Roma', torna il progetto UniCredit per salute mentale adolescenti",
-   "punteggio": 1.6,
-   "verificata": true,
-   "ufficiale": false,
-   "fonti_distinte": 2,
-   "categorie": [
-    "macro"
-   ],
-   "ultima_ora": "2026-11-23T16:15:00+00:00",
-   "link": [
-    {
-     "titolo": "'C'è da fare SafeTeen Roma', torna il progetto UniCredit per salute mentale adolescenti",
-     "url": "https://www.ilgiornale.it/news/adnkronos/ce-da-fare-safeteen-roma-torna-il-progetto-unicredit-per-salute-mentale-adolescenti/",
-     "fonte": "il Giornale",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Si amplia SafeTeen, il progetto di C'è Da Fare per la salute mentale degli adolescenti",
-     "url": "https://www.ansa.it/sito/notizie/economia/2026/11/23/si-amplia-safeteen-il-progetto-di-ce-da-fare-per-la-salute-mentale-degli-adolescenti_90a38b0a-52fc-49fa-9af0-6b5b7c14c277.html",
-     "fonte": "ANSA Economia",
-     "solo_verifica": true,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "1be2723bd8d76536",
-   "titolo": "Philip R. Lane: Climate change and monetary policy",
-   "punteggio": 1.3,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "macro"
-   ],
-   "ultima_ora": "2026-11-23T14:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Philip R. Lane: Climate change and monetary policy",
-     "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
-     "fonte": "Banca Centrale Europea",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "584ec0140fae76f1",
-   "titolo": "Rates Are Shifting: Gift a CD That Locks In At Least 5.10% APY Before Year-End",
-   "punteggio": 1.2,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T00:04:00+00:00",
-   "link": [
-    {
-     "titolo": "Rates Are Shifting: Gift a CD That Locks In At Least 5.10% APY Before Year-End",
-     "url": "https://www.prnewswire.com/news-releases/rates-are-shifting-gift-a-cd-that-locks-in-at-least-5-10-apy-before-year-end-302948752.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "801fa2c633c8173b",
-   "titolo": "What Your Homeowners Policy Brings to the Table",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:06:00+00:00",
-   "link": [
-    {
-     "titolo": "What Your Homeowners Policy Brings to the Table",
-     "url": "https://www.prnewswire.com/news-releases/what-your-homeowners-policy-brings-to-the-table-302948897.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "cca615a4f6a4aaaa",
-   "titolo": "Cisco to Participate in December Events with the Financial Community",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:05:00+00:00",
-   "link": [
-    {
-     "titolo": "Cisco to Participate in December Events with the Financial Community",
-     "url": "https://www.prnewswire.com/news-releases/cisco-to-participate-in-december-events-with-the-financial-community-302948699.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "86835238f4ebff95",
-   "titolo": "InComm Payments Launches The Gift Card Shop on TikTok Shop",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:03:00+00:00",
-   "link": [
-    {
-     "titolo": "InComm Payments Launches The Gift Card Shop on TikTok Shop",
-     "url": "https://www.prnewswire.com/news-releases/incomm-payments-launches-the-gift-card-shop-on-tiktok-shop-302948688.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "bfe2a7290522e294",
-   "titolo": "ELIE SAAB étend son portefeuille résidentiel mondial avec MAISON 171 sur l'Upper East Side de Manhattan.",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "ELIE SAAB étend son portefeuille résidentiel mondial avec MAISON 171 sur l'Upper East Side de Manhattan.",
-     "url": "https://www.prnewswire.com/news-releases/elie-saab-etend-son-portefeuille-residentiel-mondial-avec-maison-171-sur-lupper-east-side-de-manhattan-302948945.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "7231d26e80dbdb5e",
-   "titolo": "Whitley Penn Offers Complimentary Year-End Tax Planning Resources via Virtual Event",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Whitley Penn Offers Complimentary Year-End Tax Planning Resources via Virtual Event",
-     "url": "https://www.prnewswire.com/news-releases/whitley-penn-offers-complimentary-year-end-tax-planning-resources-via-virtual-event-302948860.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "27a310396c461036",
-   "titolo": "Bayesline Closes $4 Million Institutional Fundraising Round, Led by Nyca Partners",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Bayesline Closes $4 Million Institutional Fundraising Round, Led by Nyca Partners",
-     "url": "https://www.prnewswire.com/news-releases/bayesline-closes-4-million-institutional-fundraising-round-led-by-nyca-partners-302948761.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "43001545bef1cf65",
-   "titolo": "FCP PUBLISHES 2025 CORPORATE RESPONSIBILITY REPORT",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "FCP PUBLISHES 2025 CORPORATE RESPONSIBILITY REPORT",
-     "url": "https://www.prnewswire.com/news-releases/fcp-publishes-2025-corporate-responsibility-report-302948741.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "e644e15ebec0772c",
-   "titolo": "ELIE SAAB Expands its Global Residential Portfolio with MAISON 171 on Manhattan's Upper East Side",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "ELIE SAAB Expands its Global Residential Portfolio with MAISON 171 on Manhattan's Upper East Side",
-     "url": "https://www.prnewswire.com/news-releases/elie-saab-expands-its-global-residential-portfolio-with-maison-171-on-manhattans-upper-east-side-302948769.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    },
-    {
-     "titolo": "ELIE SAAB amplía su cartera residencial global con MAISON 171 en el Upper East Side de Manhattan",
-     "url": "https://www.prnewswire.com/news-releases/elie-saab-amplia-su-cartera-residencial-global-con-maison-171-en-el-upper-east-side-de-manhattan-302949393.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "2a0d02c7c809abda",
-   "titolo": "Northwest Bank Executive Leaders Join Central Ohio Community Nonprofit Boards",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Northwest Bank Executive Leaders Join Central Ohio Community Nonprofit Boards",
-     "url": "https://www.prnewswire.com/news-releases/northwest-bank-executive-leaders-join-central-ohio-community-nonprofit-boards-302948668.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "561c53e0f52eeaec",
-   "titolo": "Rob Lowe Surprises California Teachers as Accredited Debt Relief Helps Pay Off Their Remaining $48K in Debt",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Rob Lowe Surprises California Teachers as Accredited Debt Relief Helps Pay Off Their Remaining $48K in Debt",
-     "url": "https://www.prnewswire.com/news-releases/rob-lowe-surprises-california-teachers-as-accredited-debt-relief-helps-pay-off-their-remaining-48k-in-debt-302948461.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "4fe0ad897ebc599a",
-   "titolo": "ELIE SAAB erweitert sein globales Wohnimmobilienportfolio mit MAISON 171 an der Upper East Side von Manhattan",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "ELIE SAAB erweitert sein globales Wohnimmobilienportfolio mit MAISON 171 an der Upper East Side von Manhattan",
-     "url": "https://www.prnewswire.com/news-releases/elie-saab-erweitert-sein-globales-wohnimmobilienportfolio-mit-maison-171-an-der-upper-east-side-von-manhattan-302948938.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "f666bf63b2d6fb80",
-   "titolo": "Cerberus to Acquire the U.S. Space Systems Business of Airbus",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Cerberus to Acquire the U.S. Space Systems Business of Airbus",
-     "url": "https://www.prnewswire.com/news-releases/cerberus-to-acquire-the-us-space-systems-business-of-airbus-302949473.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "7735ad4f47cb74e9",
-   "titolo": "Budget Season Goes Into Overdrive: 6 in 10 Finance Teams Still Sending Plans Back as Year-End Approaches, Datarails Research Shows",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Budget Season Goes Into Overdrive: 6 in 10 Finance Teams Still Sending Plans Back as Year-End Approaches, Datarails Research Shows",
-     "url": "https://www.prnewswire.com/news-releases/budget-season-goes-into-overdrive-6-in-10-finance-teams-still-sending-plans-back-as-year-end-approaches-datarails-research-shows-302949336.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "c4d72a0e518a9fd8",
-   "titolo": "TENEO APPOINTS ELDER MARQUES AS A SENIOR MANAGING DIRECTOR; WILL LEAD THE FIRM'S EXPANSION INTO OTTAWA",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T14:00:00+00:00",
-   "link": [
-    {
-     "titolo": "TENEO APPOINTS ELDER MARQUES AS A SENIOR MANAGING DIRECTOR; WILL LEAD THE FIRM'S EXPANSION INTO OTTAWA",
-     "url": "https://www.prnewswire.com/news-releases/teneo-appoints-elder-marques-as-a-senior-managing-director-will-lead-the-firms-expansion-into-ottawa-302949443.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "de12ea0f2c6354c4",
-   "titolo": "Cruise Outbreak Shows Clean Ships Don't Guarantee Healthy Sailings",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T13:58:00+00:00",
-   "link": [
-    {
-     "titolo": "Cruise Outbreak Shows Clean Ships Don't Guarantee Healthy Sailings",
-     "url": "https://www.prnewswire.com/news-releases/cruise-outbreak-shows-clean-ships-dont-guarantee-healthy-sailings-302949494.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "6e9c7d2a09f090ac",
-   "titolo": "Stifel Highlights 40 Years as Listed Company: NYSE Content Update",
+   "id": "56ac46ac6074dbb5",
+   "titolo": "Cohen & Steers Total Return Realty Fund, Inc. (RFI) Notification of Sources of Distribution Under Section 19(a)",
    "punteggio": 0.9,
    "verificata": true,
    "ufficiale": true,
@@ -1201,11 +1029,18 @@
    "categorie": [
     "azioni"
    ],
-   "ultima_ora": "2026-11-24T13:55:00+00:00",
+   "ultima_ora": "2026-11-24T23:12:00+00:00",
    "link": [
     {
-     "titolo": "Stifel Highlights 40 Years as Listed Company: NYSE Content Update",
-     "url": "https://www.prnewswire.com/news-releases/stifel-highlights-40-years-as-listed-company-nyse-content-update-302949461.html",
+     "titolo": "Cohen & Steers Total Return Realty Fund, Inc. (RFI) Notification of Sources of Distribution Under Section 19(a)",
+     "url": "https://www.prnewswire.com/news-releases/cohen--steers-total-return-realty-fund-inc-rfi-notification-of-sources-of-distribution-under-section-19a-302949949.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "Cohen & Steers Closed-End Opportunity Fund, Inc. (FOF) Notification of Sources of Distribution Under Section 19(a)",
+     "url": "https://www.prnewswire.com/news-releases/cohen--steers-closed-end-opportunity-fund-inc-fof-notification-of-sources-of-distribution-under-section-19a-302949948.html",
      "fonte": "PR Newswire",
      "solo_verifica": false,
      "via": null
@@ -1213,8 +1048,8 @@
    ]
   },
   {
-   "id": "10f123a026a1b019",
-   "titolo": "The 2026/27 Cloud Awards Shortlist Announced",
+   "id": "14c01c0f19a3c3a1",
+   "titolo": "Cohen & Steers REIT and Preferred and Income Fund, Inc. (RNP) Notification of Sources of Distribution Under Section 19(a)",
    "punteggio": 0.9,
    "verificata": true,
    "ufficiale": true,
@@ -1222,11 +1057,25 @@
    "categorie": [
     "azioni"
    ],
-   "ultima_ora": "2026-11-24T13:53:00+00:00",
+   "ultima_ora": "2026-11-24T23:05:00+00:00",
    "link": [
     {
-     "titolo": "The 2026/27 Cloud Awards Shortlist Announced",
-     "url": "https://www.prnewswire.com/news-releases/the-202627-cloud-awards-shortlist-announced-302948386.html",
+     "titolo": "Cohen & Steers REIT and Preferred and Income Fund, Inc. (RNP) Notification of Sources of Distribution Under Section 19(a)",
+     "url": "https://www.prnewswire.com/news-releases/cohen--steers-reit-and-preferred-and-income-fund-inc-rnp-notification-of-sources-of-distribution-under-section-19a-302949945.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "Cohen & Steers Quality Income Realty Fund, Inc. (RQI) Notification of Sources of Distribution Under Section 19(a)",
+     "url": "https://www.prnewswire.com/news-releases/cohen--steers-quality-income-realty-fund-inc-rqi-notification-of-sources-of-distribution-under-section-19a-302949944.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "Cohen & Steers Infrastructure Fund, Inc. (UTF) Notification of Sources of Distribution Under Section 19(a)",
+     "url": "https://www.prnewswire.com/news-releases/cohen--steers-infrastructure-fund-inc-utf-notification-of-sources-of-distribution-under-section-19a-302949937.html",
      "fonte": "PR Newswire",
      "solo_verifica": false,
      "via": null
@@ -1234,20 +1083,20 @@
    ]
   },
   {
-   "id": "f08d6e48a1bcb176",
-   "titolo": "Justa CRM Launches to Transform How Residential Property Management Companies Win New Business",
-   "punteggio": 0.9,
+   "id": "986d43bdd95b9cf2",
+   "titolo": "Alpheya Expands Access to Benzinga News and Market Intelligence",
+   "punteggio": 0.8,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
    "categorie": [
     "azioni"
    ],
-   "ultima_ora": "2026-11-24T13:51:00+00:00",
+   "ultima_ora": "2026-11-24T22:37:00+00:00",
    "link": [
     {
-     "titolo": "Justa CRM Launches to Transform How Residential Property Management Companies Win New Business",
-     "url": "https://www.prnewswire.com/news-releases/justa-crm-launches-to-transform-how-residential-property-management-companies-win-new-business-302948434.html",
+     "titolo": "Alpheya Expands Access to Benzinga News and Market Intelligence",
+     "url": "https://www.prnewswire.com/news-releases/alpheya-expands-access-to-benzinga-news-and-market-intelligence-302949935.html",
      "fonte": "PR Newswire",
      "solo_verifica": false,
      "via": null
@@ -1255,21 +1104,170 @@
    ]
   },
   {
-   "id": "b02437daae27828c",
-   "titolo": "Have you downloaded Meta's AI assistant Muse or do you plan to? | AI (artificial intelligence)",
-   "punteggio": 0.9,
-   "verificata": false,
-   "ufficiale": false,
+   "id": "5296409824e083cd",
+   "titolo": "Centuri Holdings Set to Join S&P SmallCap 600",
+   "punteggio": 0.8,
+   "verificata": true,
+   "ufficiale": true,
    "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T13:45:00+00:00",
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-24T22:32:00+00:00",
    "link": [
     {
-     "titolo": "Have you downloaded Meta's AI assistant Muse or do you plan to? | AI (artificial intelligence)",
-     "url": "https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to",
-     "fonte": "The Guardian",
+     "titolo": "Centuri Holdings Set to Join S&P SmallCap 600",
+     "url": "https://www.prnewswire.com/news-releases/centuri-holdings-set-to-join-sp-smallcap-600-302949933.html",
+     "fonte": "PR Newswire",
      "solo_verifica": false,
-     "via": "GDELT"
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "32dab19846764307",
+   "titolo": "Preserve the Pensions Project to Digitize War of 1812 Pension Files is Now Complete",
+   "punteggio": 0.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-24T21:47:00+00:00",
+   "link": [
+    {
+     "titolo": "Preserve the Pensions Project to Digitize War of 1812 Pension Files is Now Complete",
+     "url": "https://www.prnewswire.com/news-releases/preserve-the-pensions-project-to-digitize-war-of-1812-pension-files-is-now-complete-302949902.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "28010a412572723f",
+   "titolo": "IntraFi Cofounder and CEO Mark Jacobsen Named EY Entrepreneur Of The Year in Financial Services",
+   "punteggio": 0.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-24T21:31:00+00:00",
+   "link": [
+    {
+     "titolo": "IntraFi Cofounder and CEO Mark Jacobsen Named EY Entrepreneur Of The Year in Financial Services",
+     "url": "https://www.prnewswire.com/news-releases/intrafi-cofounder-and-ceo-mark-jacobsen-named-ey-entrepreneur-of-the-year-in-financial-services-302949889.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "12a5561d55445b8c",
+   "titolo": "NOAH HOLDINGS LIMITED ANNOUNCES UNAUDITED FINANCIAL RESULTS FOR THE THIRD QUARTER OF 2026",
+   "punteggio": 0.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-24T21:30:00+00:00",
+   "link": [
+    {
+     "titolo": "NOAH HOLDINGS LIMITED ANNOUNCES UNAUDITED FINANCIAL RESULTS FOR THE THIRD QUARTER OF 2026",
+     "url": "https://www.prnewswire.com/news-releases/noah-holdings-limited-announces-unaudited-financial-results-for-the-third-quarter-of-2026-302949558.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "13217f1dca68b436",
+   "titolo": "First Horizon Corporation to Participate in the Goldman Sachs 2026 Financial Services Conference",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-24T21:15:00+00:00",
+   "link": [
+    {
+     "titolo": "First Horizon Corporation to Participate in the Goldman Sachs 2026 Financial Services Conference",
+     "url": "https://www.prnewswire.com/news-releases/first-horizon-corporation-to-participate-in-the-goldman-sachs-2026-financial-services-conference-302948690.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "a78307e150ac2d28",
+   "titolo": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in October",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-24T21:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in October",
+     "url": "https://www.prnewswire.com/news-releases/lazard-global-total-return-and-income-fund-declares-monthly-distribution-and-issues-estimated-sources-of-the-distribution-announced-in-october-302949838.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "c6118b072365e285",
+   "titolo": "Third Coast Bank Names Liz Eber Chief Legal and Operating Officer",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-24T21:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Third Coast Bank Names Liz Eber Chief Legal and Operating Officer",
+     "url": "https://www.prnewswire.com/news-releases/third-coast-bank-names-liz-eber-chief-legal-and-operating-officer-302949870.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "2f3614815280eeba",
+   "titolo": "CleanSpark Reports Fiscal Fourth Quarter and Full Year 2026 Financial and Operating Results",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-24T21:05:00+00:00",
+   "link": [
+    {
+     "titolo": "CleanSpark Reports Fiscal Fourth Quarter and Full Year 2026 Financial and Operating Results",
+     "url": "https://www.prnewswire.com/news-releases/cleanspark-reports-fiscal-fourth-quarter-and-full-year-2026-financial-and-operating-results-302949861.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
     }
    ]
   }
