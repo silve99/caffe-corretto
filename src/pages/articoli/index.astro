@@ -2,10 +2,12 @@
 import Base from '../../layouts/Base.astro';
 import SchedaArticolo from '../../components/SchedaArticolo.astro';
 import { articoliPubblicati } from '../../lib/articoli';
+import { SEZIONE_GUIDE } from '../../lib/guide';
 const tutti = await articoliPubblicati();
 ---
-<Base titolo="Archivio" descrizione="Tutti gli articoli di Caffè Corretto su borse, cripto ed economia.">
-  <h1>Archivio</h1>
+<Base titolo="Le notizie del giorno" descrizione="Tutte le notizie di Caffè Corretto su borse, cripto ed economia, dal caffè delle 06:30 alle notizie brevi.">
+  <h1>Le notizie del giorno</h1>
+  <p class="meta">Ogni mattina alle 06:30. Per capire le basi con calma ci sono <a href={"/guide/"}>le guide di {SEZIONE_GUIDE.nome}</a>.</p>
   {tutti.length === 0 ? <p class="vuoto">Ancora nessun articolo.</p> : (
     <ul class="lista">{tutti.map((a) => <SchedaArticolo articolo={a} />)}</ul>
   )}

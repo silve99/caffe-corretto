@@ -80,6 +80,12 @@ bozza: false
 
 In `fonti` elenca **tutte** le fonti dei fatti citati (link originali). Per i dati: BCE e CoinGecko.
 
+## 4bis. Collegamenti alle guide
+
+Se nel testo compare un concetto spiegato in una delle nostre guide (`src/content/guide/`), metti un link
+la prima volta che lo nomini, per esempio `[ETF](/guide/cos-e-un-etf/)`. Al massimo 2 link per articolo.
+Aiuta i lettori che partono da zero e fa salire le guide su Google.
+
 ## 5. Controlli prima di consegnare
 
 - [ ] Ogni numero nel testo è in `mercati/ultimo.json` o nel titolo di una fonte elencata.

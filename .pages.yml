@@ -44,6 +44,14 @@ content:
           - { name: linkedin, label: LinkedIn, type: string }
           - { name: youtube, label: YouTube, type: string }
           - { name: tiktok, label: TikTok, type: string }
+      - name: guide
+        label: Sezione guide
+        description: Nome e testi della sezione con le guide (compare nel menu in alto e nella home).
+        type: object
+        fields:
+          - { name: nome, label: Nome della sezione, type: string, required: true }
+          - { name: sottotitolo, label: Sottotitolo, type: string }
+          - { name: descrizione, label: Descrizione per Google, type: text, options: { maxlength: 170 } }
 
   - name: pagine
     label: Pagine (chi siamo, contatti, legali)
@@ -134,5 +142,77 @@ content:
       - name: body
         label: Testo dell'articolo
         description: Gli articoli con tabelle si modificano meglio in modalità Source.
+        type: rich-text
+        options: { format: markdown }
+
+  - name: guide
+    label: Guide
+    type: collection
+    path: src/content/guide
+    filename: "{primary}.md"
+    view:
+      primary: titolo
+      fields: [titolo, tema, data, bozza]
+      sort: data
+      order: desc
+    fields:
+      - name: titolo
+        label: Titolo
+        type: string
+        required: true
+        options: { maxlength: 110 }
+      - name: descrizione
+        label: Descrizione per Google (massimo 170 caratteri)
+        type: text
+        required: true
+        options: { maxlength: 170 }
+      - name: data
+        label: Data di pubblicazione
+        type: date
+        required: true
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+      - name: aggiornato
+        label: Data dell'ultimo aggiornamento (facoltativa)
+        type: date
+        options:
+          time: true
+          format: "yyyy-MM-dd'T'HH:mm:ssXXX"
+      - name: tema
+        label: Tema
+        type: select
+        default: basi
+        options:
+          values:
+            - { name: basi, label: Le basi }
+            - { name: risparmio, label: Risparmio }
+            - { name: azioni, label: Azioni }
+            - { name: obbligazioni, label: Obbligazioni e BTP }
+            - { name: etf-fondi, label: ETF e fondi }
+            - { name: cripto, label: Cripto }
+            - { name: tasse, label: Tasse }
+      - name: livello
+        label: Livello
+        type: select
+        default: principiante
+        options:
+          values:
+            - { name: principiante, label: Per chi parte da zero }
+            - { name: intermedio, label: Per chi sa già le basi }
+      - name: fonti
+        label: Fonti ufficiali
+        type: object
+        list: true
+        fields:
+          - { name: nome, label: Nome della fonte, type: string, required: true }
+          - { name: url, label: Indirizzo (https://...), type: string, required: true }
+      - name: bozza
+        label: Bozza (se attivo, la guida NON compare sul sito)
+        type: boolean
+        default: false
+      - name: body
+        label: Testo della guida
+        description: Le guide con tabelle si modificano meglio in modalità Source.
         type: rich-text
         options: { format: markdown }

@@ -2,5 +2,10 @@
   "nome": "Caffè Corretto",
   "sottotitolo": "I mercati prima del caffè",
   "descrizione": "Ogni mattina alle 06:30 le notizie che contano su finanza, cripto ed economia, spiegate in modo semplice per chi risparmia e investe.",
-  "emailContatti": "caffecorretto.redazione@gmail.com"
+  "emailContatti": "caffecorretto.redazione@gmail.com",
+  "guide": {
+    "nome": "Caffè Lungo",
+    "sottotitolo": "Le guide per capire la finanza con calma, un sorso alla volta",
+    "descrizione": "Guide semplici su ETF, BTP, azioni, cripto e risparmio: tutto quello che serve per capire i propri soldi, spiegato senza paroloni."
+  }
 }

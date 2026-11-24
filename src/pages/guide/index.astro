@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import SchedaGuida from '../../components/SchedaGuida.astro';
+import { guidePubblicate, etichettaTema, SEZIONE_GUIDE } from '../../lib/guide';
+import { TEMI_GUIDE } from '../../content.config';
+
+const tutte = await guidePubblicate();
+// Raggruppa per tema, nell'ordine dei temi (prima le basi).
+const gruppi = TEMI_GUIDE.map((t) => ({ tema: t, guide: tutte.filter((g) => g.data.tema === t) })).filter((g) => g.guide.length);
+---
+<Base titolo={`${SEZIONE_GUIDE.nome}: le guide`} descrizione={SEZIONE_GUIDE.descrizione}>
+  <div class="occhiello">Le guide</div>
+  <h1>{SEZIONE_GUIDE.nome}</h1>
+  <p class="meta">{SEZIONE_GUIDE.sottotitolo}</p>
+  <p>{SEZIONE_GUIDE.descrizione} Per le notizie di oggi c'è <a href="/articoli/">il caffè del mattino</a>.</p>
+  {tutte.length === 0 && <p class="vuoto">La prima guida è in preparazione.</p>}
+  {gruppi.length > 1 && (
+    <nav class="temi" aria-label="Temi">{gruppi.map((g) => <a href={`#${g.tema}`}>{etichettaTema[g.tema]}</a>)}</nav>
+  )}
+  {gruppi.map((g) => (
+    <section>
+      <h2 id={g.tema}>{etichettaTema[g.tema]}</h2>
+      <ul class="lista">{g.guide.map((guida) => <SchedaGuida guida={guida} />)}</ul>
+    </section>
+  ))}
+</Base>

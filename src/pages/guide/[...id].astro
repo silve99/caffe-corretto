@@ -1,0 +1,73 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import SchedaGuida from '../../components/SchedaGuida.astro';
+import { guidePubblicate, etichettaTema, minutiLettura, SEZIONE_GUIDE, type Guida } from '../../lib/guide';
+import { formatoData } from '../../lib/articoli';
+import { SITO } from '../../config';
+
+export async function getStaticPaths() {
+  const tutte = await guidePubblicate();
+  return tutte.map((guida) => ({ params: { id: guida.id }, props: { guida, tutte } }));
+}
+const { guida, tutte } = Astro.props as { guida: Guida; tutte: Guida[] };
+const { titolo, descrizione, data, aggiornato, tema, fonti } = guida.data;
+const { Content } = await render(guida);
+const url = new URL(Astro.url.pathname, Astro.site).toString();
+const ultimaModifica = aggiornato ?? data;
+// "Leggi anche": prima le guide dello stesso tema, poi le più recenti.
+const altre = tutte.filter((g) => g.id !== guida.id);
+const correlate = [...altre.filter((g) => g.data.tema === tema), ...altre.filter((g) => g.data.tema !== tema)].slice(0, 3);
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Article',
+      headline: titolo,
+      description: descrizione,
+      datePublished: data.toISOString(),
+      dateModified: ultimaModifica.toISOString(),
+      inLanguage: SITO.lingua,
+      mainEntityOfPage: url,
+      author: { '@type': 'Organization', name: 'Redazione ' + SITO.nome, url: new URL('/chi-siamo/', Astro.site).toString() },
+      publisher: { '@type': 'Organization', name: SITO.nome },
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: SITO.nome, item: new URL('/', Astro.site).toString() },
+        { '@type': 'ListItem', position: 2, name: SEZIONE_GUIDE.nome, item: new URL('/guide/', Astro.site).toString() },
+        { '@type': 'ListItem', position: 3, name: titolo, item: url },
+      ],
+    },
+  ],
+};
+---
+<Base titolo={titolo} descrizione={descrizione} tipoOg="article" jsonLd={jsonLd}>
+  <article class="testo">
+    <p class="briciole"><a href="/guide/">{SEZIONE_GUIDE.nome}</a> › {etichettaTema[tema] ?? tema}</p>
+    <h1>{titolo}</h1>
+    <p class="meta">
+      {minutiLettura(guida.body)} min di lettura{' · '}{aggiornato ? 'Aggiornata' : 'Pubblicata'} il{' '}
+      <time datetime={ultimaModifica.toISOString()}>{formatoData(ultimaModifica)}</time>{' · '}Redazione {SITO.nome}
+    </p>
+    <Content />
+    {fonti.length > 0 && (
+      <section class="fonti">
+        <strong>Per approfondire (fonti ufficiali)</strong>
+        <ul>{fonti.map((f) => <li><a href={f.url} rel="noopener" target="_blank">{f.nome}</a></li>)}</ul>
+      </section>
+    )}
+    <p class="fonti">
+      Questa guida è preparata con l'aiuto dell'intelligenza artificiale e rivista sulle fonti ufficiali.
+      Ha solo scopo informativo: non è una consulenza finanziaria né fiscale. Regole e aliquote possono cambiare:
+      controlla sempre le fonti aggiornate. <a href="/come-lavoriamo/">Come lavoriamo</a>.
+    </p>
+  </article>
+  {correlate.length > 0 && (
+    <section>
+      <h2>Leggi anche</h2>
+      <ul class="lista">{correlate.map((g) => <SchedaGuida guida={g} />)}</ul>
+    </section>
+  )}
+</Base>

@@ -1,5 +1,6 @@
 ---
 import { SITO, SOCIAL } from '../config';
+import { SEZIONE_GUIDE } from '../lib/guide';
 import '../styles/global.css';
 
 interface Props {
@@ -46,7 +47,8 @@ const anno = new Date().getFullYear();
           </span>
         </a>
         <nav aria-label="Principale">
-          <a href="/articoli/">Archivio</a>
+          <a href="/articoli/">Notizie</a>
+          <a href="/guide/">{SEZIONE_GUIDE.nome}</a>
           <a href="/chi-siamo/">Chi siamo</a>
           <a href="/contatti/">Contatti</a>
         </nav>
@@ -64,6 +66,7 @@ const anno = new Date().getFullYear();
         <nav aria-label="Note legali">
           <a href="/chi-siamo/">Chi siamo</a>
           <a href="/contatti/">Contatti</a>
+          <a href="/guide/">Le guide</a>
           <a href="/come-lavoriamo/">Come lavoriamo</a>
           <a href="/disclaimer/">Disclaimer</a>
           <a href="/privacy/">Privacy e cookie</a>
