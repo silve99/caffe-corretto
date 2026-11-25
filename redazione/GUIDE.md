@@ -84,6 +84,8 @@ Regime amministrato o dichiarativo · Minusvalenze: come recuperarle · ETF ad a
 distribuzione · Come leggere il KID · Fondo pensione · TFR in azienda o nel fondo pensione ·
 Fondo di garanzia dei depositi (100.000 euro) · Inflazione · Tassi della BCE · Dividendi ·
 FTSE MIB · Stablecoin · Conto titoli · Truffe finanziarie online.
+In uscita il 28 e 30/11/2026 (richiesta di Daniele del 25/11): Tasse sugli ETF con esempi · BTP o conto
+deposito con 1.000 euro · Come si dichiarano le criptovalute · Mutuo e tassi BCE.
 
 Prossime guide automatiche, in ordine:
 
@@ -95,7 +97,7 @@ Prossime guide automatiche, in ordine:
 6. Buoni fruttiferi postali: come funzionano (risparmio)
 7. BOT: cosa sono e come si comprano (obbligazioni)
 8. BTP Italia e titoli legati all'inflazione (obbligazioni)
-9. Mutuo a tasso fisso o variabile: le differenze (basi)
+9. Polizze vita di ramo I: come funzionano (risparmio)
 10. Cos'è il rating di uno Stato o di un'azienda (obbligazioni)
 11. Volatilità: cos'è e come si misura (basi)
 12. Cos'è l'S&P 500 e perché tutti ne parlano (azioni)
