@@ -11,7 +11,7 @@ fonti:
     url: "https://www.borsaitaliana.it/"
   - nome: "Agenzia delle Entrate"
     url: "https://www.agenziaentrate.gov.it/"
-bozza: true
+bozza: false
 ---
 
 Hai un albero di mele. Ogni autunno puoi raccogliere i frutti e mangiarli, oppure lasciarli cadere a terra perché diventino nuovi alberelli. Nel primo caso hai mele ogni anno, nel secondo un frutteto più grande tra vent'anni. Gli [ETF](/glossario/etf/) offrono la stessa scelta, e la trovi scritta nel nome con due sigle: **Acc** e **Dist**.

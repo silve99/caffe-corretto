@@ -11,7 +11,7 @@ fonti:
     url: "https://www.dt.mef.gov.it/it/debito_pubblico/titoli_di_stato/"
   - nome: "Banca d'Italia – Economia per tutti"
     url: "https://economiapertutti.bancaditalia.it/"
-bozza: true
+bozza: false
 ---
 
 Hai guadagnato 1.000 euro con un investimento. Bella notizia. Ma quanti ne arrivano davvero sul tuo conto? Dipende da cosa hai comprato: con un BTP te ne restano 875, con un ETF 740, con una criptovaluta 670. Stesso guadagno, tre risultati diversi. Ecco come funzionano le tasse sugli investimenti in Italia, senza mal di testa.

@@ -11,7 +11,7 @@ fonti:
     url: "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32014R1286"
   - nome: "Banca d'Italia – Economia per tutti"
     url: "https://economiapertutti.bancaditalia.it/"
-bozza: true
+bozza: false
 ---
 
 Prima di comprare un'auto guardi consumi, prezzo e prove su strada. Prima di comprare un fondo, un ETF o una polizza d'investimento esiste un documento che fa lo stesso lavoro, in tre pagine al massimo. Si chiama [KID](/glossario/kid/), è obbligatorio per legge e quasi nessuno lo legge. Ecco come farlo in dieci minuti.
