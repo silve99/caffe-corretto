@@ -9,7 +9,7 @@ fonti:
     url: "https://www.agenziaentrate.gov.it/"
   - nome: "Consob – Educazione finanziaria"
     url: "https://www.consob.it/web/investor-education"
-bozza: true
+bozza: false
 ---
 
 Due amici comprano lo stesso ETF nello stesso giorno. Il primo, a fine anno, non fa nulla: la banca ha già pagato le tasse per lui. Il secondo passa una domenica di primavera a compilare quadri della dichiarazione dei redditi. La differenza non è nell'investimento, ma nel **regime fiscale**. Ecco cosa vuol dire e perché conviene saperlo prima di aprire un conto.

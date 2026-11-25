@@ -9,7 +9,7 @@ fonti:
     url: "https://www.agenziaentrate.gov.it/"
   - nome: "Consob – Educazione finanziaria"
     url: "https://www.consob.it/web/investor-education"
-bozza: true
+bozza: false
 ---
 
 Perdere soldi in Borsa non fa piacere a nessuno. Ma c'è una piccola consolazione che molti ignorano: quella perdita, per il fisco, può diventare un credito. Usata bene, riduce le tasse sui guadagni futuri. Dimenticata in un cassetto, scade e sparisce. Si chiama [minusvalenza](/glossario/minusvalenza/), e conviene conoscerla.

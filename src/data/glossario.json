@@ -354,6 +354,16 @@
       "id": "irs",
       "termine": "IRS (Eurirs)",
       "spiegazione": "Tasso di riferimento per i mutui a tasso fisso: riflette quanto il mercato si aspetta che costi il denaro negli anni futuri."
+    },
+    {
+      "id": "ipo",
+      "termine": "IPO",
+      "spiegazione": "Offerta pubblica iniziale: il debutto in Borsa di una società, che vende per la prima volta le sue azioni al pubblico."
+    },
+    {
+      "id": "dazi",
+      "termine": "Dazi",
+      "spiegazione": "Tasse che uno Stato applica sulle merci importate dall'estero. Rendono i prodotti stranieri più cari e possono scatenare ritorsioni commerciali."
     }
   ]
 }
