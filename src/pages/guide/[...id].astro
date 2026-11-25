@@ -4,7 +4,7 @@ import Base from '../../layouts/Base.astro';
 import SchedaGuida from '../../components/SchedaGuida.astro';
 import { guidePubblicate, etichettaTema, minutiLettura, SEZIONE_GUIDE, type Guida } from '../../lib/guide';
 import { formatoData } from '../../lib/articoli';
-import { SITO } from '../../config';
+import { SITO, editore } from '../../config';
 
 export async function getStaticPaths() {
   const tutte = await guidePubblicate();
@@ -29,8 +29,9 @@ const jsonLd = {
       dateModified: ultimaModifica.toISOString(),
       inLanguage: SITO.lingua,
       mainEntityOfPage: url,
+      image: [new URL(SITO.immagineCondivisione, Astro.site).toString()],
       author: { '@type': 'Organization', name: 'Redazione ' + SITO.nome, url: new URL('/chi-siamo/', Astro.site).toString() },
-      publisher: { '@type': 'Organization', name: SITO.nome },
+      publisher: editore(Astro.site),
     },
     {
       '@type': 'BreadcrumbList',
@@ -43,7 +44,7 @@ const jsonLd = {
   ],
 };
 ---
-<Base titolo={titolo} descrizione={descrizione} tipoOg="article" jsonLd={jsonLd}>
+<Base titolo={titolo} descrizione={descrizione} tipoOg="article" jsonLd={jsonLd} pubblicato={data} modificato={ultimaModifica}>
   <article class="testo">
     <p class="briciole"><a href="/guide/">{SEZIONE_GUIDE.nome}</a> › {etichettaTema[tema] ?? tema}</p>
     <h1>{titolo}</h1>

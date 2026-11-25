@@ -17,6 +17,8 @@ export const SITO = {
   sottotitolo: dati.sottotitolo,
   descrizione: dati.descrizione,
   lingua: 'it-IT',
+  immagineCondivisione: '/immagini/condivisione.png',
+  logo: '/immagini/logo.png',
   emailContatti: (dati.emailContatti ?? '').trim(),
 };
 
@@ -24,3 +26,13 @@ export const SITO = {
 export const SOCIAL = Object.entries(dati.social ?? {})
   .map(([chiave, url]) => ({ chiave, nome: NOMI_SOCIAL[chiave] ?? chiave, url: String(url ?? '').trim() }))
   .filter((s) => /^https?:\/\//.test(s.url));
+
+// Chi pubblica, per i dati strutturati di Google (schema.org). Serve l'indirizzo del sito.
+export const editore = (site: URL | undefined) => ({
+  '@type': 'Organization',
+  name: SITO.nome,
+  url: new URL('/', site).toString(),
+  logo: { '@type': 'ImageObject', url: new URL(SITO.logo, site).toString(), width: 512, height: 512 },
+  ...(SITO.emailContatti ? { email: SITO.emailContatti } : {}),
+  ...(SOCIAL.length ? { sameAs: SOCIAL.map((s) => s.url) } : {}),
+});

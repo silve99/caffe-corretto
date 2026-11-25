@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import SchedaArticolo from '../components/SchedaArticolo.astro';
 import { articoliPubblicati } from '../lib/articoli';
-import { SITO } from '../config';
+import { SITO, editore } from '../config';
 import SchedaGuida from '../components/SchedaGuida.astro';
 import { guidePubblicate, SEZIONE_GUIDE } from '../lib/guide';
 
@@ -12,14 +12,21 @@ const altri = tutti.filter((a) => a !== ultimoRiepilogo).slice(0, 12);
 const guide = (await guidePubblicate()).slice(0, 3);
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'WebSite',
-  name: SITO.nome,
-  description: SITO.descrizione,
-  inLanguage: SITO.lingua,
-  url: Astro.site?.toString(),
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      name: SITO.nome,
+      description: SITO.descrizione,
+      inLanguage: SITO.lingua,
+      url: new URL('/', Astro.site).toString(),
+      publisher: { '@id': new URL('/#editore', Astro.site).toString() },
+    },
+    { ...editore(Astro.site), '@id': new URL('/#editore', Astro.site).toString() },
+  ],
 };
 ---
 <Base jsonLd={jsonLd}>
+  <h1 class="titolo-home">Notizie di Borsa, cripto ed economia del mattino</h1>
   <p class="meta">{SITO.descrizione}</p>
   {tutti.length === 0 && (
     <p class="vuoto">Il primo caffè è in preparazione: torna domani mattina alle 06:30.</p>
