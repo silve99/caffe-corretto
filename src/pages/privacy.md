@@ -15,7 +15,7 @@ descrizione: Informativa privacy e cookie di Caffè Corretto, ai sensi del GDPR 
 
 ## Chi è il titolare del trattamento
 
-Il titolare del trattamento dei dati è il curatore di Caffè Corretto, persona fisica che gestisce il sito a titolo personale.
+Il titolare del trattamento dei dati è **Daniele Silvestroni**, che cura Caffè Corretto a titolo personale.
 
 Per qualsiasi domanda sulla privacy o per esercitare i tuoi diritti scrivi a **[caffecorretto.redazione@gmail.com](mailto:caffecorretto.redazione@gmail.com)**. Rispondiamo entro 30 giorni, di solito molto prima.
 
