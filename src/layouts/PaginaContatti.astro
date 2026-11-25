@@ -1,8 +1,10 @@
 ---
 import Base from './Base.astro';
 import { SITO, SOCIAL } from '../config';
-interface Props { titolo: string; descrizione: string }
-const { titolo, descrizione } = Astro.props;
+// Le pagine in Markdown passano titolo e descrizione nel frontmatter.
+interface Props { titolo?: string; descrizione?: string; frontmatter?: { titolo?: string; descrizione?: string } }
+const titolo = Astro.props.titolo ?? Astro.props.frontmatter?.titolo ?? '';
+const descrizione = Astro.props.descrizione ?? Astro.props.frontmatter?.descrizione;
 ---
 <Base titolo={titolo} descrizione={descrizione}>
   <article class="testo">

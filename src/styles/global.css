@@ -83,3 +83,4 @@ article.testo blockquote { margin: 1.2em 0; padding: 12px 16px; background: var(
 @media (prefers-color-scheme: dark) { #spiegazione strong { color: #7a4a2a; } }
 .glossario dt { font-family: var(--serif); font-weight: 700; font-size: 1.1rem; margin-top: 1em; scroll-margin-top: 16px; }
 .glossario dd { margin: .2em 0 0; }
+.titolo-home { font-size: clamp(1.3rem, 4vw, 1.6rem); margin-top: 0; }

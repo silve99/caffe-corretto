@@ -10,10 +10,19 @@ interface Props {
   tipoOg?: 'website' | 'article';
   jsonLd?: Record<string, unknown>;
   noindex?: boolean;
+  pubblicato?: Date;
+  modificato?: Date;
 }
-const { titolo, descrizione = SITO.descrizione, tipoOg = 'website', jsonLd, noindex = false } = Astro.props;
-const titoloCompleto = titolo ? `${titolo} | ${SITO.nome}` : `${SITO.nome}: ${SITO.sottotitolo.toLowerCase()}`;
+const { titolo, descrizione = SITO.descrizione, tipoOg = 'website', jsonLd, noindex = false, pubblicato, modificato } = Astro.props;
+// Google mostra circa 60-65 caratteri: aggiungiamo il nome del sito solo se ci sta,
+// così il titolo dell'articolo non viene tagliato nei risultati di ricerca.
+const conMarchio = titolo ? `${titolo} | ${SITO.nome}` : '';
+const titoloCompleto = titolo
+  ? (conMarchio.length <= 65 ? conMarchio : titolo)
+  : `${SITO.nome}: ${SITO.sottotitolo.toLowerCase()}`;
 const canonico = new URL(Astro.url.pathname, Astro.site);
+// Immagine mostrata quando un link viene condiviso (WhatsApp, Telegram, Facebook, X, LinkedIn).
+const immagine = new URL(SITO.immagineCondivisione, Astro.site);
 const anno = new Date().getFullYear();
 ---
 <!doctype html>
@@ -31,8 +40,19 @@ const anno = new Date().getFullYear();
     <meta property="og:title" content={titolo ?? SITO.nome} />
     <meta property="og:description" content={descrizione} />
     <meta property="og:url" content={canonico} />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content={immagine} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={`${SITO.nome}: ${SITO.sottotitolo.toLowerCase()}`} />
+    {pubblicato && <meta property="article:published_time" content={pubblicato.toISOString()} />}
+    {modificato && <meta property="article:modified_time" content={modificato.toISOString()} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={titolo ?? SITO.nome} />
+    <meta name="twitter:description" content={descrizione} />
+    <meta name="twitter:image" content={immagine} />
+    <meta name="theme-color" content="#8a4b22" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/immagini/logo.png" />
     <link rel="alternate" type="application/rss+xml" title={SITO.nome} href="/rss.xml" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
