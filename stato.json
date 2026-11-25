@@ -1,5 +1,5 @@
 {
- "eseguito": "2026-11-24T23:36:42.969236+00:00",
+ "eseguito": "2026-11-25T05:40:01.985064+00:00",
  "fonti": {
   "fed": {
    "ok": true,
@@ -15,7 +15,7 @@
   },
   "ansa": {
    "ok": true,
-   "voci": 58
+   "voci": 59
   },
   "sole24ore": {
    "ok": true,
@@ -27,13 +27,13 @@
   },
   "gdelt": {
    "ok": true,
-   "voci": 22
+   "voci": 3
   },
   "gdelt-traduzioni": {
    "ok": true,
-   "voci": 16
+   "voci": 0
   }
  },
- "nuove_notizie": 183,
+ "nuove_notizie": 13,
  "errori_mercati": []
 }

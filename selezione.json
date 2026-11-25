@@ -1,12 +1,12 @@
 {
- "aggiornato": "2026-11-24T23:36:42.969236+00:00",
+ "aggiornato": "2026-11-25T05:40:01.985064+00:00",
  "finestra_ore": 26,
- "notizie_considerate": 199,
+ "notizie_considerate": 194,
  "gruppi": [
   {
    "id": "959f21fee59f08ae",
    "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-   "punteggio": 15.0,
+   "punteggio": 13.8,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 7,
@@ -67,7 +67,7 @@
   {
    "id": "db5b22cf10e8086c",
    "titolo": "Gold Price Crash Forecast (Important Dates); US PCE Inflation Jobs Report FED Policy",
-   "punteggio": 10.0,
+   "punteggio": 8.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -86,7 +86,7 @@
   {
    "id": "469598247336939f",
    "titolo": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
-   "punteggio": 8.0,
+   "punteggio": 6.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -105,7 +105,7 @@
   {
    "id": "160d4b1c9ae66c65",
    "titolo": "Bitcoin Kurs unter 60.000 Dollar: Nasdaq Absturz, ETF Abflüsse und Fed Zinserhöhung im Dezember",
-   "punteggio": 8.0,
+   "punteggio": 6.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -124,7 +124,7 @@
   {
    "id": "4a0bd05c8c016f27",
    "titolo": "Wall Street: Πτώση 1,5% στον Nasdaq – Πάνω από τις 50.000 μονάδες ο Dow Jones",
-   "punteggio": 7.9,
+   "punteggio": 6.7,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -150,7 +150,7 @@
   {
    "id": "8b6d2d1dce013ca6",
    "titolo": "Wall Street: «Ξεθύμανε» το ράλι της Nvidia – Επιμένουν οι ανησυχίες για AI",
-   "punteggio": 7.9,
+   "punteggio": 6.7,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -178,7 +178,7 @@
   {
    "id": "aa98f7413e1c0004",
    "titolo": "Nasdaq Tumbles Amid New Tariffs Threats; What To Do During The Rally Attempt",
-   "punteggio": 7.0,
+   "punteggio": 5.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -197,7 +197,7 @@
   {
    "id": "7e7b353b3fb838da",
    "titolo": "Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion",
-   "punteggio": 7.0,
+   "punteggio": 5.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -216,7 +216,7 @@
   {
    "id": "3782b7f4b791221e",
    "titolo": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
-   "punteggio": 7.0,
+   "punteggio": 5.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -235,7 +235,7 @@
   {
    "id": "deaaad444efe3acf",
    "titolo": "Bitcoin bie drejt pragut të 60 mijë dollarëve mes tërheqjeve të vazhdueshme nga fondet ETF-së",
-   "punteggio": 6.9,
+   "punteggio": 5.7,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -259,9 +259,28 @@
    ]
   },
   {
+   "id": "656110bdbf4dc70f",
+   "titolo": "ECB to accept DLT-issued collateral from June 2027",
+   "punteggio": 4.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-25T05:15:00+00:00",
+   "link": [
+    {
+     "titolo": "ECB to accept DLT-issued collateral from June 2027",
+     "url": "https://www.forexcrunch.com/blog/2026/11/25/ecb-dlt-collateral-june-2027/",
+     "fonte": "forexcrunch.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "8cdd62f66dae47f7",
    "titolo": "Bce: ultime 15 aste - Borsa Italiana",
-   "punteggio": 6.1,
+   "punteggio": 4.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -280,7 +299,7 @@
   {
    "id": "0c7edadd91e0028f",
    "titolo": "Netflix (NASDAQ: NFLX) Earns Wall Street Applause, But Earnings Data Points To A Hold",
-   "punteggio": 6.0,
+   "punteggio": 4.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -299,7 +318,7 @@
   {
    "id": "5fb4ad9a136696a4",
    "titolo": "Macklem says oil price pressures are lingering on inflation forecast",
-   "punteggio": 6.0,
+   "punteggio": 4.8,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -325,7 +344,7 @@
   {
    "id": "ed7eb2071aea1f93",
    "titolo": "Il sovrintendente Claudio Parisi Presicce: «I ragazzi riscoprono l'antichità anche attraverso i video su TikTok. Ho fatto da guida a Crowe e Lagarde. La mia famiglia? Ho 52 cugini»",
-   "punteggio": 6.0,
+   "punteggio": 4.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -344,7 +363,7 @@
   {
    "id": "8b3062381ff70288",
    "titolo": "Wall Street cierra mixto, con Nasdaq y S&P 500 en rojo por caída de tecnológicas",
-   "punteggio": 5.9,
+   "punteggio": 4.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -361,9 +380,47 @@
    ]
   },
   {
+   "id": "423439742e32b7d4",
+   "titolo": "The Semiconductor ETF Kept Falling After Nvidia Raised Its Forecast. Time to Buy?",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-25T05:15:00+00:00",
+   "link": [
+    {
+     "titolo": "The Semiconductor ETF Kept Falling After Nvidia Raised Its Forecast. Time to Buy?",
+     "url": "https://www.fool.com/investing/2026/11/24/the-semiconductor-etf-kept-falling-after-nvidia-raised-its-forecast-time-to-buy/?source=iedfolrf0000001",
+     "fonte": "fool.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "aae7a337e4385711",
+   "titolo": "Gold holds steady ahead of US inflation data",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-25T05:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Gold holds steady ahead of US inflation data",
+     "url": "http://www.bignewsnetwork.com/news/279453126/gold-holds-steady-ahead-of-us-inflation-data",
+     "fonte": "bignewsnetwork.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "a22a480c189f7b85",
    "titolo": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-   "punteggio": 5.1,
+   "punteggio": 3.9,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -384,7 +441,7 @@
   {
    "id": "09c827e94ca89f01",
    "titolo": "Bce: Vujcic, integrazione porta resilienza, shock inevitabili, bisogna adattarsi",
-   "punteggio": 5.1,
+   "punteggio": 3.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -403,7 +460,7 @@
   {
    "id": "d1d14e40bbb0b83d",
    "titolo": "Bce: Vujcic, istituzioni credibili e stabilita' prezzi ancora salvezza contro shock",
-   "punteggio": 5.1,
+   "punteggio": 3.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -422,7 +479,7 @@
   {
    "id": "494039392891e094",
    "titolo": "In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?",
-   "punteggio": 5.0,
+   "punteggio": 3.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -441,7 +498,7 @@
   {
    "id": "b88c86f83a9f9e7c",
    "titolo": "Why are US Stock Market indexes S&P 500, Nasdaq down after historic highs?",
-   "punteggio": 4.0,
+   "punteggio": 2.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -460,7 +517,7 @@
   {
    "id": "fecc587359ab238f",
    "titolo": "U.S. Government Input Seals Jensen Huang's Return To Nvidia (NASDAQ: NVDA) As Stock Rockets 32%",
-   "punteggio": 4.0,
+   "punteggio": 2.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -477,9 +534,30 @@
    ]
   },
   {
+   "id": "66b337c0778b289f",
+   "titolo": "FIBRA Prologis Recasts Credit Facility, Doubling Capacity to $1 Billion and Reducing Borrowing Spread",
+   "punteggio": 2.8,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-24T23:44:00+00:00",
+   "link": [
+    {
+     "titolo": "FIBRA Prologis Recasts Credit Facility, Doubling Capacity to $1 Billion and Reducing Borrowing Spread",
+     "url": "https://www.prnewswire.com/news-releases/fibra-prologis-recasts-credit-facility-doubling-capacity-to-1-billion-and-reducing-borrowing-spread-302949962.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "fbee187a2cf779ad",
    "titolo": "Canadian dollar hits 11-day high as investors raise BoC rate hike bets",
-   "punteggio": 4.0,
+   "punteggio": 2.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -498,7 +576,7 @@
   {
    "id": "4350414c30f64259",
    "titolo": "Nasdaq gibt nach: Tech-Werte und Furcht vor neuen US-Strafzöllen belasten die Wall Street",
-   "punteggio": 4.0,
+   "punteggio": 2.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -517,7 +595,7 @@
   {
    "id": "8883f1be5685d6c7",
    "titolo": "Wall Street cierra mixto: Dow Jones recupera los 50.000 puntos mientras los semiconductores se desploman casi 8% y arrastran al Nasdaq",
-   "punteggio": 4.0,
+   "punteggio": 2.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -536,7 +614,7 @@
   {
    "id": "1d64a9f51d26796e",
    "titolo": "Huang si scusa con i dipendenti di Nvidia: «Ho fatto errori terribili, ora vado in terapia. Non è stato Trump a farmi tornare»",
-   "punteggio": 4.0,
+   "punteggio": 2.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -555,7 +633,7 @@
   {
    "id": "4bb64cc3e4584629",
    "titolo": "Property market gets fresh rate cut hope as ANZ changes its outlook",
-   "punteggio": 3.9,
+   "punteggio": 2.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -574,7 +652,7 @@
   {
    "id": "fa3a6b7f6cd9cbe6",
    "titolo": "Wall Street cierra en terreno mixto con nuevas caídas de Anthropic y Nvidia - NotiCel - La verdad como es - Noticias de Puerto Rico",
-   "punteggio": 3.9,
+   "punteggio": 2.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -593,7 +671,7 @@
   {
    "id": "fdc16ee032d67fb0",
    "titolo": "Wall Street en ordre dispersé, le rebond lié à Nvidia s'estompe - 24/11/2026 à 22:59",
-   "punteggio": 3.9,
+   "punteggio": 2.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -612,7 +690,7 @@
   {
    "id": "4844e570b21d3539",
    "titolo": "Bending Spoons, Ferrari e altri due fondatori vanno all'incasso: convertito un pacchetto di azioni. Che ora possono vendere",
-   "punteggio": 3.9,
+   "punteggio": 2.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -631,7 +709,7 @@
   {
    "id": "e143263c44b0786c",
    "titolo": "Stellantis, per Mirafiori piano da 90 mila Fiat 500 nel 2027 con la nuova batteria per l'elettrica",
-   "punteggio": 3.9,
+   "punteggio": 2.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -650,7 +728,7 @@
   {
    "id": "e761572b8212c00f",
    "titolo": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
-   "punteggio": 3.5,
+   "punteggio": 2.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -671,7 +749,7 @@
   {
    "id": "09662810c5bb2c42",
    "titolo": "Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue - Ultima ora",
-   "punteggio": 3.1,
+   "punteggio": 1.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -697,7 +775,7 @@
   {
    "id": "c08847a458163853",
    "titolo": "Nvidia depremi tersine döndü! Borsalar uçtu, altın ve Bitcoin yükselişe geçti",
-   "punteggio": 3.0,
+   "punteggio": 1.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -714,9 +792,30 @@
    ]
   },
   {
+   "id": "207688c95ed52772",
+   "titolo": "OCI GLOBAL ANNOUNCES CLOSING OF ORASCOM CONSTRUCTION TRANSACTION AND CONFIRMS KEY DATES FOR OCI SHAREHOLDERS",
+   "punteggio": 0.9,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T05:12:00+00:00",
+   "link": [
+    {
+     "titolo": "OCI GLOBAL ANNOUNCES CLOSING OF ORASCOM CONSTRUCTION TRANSACTION AND CONFIRMS KEY DATES FOR OCI SHAREHOLDERS",
+     "url": "https://www.prnewswire.com/news-releases/oci-global-announces-closing-of-orascom-construction-transaction-and-confirms-key-dates-for-oci-shareholders-302950189.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "0df012e7994c6645",
    "titolo": "Pound claws above 19-month low, as dollar pauses after Nvidia-driven rally",
-   "punteggio": 2.1,
+   "punteggio": 0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -735,7 +834,7 @@
   {
    "id": "b3e644a0efd47025",
    "titolo": "Nvidia's 37% rally wipes out gains for bearish investors; leveraged short ETFs plunge up to 92%",
-   "punteggio": 2.1,
+   "punteggio": 0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -754,7 +853,7 @@
   {
    "id": "a81ca7dee7e724d2",
    "titolo": "Tripoli, 'nessuna intesa con Kiev per l'attacco alle navi russe a Bengasi' - Nazioni",
-   "punteggio": 2.1,
+   "punteggio": 0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -773,7 +872,7 @@
   {
    "id": "bd485fef553a7903",
    "titolo": "Intesa Sanpaolo Assicurazioni supporta le imprese innovative ad impatto sociale - Notizie",
-   "punteggio": 2.1,
+   "punteggio": 0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -792,7 +891,7 @@
   {
    "id": "bcd5254ee7c3bb5b",
    "titolo": "Opinioni | Il falso dilemma su Kiev",
-   "punteggio": 2.0,
+   "punteggio": 0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -811,7 +910,7 @@
   {
    "id": "294de5cb7de44802",
    "titolo": "Manovra, i temi caldi nel centrodestra e la spinta sul condono. L'Ue promuove i conti dell'Italia",
-   "punteggio": 2.0,
+   "punteggio": 0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -830,7 +929,7 @@
   {
    "id": "a142b1ad55166b48",
    "titolo": "Europe's earnings boom challenges Wall Street, but may prove fleeting",
-   "punteggio": 2.0,
+   "punteggio": 0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -849,7 +948,7 @@
   {
    "id": "2db5d3090a0ac43e",
    "titolo": "Nvidia rally triggers losses of up to 92% for leveraged…",
-   "punteggio": 2.0,
+   "punteggio": 0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -868,7 +967,7 @@
   {
    "id": "a64e83f86f2737d2",
    "titolo": "Chip, AI stocks retreat after record-breaking rally on Huang's return",
-   "punteggio": 2.0,
+   "punteggio": 0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -887,7 +986,7 @@
   {
    "id": "f40d1d2325ac9ad4",
    "titolo": "NVIDIA-Aktie an der NASDAQ mit Kurssprung: Was Trumps Gewinn und sein Einfluss auf Huangs Rückkehr für Anleger bedeuten",
-   "punteggio": 2.0,
+   "punteggio": 0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -906,7 +1005,7 @@
   {
    "id": "c125a464f7d2cc49",
    "titolo": "Nvidia, il ritorno di Huang e quel dettaglio che nessuno vuole vedere",
-   "punteggio": 2.0,
+   "punteggio": 0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -923,9 +1022,58 @@
    ]
   },
   {
+   "id": "9e41c1d5f11bbdba",
+   "titolo": "AuguStar Life Insurance Company Announces Final Results of its Cash Tender Offer for Constellation Insurance, Inc.'s Outstanding 5.550% Senior Notes due 2030 (Currently Bearing Interest at a Rate of 5.800%) and 6.625% Senior Notes due 2031",
+   "punteggio": 0.4,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T02:32:00+00:00",
+   "link": [
+    {
+     "titolo": "AuguStar Life Insurance Company Announces Final Results of its Cash Tender Offer for Constellation Insurance, Inc.'s Outstanding 5.550% Senior Notes due 2030 (Currently Bearing Interest at a Rate of 5.800%) and 6.625% Senior Notes due 2031",
+     "url": "https://www.prnewswire.com/news-releases/augustar-life-insurance-company-announces-final-results-of-its-cash-tender-offer-for-constellation-insurance-incs-outstanding-5-550-senior-notes-due-2030-currently-bearing-interest-at-a-rate-of-5-800-and-6-625-senior-notes-302950055.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "AuguStar Life Insurance Company Announces Pricing Terms of its Cash Tender Offer for Constellation Insurance, Inc.'s Outstanding 5.550% Senior Notes due 2030 (Currently Bearing Interest at a Rate of 5.800%) and 6.625% Senior Notes due 2031",
+     "url": "https://www.prnewswire.com/news-releases/augustar-life-insurance-company-announces-pricing-terms-of-its-cash-tender-offer-for-constellation-insurance-incs-outstanding-5-550-senior-notes-due-2030-currently-bearing-interest-at-a-rate-of-5-800-and-6-625-senior-notes-302949842.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "9703c4d68550e191",
+   "titolo": "FIBRA Prologis Reestructura su Línea de Crédito, Duplica su Capacidad a US$1,000 Millones y Reduce el Margen de Financiamiento",
+   "punteggio": 0.0,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T00:48:00+00:00",
+   "link": [
+    {
+     "titolo": "FIBRA Prologis Reestructura su Línea de Crédito, Duplica su Capacidad a US$1,000 Millones y Reduce el Margen de Financiamiento",
+     "url": "https://www.prnewswire.com/news-releases/fibra-prologis-reestructura-su-linea-de-credito-duplica-su-capacidad-a-us-1-000-millones-y-reduce-el-margen-de-financiamiento-857674604.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "d21b333d7dccc5b3",
    "titolo": "Booking Holdings Inc. to Present at the Nasdaq 55th Investor Conference",
-   "punteggio": 1.1,
+   "punteggio": -0.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -946,7 +1094,7 @@
   {
    "id": "4f7b7000b2892905",
    "titolo": "O que aconteceu com a tentativa de Bukele de transformar El Salvador no 'páis do bitcoin'?",
-   "punteggio": 1.1,
+   "punteggio": -0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -965,7 +1113,7 @@
   {
    "id": "1244e58d0e575d85",
    "titolo": "Borsa elettrica: prezzi orari di mercato - MGP",
-   "punteggio": 1.1,
+   "punteggio": -0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -984,7 +1132,7 @@
   {
    "id": "965853351907f055",
    "titolo": "Borsa elettrica: quotazioni e scambi MGP",
-   "punteggio": 1.1,
+   "punteggio": -0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1003,7 +1151,7 @@
   {
    "id": "66a5a284012b12ba",
    "titolo": "Gas: indice Italian Gas Index - Borsa Italiana",
-   "punteggio": 1.1,
+   "punteggio": -0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1022,7 +1170,7 @@
   {
    "id": "56ac46ac6074dbb5",
    "titolo": "Cohen & Steers Total Return Realty Fund, Inc. (RFI) Notification of Sources of Distribution Under Section 19(a)",
-   "punteggio": 0.9,
+   "punteggio": -0.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1050,7 +1198,7 @@
   {
    "id": "14c01c0f19a3c3a1",
    "titolo": "Cohen & Steers REIT and Preferred and Income Fund, Inc. (RNP) Notification of Sources of Distribution Under Section 19(a)",
-   "punteggio": 0.9,
+   "punteggio": -0.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1085,7 +1233,7 @@
   {
    "id": "986d43bdd95b9cf2",
    "titolo": "Alpheya Expands Access to Benzinga News and Market Intelligence",
-   "punteggio": 0.8,
+   "punteggio": -0.4,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1106,7 +1254,7 @@
   {
    "id": "5296409824e083cd",
    "titolo": "Centuri Holdings Set to Join S&P SmallCap 600",
-   "punteggio": 0.8,
+   "punteggio": -0.4,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1118,153 +1266,6 @@
     {
      "titolo": "Centuri Holdings Set to Join S&P SmallCap 600",
      "url": "https://www.prnewswire.com/news-releases/centuri-holdings-set-to-join-sp-smallcap-600-302949933.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "32dab19846764307",
-   "titolo": "Preserve the Pensions Project to Digitize War of 1812 Pension Files is Now Complete",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T21:47:00+00:00",
-   "link": [
-    {
-     "titolo": "Preserve the Pensions Project to Digitize War of 1812 Pension Files is Now Complete",
-     "url": "https://www.prnewswire.com/news-releases/preserve-the-pensions-project-to-digitize-war-of-1812-pension-files-is-now-complete-302949902.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "28010a412572723f",
-   "titolo": "IntraFi Cofounder and CEO Mark Jacobsen Named EY Entrepreneur Of The Year in Financial Services",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T21:31:00+00:00",
-   "link": [
-    {
-     "titolo": "IntraFi Cofounder and CEO Mark Jacobsen Named EY Entrepreneur Of The Year in Financial Services",
-     "url": "https://www.prnewswire.com/news-releases/intrafi-cofounder-and-ceo-mark-jacobsen-named-ey-entrepreneur-of-the-year-in-financial-services-302949889.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "12a5561d55445b8c",
-   "titolo": "NOAH HOLDINGS LIMITED ANNOUNCES UNAUDITED FINANCIAL RESULTS FOR THE THIRD QUARTER OF 2026",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T21:30:00+00:00",
-   "link": [
-    {
-     "titolo": "NOAH HOLDINGS LIMITED ANNOUNCES UNAUDITED FINANCIAL RESULTS FOR THE THIRD QUARTER OF 2026",
-     "url": "https://www.prnewswire.com/news-releases/noah-holdings-limited-announces-unaudited-financial-results-for-the-third-quarter-of-2026-302949558.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "13217f1dca68b436",
-   "titolo": "First Horizon Corporation to Participate in the Goldman Sachs 2026 Financial Services Conference",
-   "punteggio": 0.5,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T21:15:00+00:00",
-   "link": [
-    {
-     "titolo": "First Horizon Corporation to Participate in the Goldman Sachs 2026 Financial Services Conference",
-     "url": "https://www.prnewswire.com/news-releases/first-horizon-corporation-to-participate-in-the-goldman-sachs-2026-financial-services-conference-302948690.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "a78307e150ac2d28",
-   "titolo": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in October",
-   "punteggio": 0.5,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T21:15:00+00:00",
-   "link": [
-    {
-     "titolo": "Lazard Global Total Return and Income Fund Declares Monthly Distribution and Issues Estimated Sources of the Distribution Announced in October",
-     "url": "https://www.prnewswire.com/news-releases/lazard-global-total-return-and-income-fund-declares-monthly-distribution-and-issues-estimated-sources-of-the-distribution-announced-in-october-302949838.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "c6118b072365e285",
-   "titolo": "Third Coast Bank Names Liz Eber Chief Legal and Operating Officer",
-   "punteggio": 0.5,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T21:15:00+00:00",
-   "link": [
-    {
-     "titolo": "Third Coast Bank Names Liz Eber Chief Legal and Operating Officer",
-     "url": "https://www.prnewswire.com/news-releases/third-coast-bank-names-liz-eber-chief-legal-and-operating-officer-302949870.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "2f3614815280eeba",
-   "titolo": "CleanSpark Reports Fiscal Fourth Quarter and Full Year 2026 Financial and Operating Results",
-   "punteggio": 0.5,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T21:05:00+00:00",
-   "link": [
-    {
-     "titolo": "CleanSpark Reports Fiscal Fourth Quarter and Full Year 2026 Financial and Operating Results",
-     "url": "https://www.prnewswire.com/news-releases/cleanspark-reports-fiscal-fourth-quarter-and-full-year-2026-financial-and-operating-results-302949861.html",
      "fonte": "PR Newswire",
      "solo_verifica": false,
      "via": null
