@@ -9,6 +9,8 @@ fonti:
     url: "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades"
   - nome: "CoinDesk: November spot ETF outflows increase to record $4.71 billion"
     url: "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion"
+  - nome: "CoinDesk: Bitcoin hands back Monday's Nvidia-driven gains"
+    url: "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple"
   - nome: "The Motley Fool: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion"
     url: "https://www.fool.com/coverage/stock-market-today/2026/11/24/crypto-market-today-nov-24-bitcoin-falls-below-usd60-000-as-etf-outflows-hit-a-record-usd4-7-billion/"
   - nome: "finanzen.net: Bitcoin Kurs unter 60.000 Dollar"
@@ -20,7 +22,7 @@ fonti:
 bozza: false
 ---
 
-Lunedì aveva respirato anche lui l'aria di festa portata da Nvidia. Martedì Bitcoin ha restituito i guadagni ed è sceso sotto una soglia psicologica: 60.000 dollari.
+Lunedì aveva respirato anche lui l'aria di festa portata da Nvidia. Martedì, scrive CoinDesk, Bitcoin ha restituito quei guadagni ed è sceso sotto una soglia psicologica: 60.000 dollari.
 
 ## I numeri
 

@@ -13,6 +13,8 @@ fonti:
     url: "https://www.ansa.it/sito/notizie/economia/2026/11/24/nvidia-in-calo-a-wall-street-perde-il-43_a822e155-eb1c-4c2d-a80b-ba524d60dabb.html"
   - nome: "Sofokleousin: Wall Street, scendono Nasdaq e Nvidia"
     url: "http://sofokleousin.gr/agores/wall-street-ptosi-gia-nasdaq-kai-nvidia-apoleies-59-meta-to-xthes"
+  - nome: "NotiCel: Wall Street cierra en terreno mixto con nuevas caídas de Anthropic y Nvidia"
+    url: "https://noticel.com/noticias/20261124/wall-street-cierra-en-terreno-mixto-con-nuevas-caidas-de-anthropic-y-nvidia/"
   - nome: "Boursorama: Wall Street en ordre dispersé, le rebond lié à Nvidia s'estompe"
     url: "https://www.boursorama.com/bourse/actualites/wall-street-en-ordre-disperse-le-rebond-lie-a-nvidia-s-estompe-b34d83a8b4d7ce6364b0fbe496892430"
   - nome: "The Guardian: US adds Megaspeed to trade blacklist"
@@ -32,7 +34,7 @@ La precisazione arriva in giorni delicati. Il ritorno di Huang segue lo scandalo
 
 ## Il titolo cambia verso
 
-Lunedì il ritorno di Huang aveva acceso un rally clamoroso. Martedì il vento è girato. Secondo l'ANSA, in avvio di seduta Nvidia perdeva il 4,3%. Il sito greco Sofokleousin e il francese Boursorama confermano una chiusura in calo, con il rimbalzo legato a Nvidia che si spegne.
+Lunedì il ritorno di Huang aveva acceso un rally clamoroso. Martedì il vento è girato. Secondo l'ANSA, in avvio di seduta Nvidia perdeva il 4,3%. Il sito greco Sofokleousin e il portoricano NotiCel confermano la chiusura in calo. Il francese Boursorama parla di un rimbalzo legato a Nvidia che si spegne.
 
 ## Perché conta
 

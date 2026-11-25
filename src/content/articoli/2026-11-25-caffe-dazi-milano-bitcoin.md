@@ -25,6 +25,10 @@ fonti:
     url: "https://www.ansa.it/sito/notizie/economia/2026/11/24/nvidia-in-calo-a-wall-street-perde-il-43_a822e155-eb1c-4c2d-a80b-ba524d60dabb.html"
   - nome: "Sofokleousin: Wall Street, scendono Nasdaq e Nvidia"
     url: "http://sofokleousin.gr/agores/wall-street-ptosi-gia-nasdaq-kai-nvidia-apoleies-59-meta-to-xthes"
+  - nome: "NotiCel: Wall Street cierra en terreno mixto con nuevas caídas de Anthropic y Nvidia"
+    url: "https://noticel.com/noticias/20261124/wall-street-cierra-en-terreno-mixto-con-nuevas-caidas-de-anthropic-y-nvidia/"
+  - nome: "Seeking Alpha: Chip, AI stocks retreat after record-breaking rally on Huang's return"
+    url: "https://seekingalpha.com/news/4676053-chip-ai-stocks-retreat-after-record-breaking-rally-on-huangs-return"
   - nome: "ANSA: Anthropic cala a Wall Street dell'8,22%, scende sotto il prezzo dell'ipo"
     url: "https://www.ansa.it/sito/notizie/economia/2026/11/24/anthropic-cala-a-wall-street-dell822-scede-sotto-il-prezzo-dellipo_7244ce38-9665-44ab-bcb0-61cec04db147.html"
   - nome: "Investor's Business Daily: Nvidia, Anthropic Lead AI Retreat; Fed Inflation Data Due"
@@ -82,13 +86,13 @@ Fonti: Banca Centrale Europea (cambi di riferimento del 24/11), Powered by CoinG
 
 ## Effetto Huang finito, tornano i dazi
 
-Il rimbalzo è durato il tempo di un espresso. Secondo l'ANSA e Il Sole 24 Ore, Piazza Affari ha chiuso martedì in calo dell'1,8%. Il quotidiano di Confindustria riassume così la giornata: si esaurisce l'effetto Huang, timori sull'intelligenza artificiale e dazi rubano la scena.
+Il rimbalzo è durato il tempo di un espresso. Secondo l'ANSA e Il Sole 24 Ore, Piazza Affari ha chiuso martedì in calo dell'1,8%. Per il quotidiano di Confindustria l'effetto Huang si è esaurito, scalzato dai timori sull'intelligenza artificiale e sui dazi.
 
 Il colpo è arrivato nel primo pomeriggio. Secondo l'ANSA, le Borse europee sono scese sui minimi della seduta, spaventate dall'ipotesi di nuovi dazi americani. Nelle stesse ore l'agenzia riprendeva il Wall Street Journal: Trump sarebbe pronto a nuovi dazi contro la Cina e l'Ue. Per ora è un'indiscrezione di stampa, non una decisione.
 
-A Wall Street la giornata si è chiusa in ordine sparso. Il sito greco Newsbomb riporta un Nasdaq in calo dell'1,5%, mentre il Dow Jones resta sopra quota 50.000. Anche CNN Chile e il francese Boursorama descrivono una chiusura contrastata. La tedesca n-tv indica tra le cause i titoli tecnologici e la paura di nuovi dazi.
+A Wall Street la giornata si è chiusa in ordine sparso. Il sito greco Newsbomb riporta un Nasdaq in calo dell'1,5%, mentre il Dow Jones resta sopra quota 50.000. Anche CNN Chile e il francese Boursorama descrivono una chiusura contrastata. La tedesca n-tv indica tra le cause i titoli tecnologici e la paura di nuovi dazi. Secondo Seeking Alpha e CNN Chile, a cedere sono stati soprattutto i titoli dei chip e dell'intelligenza artificiale.
 
-E Nvidia? Il titolo protagonista di lunedì ha cambiato verso. Secondo l'ANSA, in avvio di seduta perdeva il 4,3%, e diverse testate confermano la chiusura in calo. Sotto pressione anche Anthropic, che per l'ANSA in avvio cedeva l'8,22%, scendendo sotto il prezzo dell'[IPO](/glossario/ipo/).
+E Nvidia? Il titolo protagonista di lunedì ha cambiato verso. Secondo l'ANSA, in avvio di seduta perdeva il 4,3%, e il greco Sofokleousin e il portoricano NotiCel confermano la chiusura in calo. Sotto pressione anche Anthropic, che per l'ANSA in avvio cedeva l'8,22%, scendendo sotto il prezzo dell'[IPO](/glossario/ipo/).
 
 **Cosa significa per te:** se hai un [ETF](/glossario/etf/) sul [Nasdaq](/glossario/nasdaq/) o sull'azionario mondiale, queste montagne russe si vedono subito nel tuo conto. I dazi, se arrivassero, peserebbero anche sulle aziende italiane che esportano. Il [FTSE MIB](/guide/cos-e-il-ftse-mib/) è il termometro da tenere d'occhio.
 
