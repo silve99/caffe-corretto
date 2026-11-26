@@ -32,8 +32,8 @@ Le spiegazioni stanno in `src/data/glossario.json`, modificabili dal pannello; l
 
 - Comando di build: `npm run build`
 - Cartella di output: `dist`
-- Dominio: `https://caffecorrettomercati.com` (impostato in `astro.config.mjs`; la variabile `SITE_URL` lo sostituisce se serve)
-- `www.caffecorrettomercati.com` e `caffe-corretto.pages.dev` rimandano al dominio principale (regole di reindirizzamento in Cloudflare)
+- Dominio: `https://caffecorrettofinanza.com` (impostato in `astro.config.mjs`; la variabile `SITE_URL` lo sostituisce se serve)
+- `www.caffecorrettofinanza.com` e `caffe-corretto.pages.dev` rimandano al dominio principale (regole di reindirizzamento in Cloudflare)
 
 ## Raccolta notizie
 

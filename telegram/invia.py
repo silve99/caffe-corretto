@@ -36,7 +36,7 @@ from zoneinfo import ZoneInfo
 
 RADICE = Path(__file__).resolve().parent.parent
 ROMA = ZoneInfo("Europe/Rome")
-SITO_PREDEFINITO = "https://caffecorrettomercati.com"
+SITO_PREDEFINITO = "https://caffecorrettofinanza.com"
 # Contenuti più vecchi di così non si inviano più (evita raffiche dopo un guasto o alla prima accensione).
 FINESTRA = timedelta(hours=20)
 # Se un contenuto esce entro questo tempo, il lavoro aspetta e lo invia puntuale (es. unito alle 05:25, esce alle 06:30).

@@ -4,7 +4,7 @@ import rehypeGlossario from './src/plugins/rehype-glossario.mjs';
 import { readdirSync, readFileSync } from 'node:fs';
 
 // Indirizzo pubblico del sito (dominio proprio dal 26/11/2026). Per cambiarlo basta modificarlo qui.
-const SITE = process.env.SITE_URL || 'https://caffecorrettomercati.com';
+const SITE = process.env.SITE_URL || 'https://caffecorrettofinanza.com';
 
 // Data dell'ultima modifica di ogni articolo e guida, per la mappa del sito (aiuta Google
 // a capire cosa è nuovo). Legge "data" e "aggiornato" dal frontmatter; salta le bozze.
