@@ -53,3 +53,21 @@ Il file `.pages.yml` configura il pannello gratuito [Pages CMS](https://app.page
 si entra con l'account GitHub e si modificano articoli, pagine (chi siamo, contatti, legali)
 e i dati del sito (`src/data/sito.json`: nome, descrizione, email, social). Ogni salvataggio
 è un commit su `main` e Cloudflare Pages ripubblica il sito in un paio di minuti.
+
+## Canale Telegram
+
+`telegram/invia.py` (workflow `.github/workflows/telegram.yml`) manda sul canale Telegram:
+
+- alle 06:30 il caffè del mattino (attacco, punti "In 30 secondi" e link alle notizie brevi del giorno);
+- le notizie brevi uscite da sole, in un unico messaggio;
+- ogni nuova guida, appena è online.
+
+Parte quando un contenuto arriva su `main` (se la data è nel futuro aspetta fino a 90 minuti per uscire puntuale)
+e ogni ora come rete di sicurezza. Controlla che la pagina sia online prima di inviare, non manda contenuti più
+vecchi di 20 ore e ricorda cosa ha inviato in `telegram/inviati.json` del branch `dati`.
+Campo facoltativo `telegram:` nel frontmatter (max 600 caratteri) per scegliere il testo del messaggio.
+
+Serve il secret `TELEGRAM_BOT_TOKEN` (il bot deve essere amministratore del canale) e l'indirizzo del canale in
+`src/data/sito.json` → `social.telegram` (es. `https://t.me/nomecanale`), che fa comparire anche il riquadro
+"Seguici su Telegram" sul sito. Per un canale privato si può usare la variabile `TELEGRAM_CHAT_ID`.
+Anteprima senza inviare: Actions → Telegram → Run workflow → "Solo anteprima".

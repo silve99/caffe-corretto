@@ -6,6 +6,7 @@ import { articoliPubblicati, formatoData, etichettaTipo, type Articolo } from '.
 import SchedaGuida from '../../components/SchedaGuida.astro';
 import { guidePubblicate, SEZIONE_GUIDE, type Guida } from '../../lib/guide';
 import { SITO, editore } from '../../config';
+import SeguiciTelegram from '../../components/SeguiciTelegram.astro';
 
 export async function getStaticPaths() {
   const tutti = await articoliPubblicati();
@@ -75,6 +76,7 @@ const briciole = {
       e ha solo scopo informativo: non è una consulenza finanziaria. <a href="/come-lavoriamo/">Come lavoriamo</a>.
     </p>
   </article>
+  <SeguiciTelegram />
   {guideCorrelate.length > 0 && (
     <section>
       <h2>Per capire meglio</h2>

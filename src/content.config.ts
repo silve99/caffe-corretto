@@ -14,6 +14,7 @@ const articoli = defineCollection({
     fonti: z
       .array(z.object({ nome: z.string(), url: z.string().url() }))
       .default([]),
+    telegram: z.string().max(600).optional(), // testo facoltativo per il messaggio sul canale Telegram
     bozza: z.boolean().default(false),
   }),
 });
@@ -33,6 +34,7 @@ const guide = defineCollection({
     fonti: z
       .array(z.object({ nome: z.string(), url: z.string().url() }))
       .default([]),
+    telegram: z.string().max(600).optional(), // testo facoltativo per il messaggio sul canale Telegram
     bozza: z.boolean().default(false),
   }),
 });

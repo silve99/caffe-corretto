@@ -1,0 +1,64 @@
+name: Telegram
+
+# Manda sul canale Telegram il caffè del mattino e le nuove guide, appena sono online.
+# Configurazione: secret TELEGRAM_BOT_TOKEN (Settings → Secrets and variables → Actions)
+# e indirizzo del canale in src/data/sito.json → social.telegram (es. https://t.me/nomecanale).
+on:
+  push:
+    branches: [main]
+    paths: ["src/content/**", "src/data/sito.json"]
+  schedule:
+    - cron: "33 4-20 * * *"   # ogni ora come rete di sicurezza (il caffè di solito parte già dall'unione)
+    - cron: "31,45 4,5 * * *" # intorno alle 06:30 italiane (ora solare e legale)
+  workflow_dispatch:
+    inputs:
+      prova:
+        description: "Solo anteprima, senza inviare"
+        type: boolean
+        default: false
+  pull_request:
+    paths: ["telegram/**", ".github/workflows/telegram.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram
+  cancel-in-progress: false
+
+jobs:
+  invia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prendi l'elenco dei messaggi già inviati (branch dati)
+        run: |
+          git clone --depth 1 --branch dati "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" dati
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Anteprima dei messaggi
+        if: github.event_name == 'pull_request' || inputs.prova
+        run: python telegram/invia.py --stato dati/telegram/inviati.json --prova --adesso "$(date -u +%Y-%m-%dT%H:%M:%S+00:00)"
+
+      - name: Invia su Telegram
+        if: github.event_name != 'pull_request' && !inputs.prova
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+        run: python telegram/invia.py --stato dati/telegram/inviati.json
+
+      - name: Ricorda cosa è stato inviato
+        if: always() && github.event_name != 'pull_request' && !inputs.prova
+        run: |
+          cd dati
+          git config user.name "caffe-corretto-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add telegram 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Niente da salvare"; exit 0; fi
+          git commit -qm "[CF-Pages-Skip] telegram $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4; do git push -q origin dati && break; sleep $((i*5)); git pull -q --rebase origin dati || true; done
