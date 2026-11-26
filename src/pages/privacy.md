@@ -10,6 +10,7 @@ descrizione: Informativa privacy e cookie di Caffè Corretto, ai sensi del GDPR 
 
 - Puoi leggere Caffè Corretto **senza registrarti** e senza darci alcun dato.
 - Oggi il sito **non usa cookie** di profilazione, di statistica o pubblicitari, e non ti segue da un sito all'altro.
+- Contiamo le visite con **Cloudflare Web Analytics**, in forma anonima e aggregata: senza cookie e senza riconoscerti.
 - Gli unici dati che riceviamo sono quelli tecnici che servono a far funzionare il sito (gestiti dal nostro hosting, Cloudflare) e quelli che ci mandi tu se ci scrivi un'email.
 - Quando attiveremo la pubblicità (Google AdSense), **prima di usare qualsiasi cookie non necessario ti chiederemo il consenso** con un apposito avviso, e potrai rifiutare con un clic.
 
@@ -52,6 +53,10 @@ I cookie sono piccoli file che un sito salva sul tuo dispositivo. Alcuni sono **
 
 **Oggi Caffè Corretto non installa cookie di profilazione, di statistica o pubblicitari** e non usa altri sistemi di tracciamento. Per questo, al momento, non vedi alcun avviso sui cookie.
 
+## Statistiche sulle visite (Cloudflare Web Analytics)
+
+Per sapere quante persone leggono il sito e quali pagine piacciono di più usiamo **Cloudflare Web Analytics**. Lo strumento conta le visite in forma **anonima e aggregata**: non usa cookie, non salva nulla sul tuo dispositivo, non crea un profilo e non ti riconosce da una visita all'altra né da un sito all'altro. Noi vediamo solo totali, come il numero di pagine viste, le pagine più lette, il paese e il tipo di dispositivo. Per questo non serve il tuo consenso. La base giuridica è il nostro legittimo interesse a capire come migliorare il sito (art. 6, par. 1, lett. f del GDPR).
+
 Per proteggere il sito dai programmi automatici (bot), in qualche caso Cloudflare può impostare un cookie tecnico di sicurezza (per esempio `__cf_bm`), che dura al massimo 30 minuti e non serve a profilarti.
 
 Le spiegazioni dei termini tecnici che compaiono al passaggio del mouse funzionano senza cookie e senza salvare nulla sul tuo dispositivo.
@@ -70,13 +75,14 @@ Per sostenere il sito, in futuro mostreremo annunci pubblicitari tramite **Googl
 
 Per sapere come Google usa i dati raccolti sui siti dei suoi partner leggi [questa pagina di Google](https://policies.google.com/technologies/partner-sites?hl=it). La base giuridica per i cookie pubblicitari è il tuo consenso (art. 6, par. 1, lett. a del GDPR e art. 122 del Codice Privacy), che puoi revocare quando vuoi.
 
-Se in futuro aggiungeremo strumenti di statistica sulle visite, li elencheremo qui e, se non sono anonimi, chiederemo anche per loro il consenso.
+Se in futuro aggiungeremo altri strumenti di statistica sulle visite, li elencheremo qui e, se non sono anonimi, chiederemo anche per loro il consenso.
 
 ## Servizi esterni che usiamo
 
 | Servizio | A cosa serve | Informativa |
 |---|---|---|
 | Cloudflare Pages (Cloudflare, Inc.) | Ospita il sito e lo protegge | [privacy di Cloudflare](https://www.cloudflare.com/it-it/privacypolicy/) |
+| Cloudflare Web Analytics (Cloudflare, Inc.) | Conta le visite in forma anonima, senza cookie | [privacy di Cloudflare](https://www.cloudflare.com/it-it/privacypolicy/) |
 | Gmail (Google) | Riceve le email che ci mandi | [privacy di Google](https://policies.google.com/privacy?hl=it) |
 | Google Search Console (Google) | Ci dice in forma aggregata come il sito appare nelle ricerche di Google. Non installa nulla sul tuo dispositivo | [privacy di Google](https://policies.google.com/privacy?hl=it) |
 | Google AdSense (Google), quando attivo | Mostra gli annunci pubblicitari | [privacy di Google](https://policies.google.com/technologies/ads?hl=it) |
