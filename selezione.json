@@ -1,18 +1,25 @@
 {
- "aggiornato": "2026-11-25T17:04:44.005138+00:00",
+ "aggiornato": "2026-11-26T00:57:58.170242+00:00",
  "finestra_ore": 26,
- "notizie_considerate": 230,
+ "notizie_considerate": 242,
  "gruppi": [
   {
-   "id": "fe91f7a4ad8f191d",
-   "titolo": "Inflation remains high despite retreating gas prices, a Fed challenge",
-   "punteggio": 15.9,
+   "id": "7465be8735d0b28b",
+   "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "punteggio": 16.0,
    "verificata": true,
    "ufficiale": false,
-   "fonti_distinte": 14,
+   "fonti_distinte": 15,
    "categorie": [],
-   "ultima_ora": "2026-11-25T16:45:00+00:00",
+   "ultima_ora": "2026-11-26T00:45:00+00:00",
    "link": [
+    {
+     "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+     "url": "https://www.wxow.com/news/national/inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the/article_120cd71e-aee5-5c0b-bef1-6420a5cad285.html",
+     "fonte": "wxow.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
     {
      "titolo": "Inflation remains high despite retreating gas prices, a Fed challenge",
      "url": "https://www.sun-sentinel.com/2026/11/25/inflation-high-fed/",
@@ -89,20 +96,13 @@
      "fonte": "dailypress.com",
      "solo_verifica": false,
      "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-     "url": "https://lazer993.com/news/030030-inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the-fed/",
-     "fonte": "lazer993.com",
-     "solo_verifica": false,
-     "via": "GDELT"
     }
    ]
   },
   {
    "id": "c5830133965c3600",
    "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-   "punteggio": 13.9,
+   "punteggio": 12.4,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 12,
@@ -198,7 +198,7 @@
   {
    "id": "959f21fee59f08ae",
    "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-   "punteggio": 11.5,
+   "punteggio": 9.9,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 7,
@@ -257,9 +257,56 @@
    ]
   },
   {
+   "id": "7bea771168cea629",
+   "titolo": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+   "punteggio": 9.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-25T17:30:00+00:00",
+   "link": [
+    {
+     "titolo": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
+     "fonte": "Banca Centrale Europea",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "d945a5859c67196e",
+   "titolo": "Purpose Investments Announces Final November 2026 Distribution Rates for Its Cash Funds and Corrected Record and Ex-Distribution Dates for Select U.S. Dollar ETF Units",
+   "punteggio": 9.0,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Purpose Investments Announces Final November 2026 Distribution Rates for Its Cash Funds and Corrected Record and Ex-Distribution Dates for Select U.S. Dollar ETF Units",
+     "url": "https://www.thewhig.com/press-releases/globe-newswire/purpose-investments-announces-final-november-2026-distribution-rates-for-its-cash-funds-and-corrected-record-and-ex-distribution-dates-for-select-u-s-dollar-etf-units/",
+     "fonte": "thewhig.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Purpose Investments Announces Final November 2026 Distribution Rates for Its Cash Funds and Corrected Record and Ex-Distribution Dates for Select U.S. Dollar ETF Units",
+     "url": "https://www.standard-freeholder.com/press-releases/globe-newswire/purpose-investments-announces-final-november-2026-distribution-rates-for-its-cash-funds-and-corrected-record-and-ex-distribution-dates-for-select-u-s-dollar-etf-units/",
+     "fonte": "standard-freeholder.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "6315c77a2a019336",
    "titolo": "December Fed rate hike looks locked in after inflation climbs",
-   "punteggio": 9.9,
+   "punteggio": 8.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -278,7 +325,7 @@
   {
    "id": "a428aa8c128bf336",
    "titolo": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues",
-   "punteggio": 9.9,
+   "punteggio": 8.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -297,7 +344,7 @@
   {
    "id": "56f5e2dad7bb9dd2",
    "titolo": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
-   "punteggio": 9.9,
+   "punteggio": 8.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -316,7 +363,7 @@
   {
    "id": "2176b39d2d1096d3",
    "titolo": "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
-   "punteggio": 9.9,
+   "punteggio": 8.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -333,9 +380,35 @@
    ]
   },
   {
+   "id": "05ed7135841f1013",
+   "titolo": "Inflation returns to year's highest level ahead of Black Friday; president proposes new tariffs",
+   "punteggio": 8.0,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Inflation returns to year's highest level ahead of Black Friday; president proposes new tariffs",
+     "url": "https://www.wpbf.com/article/inflation-returns-to-years-highest-level-ahead-of-black-friday-president-proposes-new-tariffs/74535311",
+     "fonte": "wpbf.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Inflation returns to year's highest level ahead of Black Friday; president proposes new tariffs",
+     "url": "https://www.ksbw.com/article/inflation-returns-to-years-highest-level-ahead-of-black-friday-president-proposes-new-tariffs/74535311",
+     "fonte": "ksbw.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "6a09be73b9f4bc46",
    "titolo": "Nvidia Anthropic SanDisk and Intel stocks tumble: Why are Nvidia, Anthropic, SanDisk and Intel stocks crashing today? Oracle, Alphabet, CoreWeave and IREN join Wall Street's AI sell-off",
-   "punteggio": 8.9,
+   "punteggio": 7.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -352,9 +425,28 @@
    ]
   },
   {
+   "id": "1d64ac0f9ecd3a78",
+   "titolo": "Major banks insist rates have peaked despite surging inflation",
+   "punteggio": 6.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:45:00+00:00",
+   "link": [
+    {
+     "titolo": "Major banks insist rates have peaked despite surging inflation",
+     "url": "https://www.theadviser.com.au/borrower/49301-major-banks-insist-rates-have-peaked-despite-surging-inflation",
+     "fonte": "theadviser.com.au",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "327e9900b6e016cd",
    "titolo": "PCE inflation gauge still running hot, as December rate hike looms",
-   "punteggio": 6.9,
+   "punteggio": 5.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -371,9 +463,108 @@
    ]
   },
   {
+   "id": "a3e03f41060839c8",
+   "titolo": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+   "punteggio": 5.0,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-25T20:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+     "fonte": "Federal Reserve",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "c1ddcc13fe2b37ca",
+   "titolo": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+   "punteggio": 5.0,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-25T20:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+     "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+     "fonte": "Federal Reserve",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "7c6e1866f5069ffd",
+   "titolo": "Could ECB collateral eligibility lift tokenized bond prices?",
+   "punteggio": 4.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Could ECB collateral eligibility lift tokenized bond prices?",
+     "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds",
+     "fonte": "Cointelegraph",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "fd865041800e6297",
+   "titolo": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
+   "punteggio": 4.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
+     "url": "https://www.kiplinger.com/investing/stocks/stocks-rally-off-lows-despite-inflation-and-ai-gloom-stock-market-today",
+     "fonte": "kiplinger.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "854a26c72d96914b",
+   "titolo": "Trump Administration Proposes New Sec. 301 Tariffs on China, EU, Others",
+   "punteggio": 4.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Trump Administration Proposes New Sec. 301 Tariffs on China, EU, Others",
+     "url": "https://foreignpolicy.com/2026/11/25/trump-new-tariffs-section-301-china-eu-india-abrego-garcia-deportation-spain/",
+     "fonte": "foreignpolicy.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "9d1c6b3789fca9ba",
    "titolo": "Dow Jones Top Markets Headlines at 11 AM ET: Hot Inflation and Strong Growth Raise the Risk of More Fed Rate Hikes | U.S. ...",
-   "punteggio": 5.9,
+   "punteggio": 4.4,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -392,7 +583,7 @@
   {
    "id": "cad421c99059404d",
    "titolo": "Possible Tesla merger could aid SpaceX's S&P 500 entry, ⁠J.P. Morgan says",
-   "punteggio": 5.9,
+   "punteggio": 4.4,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -411,7 +602,7 @@
   {
    "id": "5159ee92df3d88cc",
    "titolo": "Inflation continues to bedevil fed, remaining high in October",
-   "punteggio": 5.9,
+   "punteggio": 4.4,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -428,9 +619,66 @@
    ]
   },
   {
+   "id": "0e97e2a831f3d1a3",
+   "titolo": "US stock market today: Dow rises, Nasdaq falls as AI selloff hits Wall Street",
+   "punteggio": 4.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:45:00+00:00",
+   "link": [
+    {
+     "titolo": "US stock market today: Dow rises, Nasdaq falls as AI selloff hits Wall Street",
+     "url": "https://www.thehindubusinessline.com/markets/wall-street-rebounds-from-days-lows-as-bargain-hunters-step-in-dow-gains-nasdaq-falls/article71744812.ece",
+     "fonte": "thehindubusinessline.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "849bff7794793017",
+   "titolo": "European stocks end lower as rate hike fears, AI doubts hammer banks and tech",
+   "punteggio": 4.0,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:45:00+00:00",
+   "link": [
+    {
+     "titolo": "European stocks end lower as rate hike fears, AI doubts hammer banks and tech",
+     "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-stocks-end-lower-rate-hike-fears-ai-doubts-hammer-banks-and-tech",
+     "fonte": "businesstimes.com.sg",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "1438beac581b4f84",
+   "titolo": "Gold crash triggers auction notices as LTV breaches hit lenders",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Gold crash triggers auction notices as LTV breaches hit lenders",
+     "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gold-crash-triggers-auction-notices-as-ltv-breaches-hit-lenders/articleshow/136172114.cms",
+     "fonte": "indiatimes.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "1163c0bcb9f19c6a",
    "titolo": "Nasdaq-100 slides more than 4% amid sell-off in 82 of 100 constituents",
-   "punteggio": 4.9,
+   "punteggio": 3.4,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -449,7 +697,7 @@
   {
    "id": "303508a2561155c9",
    "titolo": "Market sell-off picks up steam, as Jensen Huang's Nvidia return fails to calm AI fears",
-   "punteggio": 4.9,
+   "punteggio": 3.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -468,7 +716,7 @@
   {
    "id": "3b96d73182050844",
    "titolo": "Stocks tumble as tech sell-off resumes; Nvidia falls 7%",
-   "punteggio": 4.9,
+   "punteggio": 3.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -487,7 +735,7 @@
   {
    "id": "e737086608302295",
    "titolo": "Market sell-off underway as gains from Huang's Nvidia move stall",
-   "punteggio": 4.9,
+   "punteggio": 3.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -506,7 +754,7 @@
   {
    "id": "07cce1e3a84d7bdc",
    "titolo": "Card payments edge past cash in shops; euro area consumers want both",
-   "punteggio": 4.6,
+   "punteggio": 3.0,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -527,7 +775,7 @@
   {
    "id": "469598247336939f",
    "titolo": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
-   "punteggio": 4.5,
+   "punteggio": 3.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -544,9 +792,47 @@
    ]
   },
   {
+   "id": "a0b6d9d32dd4d89d",
+   "titolo": "Bitcoin Miners Face Growing Risk of Computing Power Theft",
+   "punteggio": 2.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Bitcoin Miners Face Growing Risk of Computing Power Theft",
+     "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites",
+     "fonte": "Cointelegraph",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "2898f32d09faa4f5",
+   "titolo": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+   "punteggio": 2.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+     "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+     "fonte": "CNBC",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "4a0bd05c8c016f27",
    "titolo": "Wall Street: Πτώση 1,5% στον Nasdaq – Πάνω από τις 50.000 μονάδες ο Dow Jones",
-   "punteggio": 4.4,
+   "punteggio": 2.9,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -572,7 +858,7 @@
   {
    "id": "d8b711493dd83963",
    "titolo": "Nasdaq drops 4%, as Wall Street tumbles on renewed selling pressures",
-   "punteggio": 3.9,
+   "punteggio": 2.4,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -591,7 +877,7 @@
   {
    "id": "f6d1ced9578f849a",
    "titolo": "Nvidia Just Delivered Its Latest Earnings Report. Is the Stock a Buy Below $160?",
-   "punteggio": 3.9,
+   "punteggio": 2.4,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -608,9 +894,30 @@
    ]
   },
   {
+   "id": "3c30db97d64f8bcb",
+   "titolo": "LS Power Completes Acquisition of 4.4 GW Natural Gas Generation Assets from Constellation",
+   "punteggio": 2.3,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T21:38:00+00:00",
+   "link": [
+    {
+     "titolo": "LS Power Completes Acquisition of 4.4 GW Natural Gas Generation Assets from Constellation",
+     "url": "https://www.prnewswire.com/news-releases/ls-power-completes-acquisition-of-4-4-gw-natural-gas-generation-assets-from-constellation-302950859.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "b091093ef9d3ba9c",
    "titolo": "Gold, Silver Prices Today: Precious Metals Fall as Strong Dollar, US Fed Rate Concerns Weigh – The Indian Awaaz",
-   "punteggio": 3.9,
+   "punteggio": 2.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -629,7 +936,7 @@
   {
    "id": "e062cc45f1ebc289",
    "titolo": "Tesla and SpaceX stocks sink as merger concerns mount",
-   "punteggio": 3.9,
+   "punteggio": 2.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -648,7 +955,7 @@
   {
    "id": "aa98f7413e1c0004",
    "titolo": "Nasdaq Tumbles Amid New Tariffs Threats; What To Do During The Rally Attempt",
-   "punteggio": 3.5,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -667,7 +974,7 @@
   {
    "id": "7e7b353b3fb838da",
    "titolo": "Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion",
-   "punteggio": 3.5,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -684,9 +991,28 @@
    ]
   },
   {
+   "id": "b1b0e9640cac50cd",
+   "titolo": "Inside India newsletter: Roaring economy, foreign investors' return,record auto sales",
+   "punteggio": 1.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Inside India newsletter: Roaring economy, foreign investors' return,record auto sales",
+     "url": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
+     "fonte": "CNBC",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "3782b7f4b791221e",
    "titolo": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
-   "punteggio": 3.5,
+   "punteggio": 1.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -705,7 +1031,7 @@
   {
    "id": "deaaad444efe3acf",
    "titolo": "Bitcoin bie drejt pragut të 60 mijë dollarëve mes tërheqjeve të vazhdueshme nga fondet ETF-së",
-   "punteggio": 3.4,
+   "punteggio": 1.9,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -731,7 +1057,7 @@
   {
    "id": "48635ca50adfb67f",
    "titolo": "Australia is inching closer to a recession after one RBA rate rise too many | Greg Jericho",
-   "punteggio": 2.9,
+   "punteggio": 1.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -750,7 +1076,7 @@
   {
    "id": "6b460146bbaf9632",
    "titolo": "ANDD Leads Again: Leverage Shares by Themes Anthropic (ANT) ETFs Top Anthropic ETF Trading for a Second Straight Day",
-   "punteggio": 2.7,
+   "punteggio": 1.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -771,7 +1097,7 @@
   {
    "id": "656110bdbf4dc70f",
    "titolo": "ECB to accept DLT-issued collateral from June 2027",
-   "punteggio": 2.6,
+   "punteggio": 1.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -790,7 +1116,7 @@
   {
    "id": "0c7edadd91e0028f",
    "titolo": "Netflix (NASDAQ: NFLX) Earns Wall Street Applause, But Earnings Data Points To A Hold",
-   "punteggio": 2.5,
+   "punteggio": 1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -809,7 +1135,7 @@
   {
    "id": "5fb4ad9a136696a4",
    "titolo": "Macklem says oil price pressures are lingering on inflation forecast",
-   "punteggio": 2.5,
+   "punteggio": 1.0,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -835,7 +1161,7 @@
   {
    "id": "ed7eb2071aea1f93",
    "titolo": "Il sovrintendente Claudio Parisi Presicce: «I ragazzi riscoprono l'antichità anche attraverso i video su TikTok. Ho fatto da guida a Crowe e Lagarde. La mia famiglia? Ho 52 cugini»",
-   "punteggio": 2.5,
+   "punteggio": 0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -852,9 +1178,37 @@
    ]
   },
   {
+   "id": "d912350b57219da3",
+   "titolo": "Banco Macro Announces Results for the Third Quarter of 2026",
+   "punteggio": 0.8,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T23:50:00+00:00",
+   "link": [
+    {
+     "titolo": "Banco Macro Announces Results for the Third Quarter of 2026",
+     "url": "https://www.prnewswire.com/news-releases/banco-macro-announces-results-for-the-third-quarter-of-2026-302950900.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "WESTWOOD FINANCIAL ANNOUNCES THIRD QUARTER 2026 RESULTS",
+     "url": "https://www.prnewswire.com/news-releases/westwood-financial-announces-third-quarter-2026-results-302950749.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "8b3062381ff70288",
    "titolo": "Wall Street cierra mixto, con Nasdaq y S&P 500 en rojo por caída de tecnológicas",
-   "punteggio": 2.4,
+   "punteggio": 0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -871,9 +1225,177 @@
    ]
   },
   {
+   "id": "2b3c1e79d00e79f8",
+   "titolo": "Bitmine Immersion Technologies kündigt eine Bardividende in Höhe von 0,01 US-Dollar pro Stammaktie an",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T22:39:00+00:00",
+   "link": [
+    {
+     "titolo": "Bitmine Immersion Technologies kündigt eine Bardividende in Höhe von 0,01 US-Dollar pro Stammaktie an",
+     "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-kundigt-eine-bardividende-in-hohe-von-0-01-us-dollar-pro-stammaktie-an-302950889.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "b103f9fe4f69b5a6",
+   "titolo": "Bitmine Immersion Technologies kondigt een contant dividend van 0,01 dollar per gewoon aandeel aan",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T22:36:00+00:00",
+   "link": [
+    {
+     "titolo": "Bitmine Immersion Technologies kondigt een contant dividend van 0,01 dollar per gewoon aandeel aan",
+     "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-kondigt-een-contant-dividend-van-0-01-dollar-per-gewoon-aandeel-aan-302950887.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "025b31ece4fee834",
+   "titolo": "Bitmine Immersion Technologies annuncia un dividendo in contanti di 0,01 dollari per azione ordinaria",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T22:31:00+00:00",
+   "link": [
+    {
+     "titolo": "Bitmine Immersion Technologies annuncia un dividendo in contanti di 0,01 dollari per azione ordinaria",
+     "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-annuncia-un-dividendo-in-contanti-di-0-01-dollari-per-azione-ordinaria-302950884.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "bfc05b1f7e514b38",
+   "titolo": "Bitmine Immersion Technologies annonce un dividende en espèces de 0,01 $ par action ordinaire",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T22:29:00+00:00",
+   "link": [
+    {
+     "titolo": "Bitmine Immersion Technologies annonce un dividende en espèces de 0,01 $ par action ordinaire",
+     "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-annonce-un-dividende-en-especes-de-0-01--par-action-ordinaire-302950883.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "8515a09bac69c041",
+   "titolo": "Minesto resolves on a rights issue of approximately SEK 130 million and announces final terms",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T22:19:00+00:00",
+   "link": [
+    {
+     "titolo": "Minesto resolves on a rights issue of approximately SEK 130 million and announces final terms",
+     "url": "https://www.prnewswire.com/news-releases/minesto-resolves-on-a-rights-issue-of-approximately-sek-130-million-and-announces-final-terms-302950874.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "bf613293d8fbc750",
+   "titolo": "Cowork Frederick Foundation Announces 2026 Gala Fundraiser",
+   "punteggio": 0.4,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T21:55:00+00:00",
+   "link": [
+    {
+     "titolo": "Cowork Frederick Foundation Announces 2026 Gala Fundraiser",
+     "url": "https://www.prnewswire.com/news-releases/cowork-frederick-foundation-announces-2026-gala-fundraiser-302950792.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "3b17e7beb9dc9241",
+   "titolo": "Small Caps and Blue Chips Outpace Broader Market Through Midweek Session",
+   "punteggio": 0.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T20:55:00+00:00",
+   "link": [
+    {
+     "titolo": "Small Caps and Blue Chips Outpace Broader Market Through Midweek Session",
+     "url": "https://www.prnewswire.com/news-releases/small-caps-and-blue-chips-outpace-broader-market-through-midweek-session-302950847.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "1395368c1bd0ef19",
+   "titolo": "XTI Aerospace Eliminates Class B Units and Enters into Warrant Exchange Agreement, Simplifying Capital Structure",
+   "punteggio": 0.1,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T20:30:00+00:00",
+   "link": [
+    {
+     "titolo": "XTI Aerospace Eliminates Class B Units and Enters into Warrant Exchange Agreement, Simplifying Capital Structure",
+     "url": "https://www.prnewswire.com/news-releases/xti-aerospace-eliminates-class-b-units-and-enters-into-warrant-exchange-agreement-simplifying-capital-structure-302950835.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "423439742e32b7d4",
    "titolo": "The Semiconductor ETF Kept Falling After Nvidia Raised Its Forecast. Time to Buy?",
-   "punteggio": 1.6,
+   "punteggio": 0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -886,523 +1408,6 @@
      "fonte": "fool.com",
      "solo_verifica": false,
      "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "aae7a337e4385711",
-   "titolo": "Gold holds steady ahead of US inflation data",
-   "punteggio": 1.6,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T05:15:00+00:00",
-   "link": [
-    {
-     "titolo": "Gold holds steady ahead of US inflation data",
-     "url": "http://www.bignewsnetwork.com/news/279453126/gold-holds-steady-ahead-of-us-inflation-data",
-     "fonte": "bignewsnetwork.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "a22a480c189f7b85",
-   "titolo": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-   "punteggio": 1.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "macro"
-   ],
-   "ultima_ora": "2026-11-24T19:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
-     "fonte": "Federal Reserve",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "494039392891e094",
-   "titolo": "In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?",
-   "punteggio": 1.5,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:45:00+00:00",
-   "link": [
-    {
-     "titolo": "In Response to the Turmoil at Nvidia, Bitcoin Drops Below $70,000. Is This a Buy-the-Dip Opportunity?",
-     "url": "https://www.fool.com/investing/2026/11/24/in-response-to-the-turmoil-at-nvidia-bitcoin-drops-below-usd70-000-is-this-a-buy-the-dip-opportunity/?source=iedfolrf0000001",
-     "fonte": "fool.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "58f1bdc819a29bda",
-   "titolo": "Luminate Bank Acquires Select Assets of Real Genius, Expanding Consumer-Direct Mortgage Capabilities",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T17:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Luminate Bank Acquires Select Assets of Real Genius, Expanding Consumer-Direct Mortgage Capabilities",
-     "url": "https://www.prnewswire.com/news-releases/luminate-bank-acquires-select-assets-of-real-genius-expanding-consumer-direct-mortgage-capabilities-302950008.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "cf9a044d17e942ed",
-   "titolo": "CIBC planea expandirse en Oriente Medio con una nueva presencia en los mercados de capitales en Abu Dabi",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T17:00:00+00:00",
-   "link": [
-    {
-     "titolo": "CIBC planea expandirse en Oriente Medio con una nueva presencia en los mercados de capitales en Abu Dabi",
-     "url": "https://www.prnewswire.com/news-releases/cibc-planea-expandirse-en-oriente-medio-con-una-nueva-presencia-en-los-mercados-de-capitales-en-abu-dabi-302950699.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "9f534f2514245abf",
-   "titolo": "LSEG Finance plc announces pricing of its tender offer",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T16:56:00+00:00",
-   "link": [
-    {
-     "titolo": "LSEG Finance plc announces pricing of its tender offer",
-     "url": "https://www.prnewswire.com/news-releases/lseg-finance-plc-announces-pricing-of-its-tender-offer-302950693.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "610adcdfd370b716",
-   "titolo": "CIBC prévoit de s'implanter au Moyen-Orient avec une nouvelle présence sur les marchés de capitaux à Abou Dhabi.",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T16:55:00+00:00",
-   "link": [
-    {
-     "titolo": "CIBC prévoit de s'implanter au Moyen-Orient avec une nouvelle présence sur les marchés de capitaux à Abou Dhabi.",
-     "url": "https://www.prnewswire.com/news-releases/cibc-prevoit-de-simplanter-au-moyen-orient-avec-une-nouvelle-presence-sur-les-marches-de-capitaux-a-abou-dhabi-302950690.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "054e3f6fe8e21092",
-   "titolo": "PayKings Offers Free Statement Analyzer That Shows High-Risk Merchants the Rate They Actually Pay",
-   "punteggio": 1.0,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T16:52:00+00:00",
-   "link": [
-    {
-     "titolo": "PayKings Offers Free Statement Analyzer That Shows High-Risk Merchants the Rate They Actually Pay",
-     "url": "https://www.prnewswire.com/news-releases/paykings-offers-free-statement-analyzer-that-shows-high-risk-merchants-the-rate-they-actually-pay-302950687.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "b4bec08e18660434",
-   "titolo": "DIFC-Bericht „Future of Finance\": Dubai setzt weltweit Maßstäbe durch die Integration von fünf Säulen der Wettbewerbsfähigkeit und verbessert den Zugang zu Unternehmen, Kapital und Fachkräften",
-   "punteggio": 0.9,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T16:33:00+00:00",
-   "link": [
-    {
-     "titolo": "DIFC-Bericht „Future of Finance\": Dubai setzt weltweit Maßstäbe durch die Integration von fünf Säulen der Wettbewerbsfähigkeit und verbessert den Zugang zu Unternehmen, Kapital und Fachkräften",
-     "url": "https://www.prnewswire.com/news-releases/difc-bericht-future-of-finance-dubai-setzt-weltweit-maWstabe-durch-die-integration-von-funf-saulen-der-wettbewerbsfahigkeit-und-verbessert-den-zugang-zu-unternehmen-kapital-und-fachkraften-302950674.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "fbe9eaa8df19829a",
-   "titolo": "IntelliGRC Launches Trust Center, Giving MSPs and MSSPs a Controlled Way to Share Security Documentation for Every Client",
-   "punteggio": 0.8,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T16:11:00+00:00",
-   "link": [
-    {
-     "titolo": "IntelliGRC Launches Trust Center, Giving MSPs and MSSPs a Controlled Way to Share Security Documentation for Every Client",
-     "url": "https://www.prnewswire.com/news-releases/intelligrc-launches-trust-center-giving-msps-and-mssps-a-controlled-way-to-share-security-documentation-for-every-client-302950650.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "7b3bdcfc2530a9f1",
-   "titolo": "Client Reviews Keep Accredited Debt Relief Best Overall in Finder's Debt Relief Rankings",
-   "punteggio": 0.8,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T15:53:00+00:00",
-   "link": [
-    {
-     "titolo": "Client Reviews Keep Accredited Debt Relief Best Overall in Finder's Debt Relief Rankings",
-     "url": "https://www.prnewswire.com/news-releases/client-reviews-keep-accredited-debt-relief-best-overall-in-finders-debt-relief-rankings-302950638.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "2a52e7932f94303a",
-   "titolo": "Options Now Available on ANUU, ANDD & ANSS: Leverage Shares by Themes 2X Long, 2X Short and 1X Short Anthropic (ANT) ETFs",
-   "punteggio": 0.7,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T15:28:00+00:00",
-   "link": [
-    {
-     "titolo": "Options Now Available on ANUU, ANDD & ANSS: Leverage Shares by Themes 2X Long, 2X Short and 1X Short Anthropic (ANT) ETFs",
-     "url": "https://www.prnewswire.com/news-releases/options-now-available-on-anuu-andd--anss-leverage-shares-by-themes-2x-long-2x-short-and-1x-short-anthropic-ant-etfs-302950613.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "03680ea5d9e47d37",
-   "titolo": "Firstsource named a Leader in BFS Agentic Business Operations and a Major Contender and Star Performer in FCC Operations Services by Everest Group",
-   "punteggio": 0.7,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T15:28:00+00:00",
-   "link": [
-    {
-     "titolo": "Firstsource named a Leader in BFS Agentic Business Operations and a Major Contender and Star Performer in FCC Operations Services by Everest Group",
-     "url": "https://www.prnewswire.com/news-releases/firstsource-named-a-leader-in-bfs-agentic-business-operations-and-a-major-contender-and-star-performer-in-fcc-operations-services-by-everest-group-302950614.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "3384da401067e1a3",
-   "titolo": "Insurance Agent Matt Orr Clarifies Term Life Insurance and Whole Life Coverage Differences",
-   "punteggio": 0.7,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T15:22:00+00:00",
-   "link": [
-    {
-     "titolo": "Insurance Agent Matt Orr Clarifies Term Life Insurance and Whole Life Coverage Differences",
-     "url": "https://www.prnewswire.com/news-releases/insurance-agent-matt-orr-clarifies-term-life-insurance-and-whole-life-coverage-differences-302950610.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "33ad9b2fbb20b513",
-   "titolo": "Stirlingshire Investments Appoints Daniel Gicklhorn as Chief Technology Officer",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T15:13:00+00:00",
-   "link": [
-    {
-     "titolo": "Stirlingshire Investments Appoints Daniel Gicklhorn as Chief Technology Officer",
-     "url": "https://www.prnewswire.com/news-releases/stirlingshire-investments-appoints-daniel-gicklhorn-as-chief-technology-officer-302950605.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "a27e3b18af527138",
-   "titolo": "Insurance Expert Chris Winkelmann Helps Families Calculate Their Life Insurance Coverage Amount",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T15:12:00+00:00",
-   "link": [
-    {
-     "titolo": "Insurance Expert Chris Winkelmann Helps Families Calculate Their Life Insurance Coverage Amount",
-     "url": "https://www.prnewswire.com/news-releases/insurance-expert-chris-winkelmann-helps-families-calculate-their-life-insurance-coverage-amount-302950604.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "7e2946de124e0414",
-   "titolo": "Matkahuolto selects Aurionpro to advance seamless, sustainable public transport payments across Finland",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T15:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Matkahuolto selects Aurionpro to advance seamless, sustainable public transport payments across Finland",
-     "url": "https://www.prnewswire.com/news-releases/matkahuolto-selects-aurionpro-to-advance-seamless-sustainable-public-transport-payments-across-finland-302950344.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "f406a96df64411d2",
-   "titolo": "GSE Worldwide Expands Strategic Partnership with BC Partners Credit",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T15:00:00+00:00",
-   "link": [
-    {
-     "titolo": "GSE Worldwide Expands Strategic Partnership with BC Partners Credit",
-     "url": "https://www.prnewswire.com/news-releases/gse-worldwide-expands-strategic-partnership-with-bc-partners-credit-302949978.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "b6984ac0f6c9ed00",
-   "titolo": "Car Insurance Costs and Discounts Explained in HelloNation Featuring Insurance Agent Mike O'Boyle",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T14:55:00+00:00",
-   "link": [
-    {
-     "titolo": "Car Insurance Costs and Discounts Explained in HelloNation Featuring Insurance Agent Mike O'Boyle",
-     "url": "https://www.prnewswire.com/news-releases/car-insurance-costs-and-discounts-explained-in-hellonation-featuring-insurance-agent-mike-oboyle-302949921.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "5d759582da8f5a56",
-   "titolo": "In HelloNation, Insurance Expert Ellie Mills of Deerfield Beach, FL Explains What Renters Insurance Really Covers",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T14:55:00+00:00",
-   "link": [
-    {
-     "titolo": "In HelloNation, Insurance Expert Ellie Mills of Deerfield Beach, FL Explains What Renters Insurance Really Covers",
-     "url": "https://www.prnewswire.com/news-releases/in-hellonation-insurance-expert-ellie-mills-of-deerfield-beach-fl-explains-what-renters-insurance-really-covers-302948493.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "44250dbea294a02c",
-   "titolo": "Informe sobre el futuro de las finanzas del DIFC",
-   "punteggio": 0.5,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T14:46:00+00:00",
-   "link": [
-    {
-     "titolo": "Informe sobre el futuro de las finanzas del DIFC",
-     "url": "https://www.prnewswire.com/news-releases/informe-sobre-el-futuro-de-las-finanzas-del-difc-302950593.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "aff2a8c5587d0d25",
-   "titolo": "Huawei i CMA wspólnie prezentują rozwiązanie dla krajowych systemów płatniczych, które ma przyspieszyć ich modernizację na świecie",
-   "punteggio": 0.5,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T14:29:00+00:00",
-   "link": [
-    {
-     "titolo": "Huawei i CMA wspólnie prezentują rozwiązanie dla krajowych systemów płatniczych, które ma przyspieszyć ich modernizację na świecie",
-     "url": "https://www.prnewswire.com/news-releases/huawei-i-cma-wspolnie-prezentuj-rozwizanie-dla-krajowych-systemow-patniczych-ktore-ma-przyspieszy-ich-modernizacj-na-wiecie-302950578.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "b88c86f83a9f9e7c",
-   "titolo": "Why are US Stock Market indexes S&P 500, Nasdaq down after historic highs?",
-   "punteggio": 0.5,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Why are US Stock Market indexes S&P 500, Nasdaq down after historic highs?",
-     "url": "https://economictimes.indiatimes.com/world/us/why-are-us-stock-market-indexes-sp-500-nasdaq-down-after-historic-highs/articleshow/136144084.cms",
-     "fonte": "indiatimes.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "fecc587359ab238f",
-   "titolo": "U.S. Government Input Seals Jensen Huang's Return To Nvidia (NASDAQ: NVDA) As Stock Rockets 32%",
-   "punteggio": 0.5,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:45:00+00:00",
-   "link": [
-    {
-     "titolo": "U.S. Government Input Seals Jensen Huang's Return To Nvidia (NASDAQ: NVDA) As Stock Rockets 32%",
-     "url": "https://www.foreignpolicyjournal.com/2026/11/24/u-s-government-input-seals-jensen-huangs-return-to-nvidia-nasdaq-nvda-as-stock-rockets-32/",
-     "fonte": "foreignpolicyjournal.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "66b337c0778b289f",
-   "titolo": "FIBRA Prologis Recasts Credit Facility, Doubling Capacity to $1 Billion and Reducing Borrowing Spread",
-   "punteggio": 0.5,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-24T23:44:00+00:00",
-   "link": [
-    {
-     "titolo": "FIBRA Prologis Recasts Credit Facility, Doubling Capacity to $1 Billion and Reducing Borrowing Spread",
-     "url": "https://www.prnewswire.com/news-releases/fibra-prologis-recasts-credit-facility-doubling-capacity-to-1-billion-and-reducing-borrowing-spread-302949962.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
     }
    ]
   }
