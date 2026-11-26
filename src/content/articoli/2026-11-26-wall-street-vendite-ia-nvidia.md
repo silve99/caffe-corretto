@@ -1,6 +1,6 @@
 ---
-titolo: "Wall Street, vendite sull'IA: S&P 500 fino a −2,7%, Nvidia giù"
-descrizione: "Mercoledì nero a metà seduta per i titoli dell'intelligenza artificiale: S&P 500 fino a −2,7% e Nvidia oltre −8%, poi il recupero. Oggi Wall Street è chiusa."
+titolo: "Wall Street, vendite sull'IA: S&P 500 fino a −3%, Nvidia giù"
+descrizione: "Mercoledì nero a metà seduta per i titoli dell'intelligenza artificiale: S&P 500 fino a −3% e Nvidia oltre −8%, poi il recupero. Oggi Wall Street è chiusa."
 data: 2026-11-26T06:30:00+01:00
 tipo: breve
 categorie: [azioni]
@@ -30,9 +30,9 @@ Lunedì il ritorno di Jensen Huang aveva fatto volare i titoli dell'intelligenza
 
 ## Il momento peggiore
 
-A metà giornata le vendite sui titoli legati all'IA hanno trascinato giù tutta Wall Street. Secondo CBC e diversi quotidiani americani, l'[S&P 500](/glossario/s-p-500/) è arrivato a perdere il 2,7%, e in un aggiornamento successivo il 3%. Per Seeking Alpha il Nasdaq-100 scivolava di oltre il 4%, con 82 titoli su 100 in rosso.
+A metà giornata le vendite sui titoli legati all'IA hanno trascinato giù tutta Wall Street. Secondo diversi quotidiani americani, l'[S&P 500](/glossario/s-p-500/) perdeva il 2,7%; in un aggiornamento successivo CBC indicava il 3%. Per Seeking Alpha il Nasdaq-100 scivolava di oltre il 4%, con 82 titoli su 100 in rosso.
 
-Nvidia, la protagonista della settimana, era tra le più colpite. L'ANSA la dava in calo di oltre l'8% in mattinata, AOL del 7%. Secondo The Economic Times sono finiti sotto pressione anche Anthropic, SanDisk e Intel, insieme a Oracle, Alphabet e CoreWeave.
+Nvidia, la protagonista della settimana, era tra le più colpite. L'ANSA la dava in calo di oltre l'8% nella mattinata di New York, AOL del 7%. Secondo The Economic Times sono finiti sotto pressione anche Anthropic, SanDisk e Intel, insieme a Oracle, Alphabet e CoreWeave.
 
 ## Il recupero nel pomeriggio
 

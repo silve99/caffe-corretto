@@ -58,11 +58,11 @@ fonti:
 bozza: false
 ---
 
-Oggi in America si mangia il tacchino e Wall Street resta chiusa. Ma ieri, prima di sedersi a tavola, gli investitori hanno ricevuto un conto salato: inflazione più calda del previsto, una Fed pronta ad alzare i tassi e nuovi dazi sul tavolo.
+Oggi in America si mangia il tacchino e Wall Street resta chiusa. Ma ieri, prima di sedersi a tavola, gli investitori hanno ricevuto un conto salato: inflazione che non si raffredda, una Fed pronta ad alzare i tassi e nuovi dazi sul tavolo.
 
 > **In 30 secondi.**
 > - **Piazza Affari chiude a −1,81%**, zavorrata da Prysmian e Stm; Francoforte perde l'1,26% (ANSA).
-> - **Wall Street sulle montagne russe**: l'S&P 500 è arrivato a perdere il 2,7% a metà seduta, poi il recupero dai minimi (CBC, Kiplinger, ANSA).
+> - **Wall Street sulle montagne russe**: l'S&P 500 è arrivato a perdere il 3% a metà seduta, poi il recupero dai minimi (CBC, Kiplinger, ANSA).
 > - **Inflazione Usa calda**: per Yahoo Finance e InvestmentNews il rialzo dei tassi Fed a dicembre è ormai quasi certo. L'economia corre: Pil del terzo trimestre +4,3% (ANSA).
 > - **Trump propone nuovi dazi** contro Cina, Ue e altri Paesi (Foreign Policy, WPBF).
 > - **Bitcoin rialza la testa**: 55.087 €, +1,45% in 24 ore (CoinGecko).
@@ -92,7 +92,7 @@ Il secondo giorno di fila col segno meno. Secondo l'ANSA, Piazza Affari ha chius
 
 Il copione è stato lo stesso ovunque. Già a metà giornata l'ANSA segnalava banche e titoli dei microchip sotto pressione. Il quotidiano di Singapore The Business Times indica due colpevoli: la paura di nuovi rialzi dei tassi e i dubbi sull'intelligenza artificiale. Anche lo [spread](/glossario/spread/) tra BTP e Bund è salito, chiudendo a 111,9 punti secondo l'ANSA.
 
-Oltreoceano la seduta è stata un ottovolante. Nel momento peggiore, riportano CBC e diversi quotidiani americani, l'[S&P 500](/glossario/s-p-500/) perdeva il 2,7%, e in un aggiornamento successivo il 3%. Nvidia era tra i titoli più colpiti: per l'ANSA in mattinata cedeva oltre l'8%, per AOL il 7%.
+Oltreoceano la seduta è stata un ottovolante. A metà seduta, riportano diversi quotidiani americani, l'[S&P 500](/glossario/s-p-500/) perdeva il 2,7%; in un aggiornamento successivo CBC indicava il 3%. Nvidia era tra i titoli più colpiti: per l'ANSA nella mattinata di New York cedeva oltre l'8%, per AOL il 7%.
 
 Poi gli acquisti sui minimi. Kiplinger e The Hindu BusinessLine raccontano un recupero nel pomeriggio americano. Verso le 21 ora italiana, a circa un'ora dalla chiusura, l'ANSA dava il Dow Jones a +0,44% e il [Nasdaq](/glossario/nasdaq/) a −0,78%. Al momento della nostra ultima raccolta dati non avevamo ancora i numeri di chiusura definitivi.
 
@@ -114,9 +114,9 @@ Il dato che ha fatto tremare i mercati arriva da Washington. Secondo l'ANSA, il 
 
 L'indice dei prezzi più seguito dalla [Fed](/glossario/fed/) si è scaldato a ottobre, concordano Yahoo Finance e InvestmentNews. Diversi quotidiani americani scrivono che l'inflazione è tornata ai massimi dell'anno, alla vigilia del Black Friday. Risultato: per Yahoo Finance un rialzo dei [tassi](/glossario/tassi/) a dicembre è ormai quasi certo, e altri potrebbero arrivare l'anno prossimo. Attenzione: è ciò che si aspettano i mercati, non una decisione già presa.
 
-Sul tavolo c'è anche il capitolo [dazi](/glossario/dazi/). Ieri era un'indiscrezione, oggi è una proposta. Secondo Foreign Policy, l'amministrazione Trump ha proposto nuovi dazi contro Cina, Unione europea e altri Paesi, ne parlano anche WPBF e Yahoo Finance. Mancano ancora i dettagli su prodotti e aliquote.
+Sul tavolo c'è anche il capitolo [dazi](/glossario/dazi/). Martedì era un'indiscrezione, mercoledì è diventata una proposta. Secondo Foreign Policy, l'amministrazione Trump ha proposto nuovi dazi contro Cina, Unione europea e altri Paesi, ne parlano anche WPBF e Yahoo Finance. Mancano ancora i dettagli su prodotti e aliquote.
 
-Da Francoforte, invece, una notizia di vita quotidiana. Secondo la [BCE](/glossario/bce/), nei negozi dell'area euro le carte hanno superato il contante, anche se i cittadini vogliono poter usare entrambi. La BCE ha anche firmato l'accordo con la banca centrale svedese per l'ingresso della Svezia in T2, il sistema europeo per i grandi pagamenti tra banche. L'euro, intanto, scende a 1,0935 dollari (−0,26%) e perde l'1,07% contro il franco svizzero.
+Da Francoforte, invece, una notizia di vita quotidiana. Secondo la [BCE](/glossario/bce/), nei negozi dell'area euro le carte hanno superato il contante, anche se i cittadini vogliono poter usare entrambi. La BCE ha anche concluso l'accordo con la banca centrale svedese per l'ingresso della Svezia in T2, il sistema europeo per i grandi pagamenti tra banche. L'euro, intanto, scende a 1,0935 dollari (−0,26%) e perde l'1,07% contro il franco svizzero.
 
 **Cosa significa per te:** la Fed non decide i tassi dei mutui italiani, ma un dollaro più forte rende più cari i viaggi negli Usa e gli acquisti in dollari. Se esporti o lavori in un'azienda che vende in America, i dazi sono la notizia da seguire nelle prossime settimane.
 

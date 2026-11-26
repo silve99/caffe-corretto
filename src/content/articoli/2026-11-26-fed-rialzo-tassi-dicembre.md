@@ -28,7 +28,7 @@ Un'economia che corre è una buona notizia. Finché non porta con sé i prezzi. 
 
 ## I numeri che hanno spaventato i mercati
 
-Secondo l'ANSA, il Pil americano del terzo trimestre è cresciuto del 4,3%, più delle attese. Nello stesso pacchetto di dati l'[inflazione](/glossario/inflazione/) si è attestata al 3,8%.
+Secondo l'ANSA, il Pil americano del terzo trimestre è cresciuto del 4,3%, più delle attese. Sempre secondo l'agenzia, l'[inflazione](/glossario/inflazione/) è al 3,8%.
 
 L'indice dei prezzi preferito dalla [Fed](/glossario/fed/) si è scaldato a ottobre, scrivono Yahoo Finance e InvestmentNews. Diversi quotidiani americani aggiungono che l'inflazione è tornata ai livelli più alti dell'anno, nonostante il calo dei prezzi della benzina.
 

@@ -30,7 +30,7 @@ La notizia è confermata da più testate. Diversi quotidiani americani scrivono 
 
 ## Cosa ancora non sappiamo
 
-Una proposta non è una legge in vigore. Dai titoli disponibili non emergono ancora l'elenco dei prodotti colpiti, le aliquote e le date. Sono proprio questi i dettagli che faranno la differenza per le aziende.
+Una proposta non è una legge in vigore. Non sono ancora chiari l'elenco dei prodotti colpiti, le aliquote e le date. Sono proprio questi i dettagli che faranno la differenza per le aziende.
 
 ## L'effetto sulle Borse
 
