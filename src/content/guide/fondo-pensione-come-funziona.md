@@ -11,7 +11,7 @@ fonti:
     url: "https://lavoro.gov.it/previdenza-complementare/educazione-previdenziale/incentivazione-fiscale"
   - nome: "Ministero del Lavoro – Novità della legge di bilancio 2026"
     url: "https://lavoro.gov.it/notizie/pagine/previdenza-complementare-le-novita-della-legge-di-bilancio-2026-vigore-dal-primo-luglio-2026"
-bozza: true
+bozza: false
 ---
 
 Fai una prova: cerca la tua busta arancione dell'INPS, o simula la tua pensione sul sito dell'istituto. Per molti è una doccia fredda: l'assegno futuro sarà parecchio più basso dell'ultimo stipendio. Il fondo pensione esiste proprio per riempire quel vuoto, e lo Stato lo incoraggia con sconti fiscali tra i più generosi che ci siano.
