@@ -32,7 +32,7 @@ from zoneinfo import ZoneInfo
 
 ROMA = ZoneInfo("Europe/Rome")
 QUI = Path(__file__).resolve().parent
-UA = "CaffeCorrettoBot/0.1 (+https://caffe-corretto.pages.dev/come-lavoriamo/)"
+UA = "CaffeCorrettoBot/0.1 (+https://caffecorrettomercati.com/come-lavoriamo/)"
 FINESTRA_ORE = 26  # la selezione guarda le ultime 26 ore (copre 06:30 di ieri -> 06:00 di oggi)
 
 # --------------------------------------------------------------------------- rete
