@@ -1,34 +1,34 @@
 {
- "aggiornato": "2026-11-26T09:23:38.910786+00:00",
- "aggiornato_roma": "26/11/2026 10:23",
+ "aggiornato": "2026-11-26T19:15:34.091254+00:00",
+ "aggiornato_roma": "26/11/2026 20:15",
  "errori": [],
  "cambi_bce": {
   "fonte": "Banca Centrale Europea",
   "dati": {
    "EUR/CHF": {
-    "valore": 0.9085,
-    "data": "2026-11-25",
-    "variazione_pct": -1.07
+    "valore": 0.9153,
+    "data": "2026-11-26",
+    "variazione_pct": 0.75
    },
    "EUR/CNY": {
-    "valore": 7.2999,
-    "data": "2026-11-25",
-    "variazione_pct": -0.09
+    "valore": 7.3096,
+    "data": "2026-11-26",
+    "variazione_pct": 0.13
    },
    "EUR/GBP": {
-    "valore": 0.8373,
-    "data": "2026-11-25",
-    "variazione_pct": 0.04
+    "valore": 0.83755,
+    "data": "2026-11-26",
+    "variazione_pct": 0.03
    },
    "EUR/JPY": {
-    "valore": 174.22,
-    "data": "2026-11-25",
-    "variazione_pct": -0.1
+    "valore": 174.79,
+    "data": "2026-11-26",
+    "variazione_pct": 0.33
    },
    "EUR/USD": {
-    "valore": 1.0935,
-    "data": "2026-11-25",
-    "variazione_pct": -0.26
+    "valore": 1.0975,
+    "data": "2026-11-26",
+    "variazione_pct": 0.37
    }
   }
  },
@@ -37,51 +37,51 @@
   "dati": {
    "BTC": {
     "nome": "Bitcoin",
-    "prezzo_eur": 55366,
-    "variazione_24h_pct": 2.73,
-    "capitalizzazione_eur": 1113828189893
+    "prezzo_eur": 55129,
+    "variazione_24h_pct": 1.12,
+    "capitalizzazione_eur": 1109071793615
    },
    "ETH": {
     "nome": "Ethereum",
-    "prezzo_eur": 1547.14,
-    "variazione_24h_pct": 3.19,
-    "capitalizzazione_eur": 189143312025
+    "prezzo_eur": 1549.61,
+    "variazione_24h_pct": 1.1,
+    "capitalizzazione_eur": 189445681832
    },
    "BNB": {
     "nome": "BNB",
-    "prezzo_eur": 504.2,
-    "variazione_24h_pct": 2.19,
-    "capitalizzazione_eur": 66306663938
+    "prezzo_eur": 504.43,
+    "variazione_24h_pct": 0.52,
+    "capitalizzazione_eur": 66337804426
    },
    "XRP": {
     "nome": "XRP",
-    "prezzo_eur": 0.868604,
-    "variazione_24h_pct": 3.8,
-    "capitalizzazione_eur": 55170778704
+    "prezzo_eur": 0.868929,
+    "variazione_24h_pct": 2.09,
+    "capitalizzazione_eur": 55191416577
    },
    "SOL": {
     "nome": "Solana",
-    "prezzo_eur": 64.67,
-    "variazione_24h_pct": 4.84,
-    "capitalizzazione_eur": 38296354718
+    "prezzo_eur": 64.99,
+    "variazione_24h_pct": 1.94,
+    "capitalizzazione_eur": 38483562618
    },
    "DOGE": {
     "nome": "Dogecoin",
-    "prezzo_eur": 0.051617,
-    "variazione_24h_pct": 4.56,
-    "capitalizzazione_eur": 8098884798
+    "prezzo_eur": 0.051947,
+    "variazione_24h_pct": 2.85,
+    "capitalizzazione_eur": 8150643637
    },
    "ADA": {
     "nome": "Cardano",
-    "prezzo_eur": 0.135637,
-    "variazione_24h_pct": 4.85,
-    "capitalizzazione_eur": 5097946749
+    "prezzo_eur": 0.137037,
+    "variazione_24h_pct": 3.44,
+    "capitalizzazione_eur": 5150553821
    }
   }
  },
  "cripto_globale": {
-  "capitalizzazione_totale_eur": 1892622167097.684,
-  "variazione_24h_pct": -0.48,
-  "dominanza_btc_pct": 58.7
+  "capitalizzazione_totale_eur": 1912605298102.873,
+  "variazione_24h_pct": -1.67,
+  "dominanza_btc_pct": 57.9
  }
 }

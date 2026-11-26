@@ -1,195 +1,131 @@
 {
- "aggiornato": "2026-11-26T09:23:35.970765+00:00",
+ "aggiornato": "2026-11-26T19:15:29.080711+00:00",
  "finestra_ore": 26,
- "notizie_considerate": 219,
+ "notizie_considerate": 172,
  "gruppi": [
   {
-   "id": "7465be8735d0b28b",
-   "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "punteggio": 14.3,
+   "id": "f7a42d0ca033c7ef",
+   "titolo": "Spain's Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president: Report",
+   "punteggio": 12.9,
    "verificata": true,
    "ufficiale": false,
-   "fonti_distinte": 15,
+   "fonti_distinte": 3,
    "categorie": [],
-   "ultima_ora": "2026-11-26T00:45:00+00:00",
+   "ultima_ora": "2026-11-26T18:45:00+00:00",
    "link": [
     {
-     "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-     "url": "https://www.wxow.com/news/national/inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the/article_120cd71e-aee5-5c0b-bef1-6420a5cad285.html",
-     "fonte": "wxow.com",
+     "titolo": "Spain's Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president: Report",
+     "url": "http://www.londonmercury.com/news/279460367/spain-pablo-hernandez-de-cos-set-to-succeed-christine-lagarde-as-ecb-president-report",
+     "fonte": "londonmercury.com",
      "solo_verifica": false,
      "via": "GDELT"
     },
     {
-     "titolo": "Inflation remains high despite retreating gas prices, a Fed challenge",
-     "url": "https://www.sun-sentinel.com/2026/11/25/inflation-high-fed/",
-     "fonte": "sun-sentinel.com",
+     "titolo": "Spain's Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president: Report",
+     "url": "http://www.afghanistannews.net/news/279460367/spain-pablo-hernandez-de-cos-set-to-succeed-christine-lagarde-as-ecb-president-report",
+     "fonte": "afghanistannews.net",
      "solo_verifica": false,
      "via": "GDELT"
     },
     {
-     "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-     "url": "http://www.reflector.com/news/national/inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the/article_1ae49bc7-017f-52b3-9b0b-aec2e7e5be4b.html",
-     "fonte": "reflector.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-     "url": "https://www.2news.com/news/national/inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the/article_6faeb506-16db-509e-805e-7124f393d868.html",
-     "fonte": "2news.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains uncomfortably high despite retreat in gas prices as challenges mount for Fed",
-     "url": "https://www.ksl.com:443/article/51648063/inflation-remains-uncomfortably-high-despite-retreat-in-gas-prices-as-challenges-mount-for-fed",
-     "fonte": "ksl.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-     "url": "https://www.marinij.com/2026/11/25/inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the-fed/",
-     "fonte": "marinij.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains high despite retreating gas prices, a Fed challenge",
-     "url": "https://www.coloradohometownweekly.com/2026/11/25/inflation-high-fed/",
-     "fonte": "coloradohometownweekly.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-     "url": "https://www.ktbs.com/news/business/inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the/article_61afe5f1-905e-5b80-adb1-8787f34cc481.html",
-     "fonte": "ktbs.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains high despite retreating gas prices, a Fed challenge",
-     "url": "https://www.orovillemr.com/2026/11/25/inflation-high-fed/",
-     "fonte": "orovillemr.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains high despite retreating gas prices, a Fed challenge",
-     "url": "https://www.pilotonline.com/2026/11/25/inflation-high-fed/",
-     "fonte": "pilotonline.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains high despite retreating gas prices, a Fed challenge",
-     "url": "https://www.journal-advocate.com/2026/11/25/inflation-high-fed/",
-     "fonte": "journal-advocate.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Inflation remains high despite retreating gas prices, a Fed challenge",
-     "url": "https://www.dailypress.com/2026/11/25/inflation-high-fed/",
-     "fonte": "dailypress.com",
+     "titolo": "Spain's Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president: Report",
+     "url": "http://www.azerbaijannews.net/news/279460367/spain-pablo-hernandez-de-cos-set-to-succeed-christine-lagarde-as-ecb-president-report",
+     "fonte": "azerbaijannews.net",
      "solo_verifica": false,
      "via": "GDELT"
     }
    ]
   },
   {
-   "id": "c5830133965c3600",
-   "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-   "punteggio": 10.7,
-   "verificata": true,
+   "id": "4ed993246cccb2b1",
+   "titolo": "Spain's De Cos to take over as ECB president from Lagarde",
+   "punteggio": 8.9,
+   "verificata": false,
    "ufficiale": false,
-   "fonti_distinte": 12,
+   "fonti_distinte": 1,
    "categorie": [],
-   "ultima_ora": "2026-11-25T16:45:00+00:00",
+   "ultima_ora": "2026-11-26T19:00:00+00:00",
    "link": [
     {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-     "url": "https://www.coloradohometownweekly.com/2026/11/25/ai-nvidia-wall-street/",
-     "fonte": "coloradohometownweekly.com",
+     "titolo": "Spain's De Cos to take over as ECB president from Lagarde",
+     "url": "https://www.aol.com/articles/spains-cos-set-nominated-eu-141421000.html",
+     "fonte": "aol.com",
      "solo_verifica": false,
      "via": "GDELT"
-    },
+    }
+   ]
+  },
+  {
+   "id": "6847ee85daff3f4b",
+   "titolo": "Spain's former central bank head to succeed Lagarde as ECB chief",
+   "punteggio": 8.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T18:45:00+00:00",
+   "link": [
     {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-     "url": "https://www.2news.com/news/national/ai-rout-drags-wall-street-lower-s-p-500-slumps-2-7/article_d6dedb66-f66a-549d-a8da-3d61c7193642.html",
-     "fonte": "2news.com",
+     "titolo": "Spain's former central bank head to succeed Lagarde as ECB chief",
+     "url": "https://www.dailysabah.com/business/economy/spains-former-central-bank-head-to-succeed-lagarde-as-ecb-chief",
+     "fonte": "dailysabah.com",
      "solo_verifica": false,
      "via": "GDELT"
-    },
+    }
+   ]
+  },
+  {
+   "id": "245fb2530755eb03",
+   "titolo": "Gold slips, silver steadies as Fed rate hike expectations persist in holiday trading - Kitco AM Report",
+   "punteggio": 7.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T19:00:00+00:00",
+   "link": [
     {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-     "url": "http://www.reflector.com/news/national/ai-rout-drags-wall-street-lower-s-p-500-slumps-2-7/article_c6b30187-ebd8-58ab-9741-35054c105a1f.html",
-     "fonte": "reflector.com",
+     "titolo": "Gold slips, silver steadies as Fed rate hike expectations persist in holiday trading - Kitco AM Report",
+     "url": "http://www.kitco.com/news/article/2026-11-26/gold-slips-silver-steadies-fed-rate-hike-expectations-persist-holiday",
+     "fonte": "kitco.com",
      "solo_verifica": false,
      "via": "GDELT"
-    },
+    }
+   ]
+  },
+  {
+   "id": "5e7287b69d6de1e3",
+   "titolo": "ECB minutes show energy prices highlight inflation risks",
+   "punteggio": 7.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T19:00:00+00:00",
+   "link": [
     {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 3%",
-     "url": "https://www.times-news.com/news/ai-rout-drags-wall-street-lower-s-p-500-slumps-3/article_f2806cf3-4b3d-5140-8102-6fe8454bf10f.html",
-     "fonte": "times-news.com",
+     "titolo": "ECB minutes show energy prices highlight inflation risks",
+     "url": "https://www.azernews.az/region/268176.html",
+     "fonte": "azernews.az",
      "solo_verifica": false,
      "via": "GDELT"
-    },
+    }
+   ]
+  },
+  {
+   "id": "ba14e23ce9628383",
+   "titolo": "Gold's rebound shows markets fear recession and doubt Fed rate follow-through – StoneX's Stanley",
+   "punteggio": 6.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T19:00:00+00:00",
+   "link": [
     {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-     "url": "https://www.sun-sentinel.com/2026/11/25/ai-nvidia-wall-street/",
-     "fonte": "sun-sentinel.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 3%",
-     "url": "https://www.thesunchronicle.com/business/ai-rout-drags-wall-street-lower-s-p-500-slumps-3/article_06cc2576-ba7d-5151-8312-53e78060c923.html",
-     "fonte": "thesunchronicle.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-     "url": "https://www.dailydemocrat.com/2026/11/25/ai-nvidia-wall-street/",
-     "fonte": "dailydemocrat.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 3%",
-     "url": "https://www.cbc.ca/news/business/stock-market-latest-9.7435326",
-     "fonte": "cbc.ca",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-     "url": "https://www.pilotonline.com/2026/11/25/ai-nvidia-wall-street/",
-     "fonte": "pilotonline.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-     "url": "https://www.orovillemr.com/2026/11/25/ai-nvidia-wall-street/",
-     "fonte": "orovillemr.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-     "url": "https://www.journal-advocate.com/2026/11/25/ai-nvidia-wall-street/",
-     "fonte": "journal-advocate.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-     "url": "https://www.dailypress.com/2026/11/25/ai-nvidia-wall-street/",
-     "fonte": "dailypress.com",
+     "titolo": "Gold's rebound shows markets fear recession and doubt Fed rate follow-through – StoneX's Stanley",
+     "url": "http://www.kitco.com/news/article/2026-11-26/golds-rebound-shows-markets-fear-recession-and-doubt-fed-rate-follow",
+     "fonte": "kitco.com",
      "solo_verifica": false,
      "via": "GDELT"
     }
@@ -198,7 +134,7 @@
   {
    "id": "7bea771168cea629",
    "titolo": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-   "punteggio": 7.8,
+   "punteggio": 5.8,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -219,7 +155,7 @@
   {
    "id": "d945a5859c67196e",
    "titolo": "Purpose Investments Announces Final November 2026 Distribution Rates for Its Cash Funds and Corrected Record and Ex-Distribution Dates for Select U.S. Dollar ETF Units",
-   "punteggio": 7.3,
+   "punteggio": 5.3,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -243,85 +179,68 @@
    ]
   },
   {
-   "id": "6315c77a2a019336",
-   "titolo": "December Fed rate hike looks locked in after inflation climbs",
-   "punteggio": 6.6,
+   "id": "26eff28487e980a6",
+   "titolo": "Spain's Pablo Hernández de Cos wins race to be next ECB president",
+   "punteggio": 4.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
    "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
+   "ultima_ora": "2026-11-26T19:00:00+00:00",
    "link": [
     {
-     "titolo": "December Fed rate hike looks locked in after inflation climbs",
-     "url": "https://www.mpamag.com/us/mortgage-industry/industry-trends/december-fed-rate-hike-looks-locked-in-after-inflation-climbs/598790",
-     "fonte": "mpamag.com",
+     "titolo": "Spain's Pablo Hernández de Cos wins race to be next ECB president",
+     "url": "https://www.aol.co.uk/articles/spain-pablo-hern-ndez-cos-175054000.html",
+     "fonte": "aol.co.uk",
      "solo_verifica": false,
      "via": "GDELT"
     }
    ]
   },
   {
-   "id": "a428aa8c128bf336",
-   "titolo": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues",
-   "punteggio": 6.6,
+   "id": "b2700702dc94e610",
+   "titolo": "S&P 500 Sell-Off: Here's Why I'm Not Panicking -- and What I'm Doing Instead",
+   "punteggio": 4.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
    "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
+   "ultima_ora": "2026-11-26T18:45:00+00:00",
    "link": [
     {
-     "titolo": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues",
-     "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
-     "fonte": "yahoo.com",
+     "titolo": "S&P 500 Sell-Off: Here's Why I'm Not Panicking -- and What I'm Doing Instead",
+     "url": "https://www.fool.com/investing/2026/11/26/sp-500-sell-off-heres-why-im-not-panicking-and-what-im-doing-instead/?source=iedfolrf0000001",
+     "fonte": "fool.com",
      "solo_verifica": false,
      "via": "GDELT"
     }
    ]
   },
   {
-   "id": "56f5e2dad7bb9dd2",
-   "titolo": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
-   "punteggio": 6.6,
-   "verificata": false,
-   "ufficiale": false,
+   "id": "72494d7a50bc2ad3",
+   "titolo": "Meeting of 28-29 October 2026",
+   "punteggio": 4.6,
+   "verificata": true,
+   "ufficiale": true,
    "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-26T12:30:00+00:00",
    "link": [
     {
-     "titolo": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
-     "url": "https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-heats-up-solidifying-a-rate-hike-in-december-with-more-likely-next-year-135510084.html",
-     "fonte": "yahoo.com",
+     "titolo": "Meeting of 28-29 October 2026",
+     "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+     "fonte": "Banca Centrale Europea",
      "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "2176b39d2d1096d3",
-   "titolo": "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
-   "punteggio": 6.6,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
-     "url": "https://www.aol.com/articles/feds-favored-inflation-gauge-rose-133331000.html",
-     "fonte": "aol.com",
-     "solo_verifica": false,
-     "via": "GDELT"
+     "via": null
     }
    ]
   },
   {
    "id": "05ed7135841f1013",
    "titolo": "Inflation returns to year's highest level ahead of Black Friday; president proposes new tariffs",
-   "punteggio": 6.3,
+   "punteggio": 4.3,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -345,19 +264,89 @@
    ]
   },
   {
-   "id": "6a09be73b9f4bc46",
-   "titolo": "Nvidia Anthropic SanDisk and Intel stocks tumble: Why are Nvidia, Anthropic, SanDisk and Intel stocks crashing today? Oracle, Alphabet, CoreWeave and IREN join Wall Street's AI sell-off",
-   "punteggio": 5.6,
+   "id": "e18854ab116ad1b0",
+   "titolo": "Julius Meinl Coffee Group completes largest acquisition in its history",
+   "punteggio": 2.9,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T18:46:00+00:00",
+   "link": [
+    {
+     "titolo": "Julius Meinl Coffee Group completes largest acquisition in its history",
+     "url": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951331.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "Julius Meinl Coffee Group completes largest acquisition in its history",
+     "url": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951333.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "9bb7875a76abee77",
+   "titolo": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Alibaba Group Holding Limited (NYSE: BABA) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm",
+   "punteggio": 2.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T17:00:00+00:00",
+   "link": [
+    {
+     "titolo": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Alibaba Group Holding Limited (NYSE: BABA) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm",
+     "url": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-alibaba-group-holding-limited-nyse-baba--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302949659.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Fervo Energy Company (NASDAQ: FRVO) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm",
+     "url": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-fervo-energy-company-nasdaq-frvo--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302949731.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against FMC Corporation (NYSE: FMC) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm",
+     "url": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-fmc-corporation-nyse-fmc--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302949752.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against MNTN, Inc. (NYSE: MNTN) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm",
+     "url": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-mntn-inc-nyse-mntn--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302949745.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "7465be8735d0b28b",
+   "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "punteggio": 2.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
    "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
+   "ultima_ora": "2026-11-26T00:45:00+00:00",
    "link": [
     {
-     "titolo": "Nvidia Anthropic SanDisk and Intel stocks tumble: Why are Nvidia, Anthropic, SanDisk and Intel stocks crashing today? Oracle, Alphabet, CoreWeave and IREN join Wall Street's AI sell-off",
-     "url": "https://economictimes.indiatimes.com/world/us/why-are-nvidia-anthropic-sandisk-and-intel-stocks-crashing-today-oracle-alphabet-coreweave-and-iren-join-wall-streets-ai-sell-off/articleshow/136166026.cms",
-     "fonte": "indiatimes.com",
+     "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+     "url": "https://www.wxow.com/news/national/inflation-remains-uncomfortably-high-despite-a-retreat-in-gas-prices-as-challenges-mount-for-the/article_120cd71e-aee5-5c0b-bef1-6420a5cad285.html",
+     "fonte": "wxow.com",
      "solo_verifica": false,
      "via": "GDELT"
     }
@@ -366,7 +355,7 @@
   {
    "id": "1d64ac0f9ecd3a78",
    "titolo": "Major banks insist rates have peaked despite surging inflation",
-   "punteggio": 4.3,
+   "punteggio": 2.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -385,7 +374,7 @@
   {
    "id": "6897885bc845a663",
    "titolo": "Gold, Silver Rates Today November 26 :Gold gains nearly 2%, silver near Rs 1.48 lakh;Check 22K, 24K rates in Mumbai, Delhi, Bengaluru",
-   "punteggio": 3.9,
+   "punteggio": 1.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -402,28 +391,9 @@
    ]
   },
   {
-   "id": "327e9900b6e016cd",
-   "titolo": "PCE inflation gauge still running hot, as December rate hike looms",
-   "punteggio": 3.6,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "PCE inflation gauge still running hot, as December rate hike looms",
-     "url": "https://www.investmentnews.com/equities/pce-inflation-gauge-still-running-hot-as-december-rate-hike-looms/269173",
-     "fonte": "investmentnews.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
    "id": "a3e03f41060839c8",
    "titolo": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-   "punteggio": 3.3,
+   "punteggio": 1.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -444,7 +414,7 @@
   {
    "id": "c1ddcc13fe2b37ca",
    "titolo": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-   "punteggio": 3.3,
+   "punteggio": 1.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -465,7 +435,7 @@
   {
    "id": "7c6e1866f5069ffd",
    "titolo": "Could ECB collateral eligibility lift tokenized bond prices?",
-   "punteggio": 3.2,
+   "punteggio": 1.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -484,7 +454,7 @@
   {
    "id": "fd865041800e6297",
    "titolo": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
-   "punteggio": 3.2,
+   "punteggio": 1.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -503,7 +473,7 @@
   {
    "id": "854a26c72d96914b",
    "titolo": "Trump Administration Proposes New Sec. 301 Tariffs on China, EU, Others",
-   "punteggio": 3.2,
+   "punteggio": 1.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -520,66 +490,30 @@
    ]
   },
   {
-   "id": "9d1c6b3789fca9ba",
-   "titolo": "Dow Jones Top Markets Headlines at 11 AM ET: Hot Inflation and Strong Growth Raise the Risk of More Fed Rate Hikes | U.S. ...",
-   "punteggio": 2.7,
-   "verificata": false,
-   "ufficiale": false,
+   "id": "7b864742052bd1b8",
+   "titolo": "Julius Meinl Kaffee stärkt internationales Wachstum mit Rekord-Akquisition",
+   "punteggio": 0.6,
+   "verificata": true,
+   "ufficiale": true,
    "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:45:00+00:00",
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T17:19:00+00:00",
    "link": [
     {
-     "titolo": "Dow Jones Top Markets Headlines at 11 AM ET: Hot Inflation and Strong Growth Raise the Risk of More Fed Rate Hikes | U.S. ...",
-     "url": "https://www.morningstar.com/news/dow-jones/202611255281/dow-jones-top-markets-headlines-at-11-am-et-hot-inflation-and-strong-growth-raise-the-risk-of-more-fed-rate-hikes-us",
-     "fonte": "morningstar.com",
+     "titolo": "Julius Meinl Kaffee stärkt internationales Wachstum mit Rekord-Akquisition",
+     "url": "https://www.prnewswire.com/news-releases/julius-meinl-kaffee-starkt-internationales-wachstum-mit-rekord-akquisition-302951334.html",
+     "fonte": "PR Newswire",
      "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "cad421c99059404d",
-   "titolo": "Possible Tesla merger could aid SpaceX's S&P 500 entry, ⁠J.P. Morgan says",
-   "punteggio": 2.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Possible Tesla merger could aid SpaceX's S&P 500 entry, ⁠J.P. Morgan says",
-     "url": "https://www.manilatimes.net/2026/11/26/business/foreign-business/possible-tesla-merger-could-aid-spacexs-sp-500-entry-jp-morgan-says/2478020",
-     "fonte": "manilatimes.net",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "5159ee92df3d88cc",
-   "titolo": "Inflation continues to bedevil fed, remaining high in October",
-   "punteggio": 2.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Inflation continues to bedevil fed, remaining high in October",
-     "url": "https://www.wgauradio.com/news/business/inflation-remains/LLXKSECFU46Q3AFV72XKSCJG6I/",
-     "fonte": "wgauradio.com",
-     "solo_verifica": false,
-     "via": "GDELT"
+     "via": null
     }
    ]
   },
   {
    "id": "0e97e2a831f3d1a3",
    "titolo": "US stock market today: Dow rises, Nasdaq falls as AI selloff hits Wall Street",
-   "punteggio": 2.3,
+   "punteggio": 0.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -598,7 +532,7 @@
   {
    "id": "849bff7794793017",
    "titolo": "European stocks end lower as rate hike fears, AI doubts hammer banks and tech",
-   "punteggio": 2.3,
+   "punteggio": 0.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -615,9 +549,184 @@
    ]
   },
   {
+   "id": "b254d361a4f967b7",
+   "titolo": "LSEG Finance plc announces increase in Maximum Acceptance Amount and results of its tender offer",
+   "punteggio": 0.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T15:05:00+00:00",
+   "link": [
+    {
+     "titolo": "LSEG Finance plc announces increase in Maximum Acceptance Amount and results of its tender offer",
+     "url": "https://www.prnewswire.com/news-releases/lseg-finance-plc-announces-increase-in-maximum-acceptance-amount-and-results-of-its-tender-offer-302951299.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "509a81442998609f",
+   "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Xerox Holdings Corporation - XRX",
+   "punteggio": 0.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T15:01:00+00:00",
+   "link": [
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Xerox Holdings Corporation - XRX",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-xerox-holdings-corporation---xrx-302949053.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Amdocs Limited - DOX",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-amdocs-limited---dox-302949040.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Alphatec Holdings, Inc. - ATEC",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-alphatec-holdings-inc---atec-302949036.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "62527e8a643d439a",
+   "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Ionis Pharmaceuticals, Inc. - IONS",
+   "punteggio": 0.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T15:01:00+00:00",
+   "link": [
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Ionis Pharmaceuticals, Inc. - IONS",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-ionis-pharmaceuticals-inc---ions-302949042.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Alnylam Pharmaceuticals, Inc. - ALNY",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-alnylam-pharmaceuticals-inc---alny-302949037.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of TriNet Group, Inc. - TNET",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-trinet-group-inc---tnet-302949052.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "fd1ed361319e38db",
+   "titolo": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Babcock & Wilcox Enterprises, Inc. of Class Action Lawsuit - BW",
+   "punteggio": 0.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T15:01:00+00:00",
+   "link": [
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Babcock & Wilcox Enterprises, Inc. of Class Action Lawsuit - BW",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-babcock--wilcox-enterprises-inc-of-class-action-lawsuit---bw-302949045.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "fba716e4645db4d0",
+   "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Iovance Biotherapeutics, Inc. - IOVA",
+   "punteggio": 0.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T15:01:00+00:00",
+   "link": [
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Iovance Biotherapeutics, Inc. - IOVA",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-iovance-biotherapeutics-inc---iova-302949034.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Caterpillar Inc. - CAT",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-caterpillar-inc---cat-302949047.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of HCA Healthcare, Inc. - HCA",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-hca-healthcare-inc--hca-302949039.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "c4b051cac1bc2c3b",
+   "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Bright Minds Bioscience Inc. - DRUG",
+   "punteggio": 0.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T15:01:00+00:00",
+   "link": [
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Bright Minds Bioscience Inc. - DRUG",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-bright-minds-bioscience-inc---drug-302949050.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Aurora Innovation, Inc. - AUR",
+     "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-aurora-innovation-inc---aur-302949043.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "1438beac581b4f84",
    "titolo": "Gold crash triggers auction notices as LTV breaches hit lenders",
-   "punteggio": 2.2,
+   "punteggio": 0.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -634,106 +743,9 @@
    ]
   },
   {
-   "id": "1163c0bcb9f19c6a",
-   "titolo": "Nasdaq-100 slides more than 4% amid sell-off in 82 of 100 constituents",
-   "punteggio": 1.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Nasdaq-100 slides more than 4% amid sell-off in 82 of 100 constituents",
-     "url": "https://seekingalpha.com/news/4676622-nasdaq-100-slides-more-than-4-amid-sell-off-in-82-of-100-constituents",
-     "fonte": "seekingalpha.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "303508a2561155c9",
-   "titolo": "Market sell-off picks up steam, as Jensen Huang's Nvidia return fails to calm AI fears",
-   "punteggio": 1.6,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Market sell-off picks up steam, as Jensen Huang's Nvidia return fails to calm AI fears",
-     "url": "https://www.aol.com/articles/market-sell-off-picks-steam-152430000.html",
-     "fonte": "aol.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "3b96d73182050844",
-   "titolo": "Stocks tumble as tech sell-off resumes; Nvidia falls 7%",
-   "punteggio": 1.6,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Stocks tumble as tech sell-off resumes; Nvidia falls 7%",
-     "url": "https://www.aol.com/articles/stocks-tumble-tech-sell-off-155255000.html",
-     "fonte": "aol.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "e737086608302295",
-   "titolo": "Market sell-off underway as gains from Huang's Nvidia move stall",
-   "punteggio": 1.6,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Market sell-off underway as gains from Huang's Nvidia move stall",
-     "url": "https://www.nbcnews.com/business/markets/market-sell-underway-gains-huangs-nvidia-move-stall-rcna611268",
-     "fonte": "nbcnews.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "07cce1e3a84d7bdc",
-   "titolo": "Card payments edge past cash in shops; euro area consumers want both",
-   "punteggio": 1.3,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "macro"
-   ],
-   "ultima_ora": "2026-11-25T10:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Card payments edge past cash in shops; euro area consumers want both",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125~26d1ade228.en.html",
-     "fonte": "Banca Centrale Europea",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
    "id": "a0b6d9d32dd4d89d",
    "titolo": "Bitcoin Miners Face Growing Risk of Computing Power Theft",
-   "punteggio": 1.2,
+   "punteggio": -0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -752,7 +764,7 @@
   {
    "id": "2898f32d09faa4f5",
    "titolo": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
-   "punteggio": 1.2,
+   "punteggio": -0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -771,7 +783,7 @@
   {
    "id": "0ad4f6f0dfbe816d",
    "titolo": "Binance Launches VIP Status Match, Recognizing How High-Value Users Manage Capital Across Platforms",
-   "punteggio": 0.9,
+   "punteggio": -1.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -799,7 +811,7 @@
   {
    "id": "c9adb46dd3c4e6fe",
    "titolo": "CB&I secures five-year North Sea contract extension with Serica Energy",
-   "punteggio": 0.9,
+   "punteggio": -1.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -827,7 +839,7 @@
   {
    "id": "3d4e59e234ceeaa2",
    "titolo": "Fujian advancing Chinese modernization",
-   "punteggio": 0.8,
+   "punteggio": -1.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -846,47 +858,9 @@
    ]
   },
   {
-   "id": "d8b711493dd83963",
-   "titolo": "Nasdaq drops 4%, as Wall Street tumbles on renewed selling pressures",
-   "punteggio": 0.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Nasdaq drops 4%, as Wall Street tumbles on renewed selling pressures",
-     "url": "https://seekingalpha.com/news/4676593-nasdaq-plunges-3-as-wall-street-tumbles-on-renewed-selling-pressures",
-     "fonte": "seekingalpha.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "f6d1ced9578f849a",
-   "titolo": "Nvidia Just Delivered Its Latest Earnings Report. Is the Stock a Buy Below $160?",
-   "punteggio": 0.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Nvidia Just Delivered Its Latest Earnings Report. Is the Stock a Buy Below $160?",
-     "url": "https://www.aol.com/articles/nvidia-just-delivered-latest-earnings-161302000.html",
-     "fonte": "aol.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
    "id": "3c30db97d64f8bcb",
    "titolo": "LS Power Completes Acquisition of 4.4 GW Natural Gas Generation Assets from Constellation",
-   "punteggio": 0.6,
+   "punteggio": -1.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -905,47 +879,9 @@
    ]
   },
   {
-   "id": "b091093ef9d3ba9c",
-   "titolo": "Gold, Silver Prices Today: Precious Metals Fall as Strong Dollar, US Fed Rate Concerns Weigh – The Indian Awaaz",
-   "punteggio": 0.6,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Gold, Silver Prices Today: Precious Metals Fall as Strong Dollar, US Fed Rate Concerns Weigh – The Indian Awaaz",
-     "url": "https://theindianawaaz.com/gold-silver-prices-today-precious-metals-fall-as-strong-dollar-us-fed-rate-concerns-weigh/",
-     "fonte": "theindianawaaz.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "e062cc45f1ebc289",
-   "titolo": "Tesla and SpaceX stocks sink as merger concerns mount",
-   "punteggio": 0.6,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Tesla and SpaceX stocks sink as merger concerns mount",
-     "url": "https://www.aol.com/articles/tesla-spacex-stocks-sink-merger-154159000.html",
-     "fonte": "aol.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
    "id": "b1b0e9640cac50cd",
    "titolo": "Inside India newsletter: Roaring economy, foreign investors' return,record auto sales",
-   "punteggio": 0.2,
+   "punteggio": -1.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -964,7 +900,7 @@
   {
    "id": "489b52046b63045e",
    "titolo": "UK watchdog calls for shake-up of private dentistry market amid 'catalogue of concerns' | Dentists",
-   "punteggio": -0.1,
+   "punteggio": -2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -983,7 +919,7 @@
   {
    "id": "51beb00bf4272b6c",
    "titolo": "Huawei ve CMA, Küresel Ödeme Dönüşümünü Hızlandırmak İçin Ortaklaşa Ulusal Ödeme Çözümünü Tanıttı",
-   "punteggio": -0.2,
+   "punteggio": -2.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1004,7 +940,7 @@
   {
    "id": "8e933d18fe2051f7",
    "titolo": "Fosun International Named \"Sustainability Leading Enterprise\" by Bloomberg Businessweek/Chinese Edition",
-   "punteggio": -0.2,
+   "punteggio": -2.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1023,28 +959,9 @@
    ]
   },
   {
-   "id": "48635ca50adfb67f",
-   "titolo": "Australia is inching closer to a recession after one RBA rate rise too many | Greg Jericho",
-   "punteggio": -0.4,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T16:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Australia is inching closer to a recession after one RBA rate rise too many | Greg Jericho",
-     "url": "https://www.theguardian.com/business/grogonomics/2026/nov/25/australian-economy-unemployment-rba-interest-rate-recession",
-     "fonte": "The Guardian",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
    "id": "487d115c6ffbd507",
    "titolo": "Bizcap tritt in den polnischen Markt ein und beschleunigt damit seine Expansion in Europa",
-   "punteggio": -0.5,
+   "punteggio": -2.5,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1065,7 +982,7 @@
   {
    "id": "e8e71cbb57377bf6",
    "titolo": "Bizcap s'implante en Pologne pour accélérer son expansion européenne",
-   "punteggio": -0.5,
+   "punteggio": -2.5,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1084,30 +1001,9 @@
    ]
   },
   {
-   "id": "6b460146bbaf9632",
-   "titolo": "ANDD Leads Again: Leverage Shares by Themes Anthropic (ANT) ETFs Top Anthropic ETF Trading for a Second Straight Day",
-   "punteggio": -0.5,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-25T15:40:00+00:00",
-   "link": [
-    {
-     "titolo": "ANDD Leads Again: Leverage Shares by Themes Anthropic (ANT) ETFs Top Anthropic ETF Trading for a Second Straight Day",
-     "url": "https://www.prnewswire.com/news-releases/andd-leads-again-leverage-shares-by-themes-anthropic-ant-etfs-top-anthropic-etf-trading-for-a-second-straight-day-302950625.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
    "id": "27dbfe3aa485958b",
    "titolo": "De Bordeaux à la Chine : JD.com étend ses partenariats d'approvisionnement direct avec les principaux producteurs de vin français",
-   "punteggio": -0.6,
+   "punteggio": -2.6,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1128,7 +1024,7 @@
   {
    "id": "d912350b57219da3",
    "titolo": "Banco Macro Announces Results for the Third Quarter of 2026",
-   "punteggio": -0.9,
+   "punteggio": -2.9,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1156,7 +1052,7 @@
   {
    "id": "2b3c1e79d00e79f8",
    "titolo": "Bitmine Immersion Technologies kündigt eine Bardividende in Höhe von 0,01 US-Dollar pro Stammaktie an",
-   "punteggio": -1.1,
+   "punteggio": -3.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1177,7 +1073,7 @@
   {
    "id": "b103f9fe4f69b5a6",
    "titolo": "Bitmine Immersion Technologies kondigt een contant dividend van 0,01 dollar per gewoon aandeel aan",
-   "punteggio": -1.2,
+   "punteggio": -3.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1198,7 +1094,7 @@
   {
    "id": "025b31ece4fee834",
    "titolo": "Bitmine Immersion Technologies annuncia un dividendo in contanti di 0,01 dollari per azione ordinaria",
-   "punteggio": -1.2,
+   "punteggio": -3.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1219,7 +1115,7 @@
   {
    "id": "bfc05b1f7e514b38",
    "titolo": "Bitmine Immersion Technologies annonce un dividende en espèces de 0,01 $ par action ordinaire",
-   "punteggio": -1.2,
+   "punteggio": -3.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1240,7 +1136,7 @@
   {
    "id": "8515a09bac69c041",
    "titolo": "Minesto resolves on a rights issue of approximately SEK 130 million and announces final terms",
-   "punteggio": -1.2,
+   "punteggio": -3.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1261,7 +1157,7 @@
   {
    "id": "bf613293d8fbc750",
    "titolo": "Cowork Frederick Foundation Announces 2026 Gala Fundraiser",
-   "punteggio": -1.3,
+   "punteggio": -3.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1282,7 +1178,7 @@
   {
    "id": "3b17e7beb9dc9241",
    "titolo": "Small Caps and Blue Chips Outpace Broader Market Through Midweek Session",
-   "punteggio": -1.5,
+   "punteggio": -3.5,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1303,7 +1199,7 @@
   {
    "id": "1395368c1bd0ef19",
    "titolo": "XTI Aerospace Eliminates Class B Units and Enters into Warrant Exchange Agreement, Simplifying Capital Structure",
-   "punteggio": -1.6,
+   "punteggio": -3.6,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1324,7 +1220,7 @@
   {
    "id": "b108519531d2b6e1",
    "titolo": "Diamond Certified Resource Publishes New Article About How Earning Diamond Certified for Consecutive Years Increases a Company's Valuation",
-   "punteggio": -1.6,
+   "punteggio": -3.6,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1345,7 +1241,7 @@
   {
    "id": "0a3ee50708308462",
    "titolo": "Applications Now Open for the Jacob Frydman Scholarship for Real Estate Education",
-   "punteggio": -1.6,
+   "punteggio": -3.6,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1366,7 +1262,7 @@
   {
    "id": "5560e85692bb8966",
    "titolo": "Santa Clara Family Health Plan invests $19.2 million to help Medi-Cal members retain healthcare coverage",
-   "punteggio": -1.7,
+   "punteggio": -3.6,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1381,6 +1277,67 @@
      "fonte": "PR Newswire",
      "solo_verifica": false,
      "via": null
+    }
+   ]
+  },
+  {
+   "id": "ea920dd1556a1cc1",
+   "titolo": "Coming Soon: First Horizon Bank to Open New Nashville Banking Center in The Gulch",
+   "punteggio": -3.7,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T20:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Coming Soon: First Horizon Bank to Open New Nashville Banking Center in The Gulch",
+     "url": "https://www.prnewswire.com/news-releases/coming-soon-first-horizon-bank-to-open-new-nashville-banking-center-in-the-gulch-302950810.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "46cdbc019fbd1b58",
+   "titolo": "Come Home to South Jersey TV Series Spotlights Real Estate, Lifestyle and Community Across South Jersey, New Jersey on REAL Shows Network",
+   "punteggio": -3.7,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T19:37:00+00:00",
+   "link": [
+    {
+     "titolo": "Come Home to South Jersey TV Series Spotlights Real Estate, Lifestyle and Community Across South Jersey, New Jersey on REAL Shows Network",
+     "url": "https://www.prnewswire.com/news-releases/come-home-to-south-jersey-tv-series-spotlights-real-estate-lifestyle-and-community-across-south-jersey-new-jersey-on-real-shows-network-302950805.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "4f9911a878d65923",
+   "titolo": "Switzerland Clears 57 Jurisdictions for Crypto Tax Data Exchange",
+   "punteggio": -3.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T00:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Switzerland Clears 57 Jurisdictions for Crypto Tax Data Exchange",
+     "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing",
+     "fonte": "Cointelegraph",
+     "solo_verifica": false,
+     "via": "GDELT"
     }
    ]
   }
