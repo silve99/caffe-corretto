@@ -1,12 +1,12 @@
 {
- "aggiornato": "2026-11-26T00:57:58.170242+00:00",
+ "aggiornato": "2026-11-26T09:23:35.970765+00:00",
  "finestra_ore": 26,
- "notizie_considerate": 242,
+ "notizie_considerate": 219,
  "gruppi": [
   {
    "id": "7465be8735d0b28b",
    "titolo": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "punteggio": 16.0,
+   "punteggio": 14.3,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 15,
@@ -102,7 +102,7 @@
   {
    "id": "c5830133965c3600",
    "titolo": "AI rout drags Wall Street lower, S&P 500 slumps 2.7%",
-   "punteggio": 12.4,
+   "punteggio": 10.7,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 12,
@@ -196,70 +196,9 @@
    ]
   },
   {
-   "id": "959f21fee59f08ae",
-   "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-   "punteggio": 9.9,
-   "verificata": true,
-   "ufficiale": false,
-   "fonti_distinte": 7,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:30:00+00:00",
-   "link": [
-    {
-     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-     "url": "https://www.kasu.org/education-and-community-culture/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
-     "fonte": "kasu.org",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-     "url": "https://www.kedm.org/npr-news/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
-     "fonte": "kedm.org",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-     "url": "https://www.klcc.org/npr-news/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
-     "fonte": "klcc.org",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-     "url": "https://www.publicradiotulsa.org/npr-national-news/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
-     "fonte": "publicradiotulsa.org",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-     "url": "https://www.kwbu.org/latest-from-npr/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
-     "fonte": "kwbu.org",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-     "url": "https://www.wuwf.org/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
-     "fonte": "wuwf.org",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-     "url": "https://www.wgcu.org/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
-     "fonte": "wgcu.org",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
    "id": "7bea771168cea629",
    "titolo": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
-   "punteggio": 9.5,
+   "punteggio": 7.8,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -280,7 +219,7 @@
   {
    "id": "d945a5859c67196e",
    "titolo": "Purpose Investments Announces Final November 2026 Distribution Rates for Its Cash Funds and Corrected Record and Ex-Distribution Dates for Select U.S. Dollar ETF Units",
-   "punteggio": 9.0,
+   "punteggio": 7.3,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -306,7 +245,7 @@
   {
    "id": "6315c77a2a019336",
    "titolo": "December Fed rate hike looks locked in after inflation climbs",
-   "punteggio": 8.3,
+   "punteggio": 6.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -325,7 +264,7 @@
   {
    "id": "a428aa8c128bf336",
    "titolo": "Stock market today: Dow, S&P 500, Nasdaq sink on hot inflation, new Trump tariffs as chip rout continues",
-   "punteggio": 8.3,
+   "punteggio": 6.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -344,7 +283,7 @@
   {
    "id": "56f5e2dad7bb9dd2",
    "titolo": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
-   "punteggio": 8.3,
+   "punteggio": 6.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -363,7 +302,7 @@
   {
    "id": "2176b39d2d1096d3",
    "titolo": "Fed's favored inflation gauge rose in October ahead of expected Fed rate hike next month",
-   "punteggio": 8.3,
+   "punteggio": 6.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -382,7 +321,7 @@
   {
    "id": "05ed7135841f1013",
    "titolo": "Inflation returns to year's highest level ahead of Black Friday; president proposes new tariffs",
-   "punteggio": 8.0,
+   "punteggio": 6.3,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -408,7 +347,7 @@
   {
    "id": "6a09be73b9f4bc46",
    "titolo": "Nvidia Anthropic SanDisk and Intel stocks tumble: Why are Nvidia, Anthropic, SanDisk and Intel stocks crashing today? Oracle, Alphabet, CoreWeave and IREN join Wall Street's AI sell-off",
-   "punteggio": 7.3,
+   "punteggio": 5.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -427,7 +366,7 @@
   {
    "id": "1d64ac0f9ecd3a78",
    "titolo": "Major banks insist rates have peaked despite surging inflation",
-   "punteggio": 6.0,
+   "punteggio": 4.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -444,9 +383,28 @@
    ]
   },
   {
+   "id": "6897885bc845a663",
+   "titolo": "Gold, Silver Rates Today November 26 :Gold gains nearly 2%, silver near Rs 1.48 lakh;Check 22K, 24K rates in Mumbai, Delhi, Bengaluru",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-26T09:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Gold, Silver Rates Today November 26 :Gold gains nearly 2%, silver near Rs 1.48 lakh;Check 22K, 24K rates in Mumbai, Delhi, Bengaluru",
+     "url": "https://www.ibtimes.co.in/gold-silver-rates-today-november-26-gold-gains-nearly-2-silver-near-rs-1-48-lakhcheck-22k-24k-908688",
+     "fonte": "ibtimes.co.in",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "327e9900b6e016cd",
    "titolo": "PCE inflation gauge still running hot, as December rate hike looms",
-   "punteggio": 5.3,
+   "punteggio": 3.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -465,7 +423,7 @@
   {
    "id": "a3e03f41060839c8",
    "titolo": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
-   "punteggio": 5.0,
+   "punteggio": 3.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -486,7 +444,7 @@
   {
    "id": "c1ddcc13fe2b37ca",
    "titolo": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-   "punteggio": 5.0,
+   "punteggio": 3.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -507,7 +465,7 @@
   {
    "id": "7c6e1866f5069ffd",
    "titolo": "Could ECB collateral eligibility lift tokenized bond prices?",
-   "punteggio": 4.9,
+   "punteggio": 3.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -526,7 +484,7 @@
   {
    "id": "fd865041800e6297",
    "titolo": "Stocks Rally Off Lows Despite Inflation and AI Gloom: Stock Market Today",
-   "punteggio": 4.9,
+   "punteggio": 3.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -545,7 +503,7 @@
   {
    "id": "854a26c72d96914b",
    "titolo": "Trump Administration Proposes New Sec. 301 Tariffs on China, EU, Others",
-   "punteggio": 4.9,
+   "punteggio": 3.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -564,7 +522,7 @@
   {
    "id": "9d1c6b3789fca9ba",
    "titolo": "Dow Jones Top Markets Headlines at 11 AM ET: Hot Inflation and Strong Growth Raise the Risk of More Fed Rate Hikes | U.S. ...",
-   "punteggio": 4.4,
+   "punteggio": 2.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -583,7 +541,7 @@
   {
    "id": "cad421c99059404d",
    "titolo": "Possible Tesla merger could aid SpaceX's S&P 500 entry, ⁠J.P. Morgan says",
-   "punteggio": 4.4,
+   "punteggio": 2.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -602,7 +560,7 @@
   {
    "id": "5159ee92df3d88cc",
    "titolo": "Inflation continues to bedevil fed, remaining high in October",
-   "punteggio": 4.4,
+   "punteggio": 2.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -621,7 +579,7 @@
   {
    "id": "0e97e2a831f3d1a3",
    "titolo": "US stock market today: Dow rises, Nasdaq falls as AI selloff hits Wall Street",
-   "punteggio": 4.0,
+   "punteggio": 2.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -640,7 +598,7 @@
   {
    "id": "849bff7794793017",
    "titolo": "European stocks end lower as rate hike fears, AI doubts hammer banks and tech",
-   "punteggio": 4.0,
+   "punteggio": 2.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -659,7 +617,7 @@
   {
    "id": "1438beac581b4f84",
    "titolo": "Gold crash triggers auction notices as LTV breaches hit lenders",
-   "punteggio": 3.9,
+   "punteggio": 2.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -678,7 +636,7 @@
   {
    "id": "1163c0bcb9f19c6a",
    "titolo": "Nasdaq-100 slides more than 4% amid sell-off in 82 of 100 constituents",
-   "punteggio": 3.4,
+   "punteggio": 1.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -697,7 +655,7 @@
   {
    "id": "303508a2561155c9",
    "titolo": "Market sell-off picks up steam, as Jensen Huang's Nvidia return fails to calm AI fears",
-   "punteggio": 3.3,
+   "punteggio": 1.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -716,7 +674,7 @@
   {
    "id": "3b96d73182050844",
    "titolo": "Stocks tumble as tech sell-off resumes; Nvidia falls 7%",
-   "punteggio": 3.3,
+   "punteggio": 1.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -735,7 +693,7 @@
   {
    "id": "e737086608302295",
    "titolo": "Market sell-off underway as gains from Huang's Nvidia move stall",
-   "punteggio": 3.3,
+   "punteggio": 1.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -754,7 +712,7 @@
   {
    "id": "07cce1e3a84d7bdc",
    "titolo": "Card payments edge past cash in shops; euro area consumers want both",
-   "punteggio": 3.0,
+   "punteggio": 1.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -773,28 +731,9 @@
    ]
   },
   {
-   "id": "469598247336939f",
-   "titolo": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
-   "punteggio": 3.0,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Dow Jones Futures Fall: Nvidia, Anthropic Lead AI Retreat But Many Sectors Strong; Fed Inflation Data Due",
-     "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-nvidia-anthropic-ai-retreat-fed-inflation-data/",
-     "fonte": "investors.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
    "id": "a0b6d9d32dd4d89d",
    "titolo": "Bitcoin Miners Face Growing Risk of Computing Power Theft",
-   "punteggio": 2.9,
+   "punteggio": 1.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -813,7 +752,7 @@
   {
    "id": "2898f32d09faa4f5",
    "titolo": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
-   "punteggio": 2.9,
+   "punteggio": 1.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -830,35 +769,86 @@
    ]
   },
   {
-   "id": "4a0bd05c8c016f27",
-   "titolo": "Wall Street: Πτώση 1,5% στον Nasdaq – Πάνω από τις 50.000 μονάδες ο Dow Jones",
-   "punteggio": 2.9,
+   "id": "0ad4f6f0dfbe816d",
+   "titolo": "Binance Launches VIP Status Match, Recognizing How High-Value Users Manage Capital Across Platforms",
+   "punteggio": 0.9,
    "verificata": true,
-   "ufficiale": false,
-   "fonti_distinte": 2,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:15:00+00:00",
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T09:00:00+00:00",
    "link": [
     {
-     "titolo": "Wall Street: Πτώση 1,5% στον Nasdaq – Πάνω από τις 50.000 μονάδες ο Dow Jones",
-     "url": "https://www.newsbomb.gr/oikonomia/story/1778812/wall-street-ptosi-1-5-ston-nasdaq-pano-apo-tis-50-000-monades-o-dow-jones",
-     "fonte": "newsbomb.gr",
+     "titolo": "Binance Launches VIP Status Match, Recognizing How High-Value Users Manage Capital Across Platforms",
+     "url": "https://www.prnewswire.com/news-releases/binance-launches-vip-status-match-recognizing-how-high-value-users-manage-capital-across-platforms-302951090.html",
+     "fonte": "PR Newswire",
      "solo_verifica": false,
-     "via": "GDELT"
+     "via": null
     },
     {
-     "titolo": "Wall Street: Ανοσος του Dow Jones, έπεσαν ο Nasdaq και η Nvidia",
-     "url": "http://sofokleousin.gr/agores/wall-street-ptosi-gia-nasdaq-kai-nvidia-apoleies-59-meta-to-xthes",
-     "fonte": "sofokleousin.gr",
+     "titolo": "Binance Launches VIP Status Match, Recognizing How High-Value Users Manage Capital Across Platforms",
+     "url": "https://www.prnewswire.com/news-releases/binance-launches-vip-status-match-recognizing-how-high-value-users-manage-capital-across-platforms-302951089.html",
+     "fonte": "PR Newswire",
      "solo_verifica": false,
-     "via": "GDELT"
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "c9adb46dd3c4e6fe",
+   "titolo": "CB&I secures five-year North Sea contract extension with Serica Energy",
+   "punteggio": 0.9,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T08:44:00+00:00",
+   "link": [
+    {
+     "titolo": "CB&I secures five-year North Sea contract extension with Serica Energy",
+     "url": "https://www.prnewswire.com/news-releases/cbi-secures-five-year-north-sea-contract-extension-with-serica-energy-302951114.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    },
+    {
+     "titolo": "CB&I secures five-year North Sea contract extension with Serica Energy",
+     "url": "https://www.prnewswire.com/news-releases/cbi-secures-five-year-north-sea-contract-extension-with-serica-energy-302951105.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "3d4e59e234ceeaa2",
+   "titolo": "Fujian advancing Chinese modernization",
+   "punteggio": 0.8,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T08:20:00+00:00",
+   "link": [
+    {
+     "titolo": "Fujian advancing Chinese modernization",
+     "url": "https://www.prnewswire.com/news-releases/fujian-advancing-chinese-modernization-302951104.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
     }
    ]
   },
   {
    "id": "d8b711493dd83963",
    "titolo": "Nasdaq drops 4%, as Wall Street tumbles on renewed selling pressures",
-   "punteggio": 2.4,
+   "punteggio": 0.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -877,7 +867,7 @@
   {
    "id": "f6d1ced9578f849a",
    "titolo": "Nvidia Just Delivered Its Latest Earnings Report. Is the Stock a Buy Below $160?",
-   "punteggio": 2.4,
+   "punteggio": 0.7,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -896,7 +886,7 @@
   {
    "id": "3c30db97d64f8bcb",
    "titolo": "LS Power Completes Acquisition of 4.4 GW Natural Gas Generation Assets from Constellation",
-   "punteggio": 2.3,
+   "punteggio": 0.6,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -917,7 +907,7 @@
   {
    "id": "b091093ef9d3ba9c",
    "titolo": "Gold, Silver Prices Today: Precious Metals Fall as Strong Dollar, US Fed Rate Concerns Weigh – The Indian Awaaz",
-   "punteggio": 2.3,
+   "punteggio": 0.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -936,7 +926,7 @@
   {
    "id": "e062cc45f1ebc289",
    "titolo": "Tesla and SpaceX stocks sink as merger concerns mount",
-   "punteggio": 2.3,
+   "punteggio": 0.6,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -953,47 +943,9 @@
    ]
   },
   {
-   "id": "aa98f7413e1c0004",
-   "titolo": "Nasdaq Tumbles Amid New Tariffs Threats; What To Do During The Rally Attempt",
-   "punteggio": 2.0,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Nasdaq Tumbles Amid New Tariffs Threats; What To Do During The Rally Attempt",
-     "url": "https://www.investors.com/market-trend/the-big-picture/nasdaq-tariff-threats-stock-market-rally-attempt/",
-     "fonte": "investors.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "7e7b353b3fb838da",
-   "titolo": "Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion",
-   "punteggio": 2.0,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Crypto Market Today, Nov. 24: Bitcoin Falls Below $60,000 as ETF Outflows Hit a Record $4.7 Billion",
-     "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/crypto-market-today-nov-24-bitcoin-falls-below-usd60-000-as-etf-outflows-hit-a-record-usd4-7-billion/?source=iedfolrf0000001",
-     "fonte": "fool.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
    "id": "b1b0e9640cac50cd",
    "titolo": "Inside India newsletter: Roaring economy, foreign investors' return,record auto sales",
-   "punteggio": 1.9,
+   "punteggio": 0.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1010,54 +962,70 @@
    ]
   },
   {
-   "id": "3782b7f4b791221e",
-   "titolo": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
-   "punteggio": 1.9,
+   "id": "489b52046b63045e",
+   "titolo": "UK watchdog calls for shake-up of private dentistry market amid 'catalogue of concerns' | Dentists",
+   "punteggio": -0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
    "categorie": [],
-   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "ultima_ora": "2026-11-26T09:00:00+00:00",
    "link": [
     {
-     "titolo": "Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitco PM Report",
-     "url": "http://www.kitco.com/news/article/2026-11-24/gold-silver-extend-losses-tech-stocks-slide-fed-inflation-test-looms-kitco",
-     "fonte": "kitco.com",
+     "titolo": "UK watchdog calls for shake-up of private dentistry market amid 'catalogue of concerns' | Dentists",
+     "url": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+     "fonte": "The Guardian",
      "solo_verifica": false,
      "via": "GDELT"
     }
    ]
   },
   {
-   "id": "deaaad444efe3acf",
-   "titolo": "Bitcoin bie drejt pragut të 60 mijë dollarëve mes tërheqjeve të vazhdueshme nga fondet ETF-së",
-   "punteggio": 1.9,
+   "id": "51beb00bf4272b6c",
+   "titolo": "Huawei ve CMA, Küresel Ödeme Dönüşümünü Hızlandırmak İçin Ortaklaşa Ulusal Ödeme Çözümünü Tanıttı",
+   "punteggio": -0.2,
    "verificata": true,
-   "ufficiale": false,
-   "fonti_distinte": 2,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:15:00+00:00",
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T03:25:00+00:00",
    "link": [
     {
-     "titolo": "Bitcoin bie drejt pragut të 60 mijë dollarëve mes tërheqjeve të vazhdueshme nga fondet ETF-së",
-     "url": "https://www.trtbalkan.com/albanian/article/b742d3296784",
-     "fonte": "trtbalkan.com",
+     "titolo": "Huawei ve CMA, Küresel Ödeme Dönüşümünü Hızlandırmak İçin Ortaklaşa Ulusal Ödeme Çözümünü Tanıttı",
+     "url": "https://www.prnewswire.com/news-releases/huawei-ve-cma-kuresel-odeme-donuumunu-hzlandrmak-cin-ortaklaa-ulusal-odeme-cozumunu-tantt-302950989.html",
+     "fonte": "PR Newswire",
      "solo_verifica": false,
-     "via": "GDELT"
-    },
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "8e933d18fe2051f7",
+   "titolo": "Fosun International Named \"Sustainability Leading Enterprise\" by Bloomberg Businessweek/Chinese Edition",
+   "punteggio": -0.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T03:17:00+00:00",
+   "link": [
     {
-     "titolo": "Bitcoin bie drejt pragut të 60 mijë dollarëve mes tërheqjeve të vazhdueshme nga fondet ETF",
-     "url": "https://www.aa.com.tr/sq/ekonomi/bitcoin-bie-drejt-pragut-t%c3%ab-60-mij%c3%ab-dollar%c3%abve-mes-t%c3%abrheqjeve-t%c3%ab-vazhdueshme-nga-fondet-etf/4135366",
-     "fonte": "aa.com.tr",
+     "titolo": "Fosun International Named \"Sustainability Leading Enterprise\" by Bloomberg Businessweek/Chinese Edition",
+     "url": "https://www.prnewswire.com/news-releases/fosun-international-named-sustainability-leading-enterprise-by-bloomberg-businessweekchinese-edition-302950982.html",
+     "fonte": "PR Newswire",
      "solo_verifica": false,
-     "via": "GDELT"
+     "via": null
     }
    ]
   },
   {
    "id": "48635ca50adfb67f",
    "titolo": "Australia is inching closer to a recession after one RBA rate rise too many | Greg Jericho",
-   "punteggio": 1.3,
+   "punteggio": -0.4,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1074,9 +1042,51 @@
    ]
   },
   {
+   "id": "487d115c6ffbd507",
+   "titolo": "Bizcap tritt in den polnischen Markt ein und beschleunigt damit seine Expansion in Europa",
+   "punteggio": -0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T01:57:00+00:00",
+   "link": [
+    {
+     "titolo": "Bizcap tritt in den polnischen Markt ein und beschleunigt damit seine Expansion in Europa",
+     "url": "https://www.prnewswire.com/news-releases/bizcap-tritt-in-den-polnischen-markt-ein-und-beschleunigt-damit-seine-expansion-in-europa-302950948.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "e8e71cbb57377bf6",
+   "titolo": "Bizcap s'implante en Pologne pour accélérer son expansion européenne",
+   "punteggio": -0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T01:55:00+00:00",
+   "link": [
+    {
+     "titolo": "Bizcap s'implante en Pologne pour accélérer son expansion européenne",
+     "url": "https://www.prnewswire.com/news-releases/bizcap-simplante-en-pologne-pour-accelerer-son-expansion-europeenne-302950947.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "6b460146bbaf9632",
    "titolo": "ANDD Leads Again: Leverage Shares by Themes Anthropic (ANT) ETFs Top Anthropic ETF Trading for a Second Straight Day",
-   "punteggio": 1.1,
+   "punteggio": -0.5,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1095,92 +1105,30 @@
    ]
   },
   {
-   "id": "656110bdbf4dc70f",
-   "titolo": "ECB to accept DLT-issued collateral from June 2027",
-   "punteggio": 1.1,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T05:15:00+00:00",
-   "link": [
-    {
-     "titolo": "ECB to accept DLT-issued collateral from June 2027",
-     "url": "https://www.forexcrunch.com/blog/2026/11/25/ecb-dlt-collateral-june-2027/",
-     "fonte": "forexcrunch.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "0c7edadd91e0028f",
-   "titolo": "Netflix (NASDAQ: NFLX) Earns Wall Street Applause, But Earnings Data Points To A Hold",
-   "punteggio": 1.0,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Netflix (NASDAQ: NFLX) Earns Wall Street Applause, But Earnings Data Points To A Hold",
-     "url": "https://www.foreignpolicyjournal.com/2026/11/24/netflix-nasdaq-nflx-earns-wall-street-applause-but-earnings-data-points-to-a-hold/",
-     "fonte": "foreignpolicyjournal.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "5fb4ad9a136696a4",
-   "titolo": "Macklem says oil price pressures are lingering on inflation forecast",
-   "punteggio": 1.0,
+   "id": "27dbfe3aa485958b",
+   "titolo": "De Bordeaux à la Chine : JD.com étend ses partenariats d'approvisionnement direct avec les principaux producteurs de vin français",
+   "punteggio": -0.6,
    "verificata": true,
-   "ufficiale": false,
-   "fonti_distinte": 2,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Macklem says oil price pressures are lingering on inflation forecast",
-     "url": "https://www.bnnbloomberg.ca/business/economics/2026/11/24/macklem-says-inflation-forecast-is-lower-but-oil-price-pressures-are-lingering/",
-     "fonte": "bnnbloomberg.ca",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Macklem says inflation forecast is lower, but oil price pressures are lingering",
-     "url": "https://www.wellandtribune.ca/business/macklem-says-inflation-forecast-is-lower-but-oil-price-pressures-are-lingering/article_a7b9c34d-a2e7-58b8-b4ed-95da4d192a39.html",
-     "fonte": "wellandtribune.ca",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "ed7eb2071aea1f93",
-   "titolo": "Il sovrintendente Claudio Parisi Presicce: «I ragazzi riscoprono l'antichità anche attraverso i video su TikTok. Ho fatto da guida a Crowe e Lagarde. La mia famiglia? Ho 52 cugini»",
-   "punteggio": 0.9,
-   "verificata": false,
-   "ufficiale": false,
+   "ufficiale": true,
    "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:30:00+00:00",
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-26T01:21:00+00:00",
    "link": [
     {
-     "titolo": "Il sovrintendente Claudio Parisi Presicce: «I ragazzi riscoprono l'antichità anche attraverso i video su TikTok. Ho fatto da guida a Crowe e Lagarde. La mia famiglia? Ho 52 cugini»",
-     "url": "https://www.corriere.it/cronache/26_novembre_24/sovrintendente-claudio-parisi-presicce-intervista-23386324-b161-492f-9d79-bc1d2733bxlk.shtml",
-     "fonte": "Corriere della Sera",
+     "titolo": "De Bordeaux à la Chine : JD.com étend ses partenariats d'approvisionnement direct avec les principaux producteurs de vin français",
+     "url": "https://www.prnewswire.com/news-releases/de-bordeaux-a-la-chine--jdcom-etend-ses-partenariats-dapprovisionnement-direct-avec-les-principaux-producteurs-de-vin-francais-302950932.html",
+     "fonte": "PR Newswire",
      "solo_verifica": false,
-     "via": "GDELT"
+     "via": null
     }
    ]
   },
   {
    "id": "d912350b57219da3",
    "titolo": "Banco Macro Announces Results for the Third Quarter of 2026",
-   "punteggio": 0.8,
+   "punteggio": -0.9,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1206,28 +1154,9 @@
    ]
   },
   {
-   "id": "8b3062381ff70288",
-   "titolo": "Wall Street cierra mixto, con Nasdaq y S&P 500 en rojo por caída de tecnológicas",
-   "punteggio": 0.8,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-24T23:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Wall Street cierra mixto, con Nasdaq y S&P 500 en rojo por caída de tecnológicas",
-     "url": "https://acento.com.do/economia/wall-street-cierra-mixto-con-nasdaq-y-sp-500-en-rojo-por-caida-de-tecnologicas-9796005.html",
-     "fonte": "acento.com.do",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
    "id": "2b3c1e79d00e79f8",
    "titolo": "Bitmine Immersion Technologies kündigt eine Bardividende in Höhe von 0,01 US-Dollar pro Stammaktie an",
-   "punteggio": 0.5,
+   "punteggio": -1.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1248,7 +1177,7 @@
   {
    "id": "b103f9fe4f69b5a6",
    "titolo": "Bitmine Immersion Technologies kondigt een contant dividend van 0,01 dollar per gewoon aandeel aan",
-   "punteggio": 0.5,
+   "punteggio": -1.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1269,7 +1198,7 @@
   {
    "id": "025b31ece4fee834",
    "titolo": "Bitmine Immersion Technologies annuncia un dividendo in contanti di 0,01 dollari per azione ordinaria",
-   "punteggio": 0.5,
+   "punteggio": -1.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1290,7 +1219,7 @@
   {
    "id": "bfc05b1f7e514b38",
    "titolo": "Bitmine Immersion Technologies annonce un dividende en espèces de 0,01 $ par action ordinaire",
-   "punteggio": 0.5,
+   "punteggio": -1.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1311,7 +1240,7 @@
   {
    "id": "8515a09bac69c041",
    "titolo": "Minesto resolves on a rights issue of approximately SEK 130 million and announces final terms",
-   "punteggio": 0.5,
+   "punteggio": -1.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1332,7 +1261,7 @@
   {
    "id": "bf613293d8fbc750",
    "titolo": "Cowork Frederick Foundation Announces 2026 Gala Fundraiser",
-   "punteggio": 0.4,
+   "punteggio": -1.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1353,7 +1282,7 @@
   {
    "id": "3b17e7beb9dc9241",
    "titolo": "Small Caps and Blue Chips Outpace Broader Market Through Midweek Session",
-   "punteggio": 0.2,
+   "punteggio": -1.5,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1374,7 +1303,7 @@
   {
    "id": "1395368c1bd0ef19",
    "titolo": "XTI Aerospace Eliminates Class B Units and Enters into Warrant Exchange Agreement, Simplifying Capital Structure",
-   "punteggio": 0.1,
+   "punteggio": -1.6,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1393,21 +1322,65 @@
    ]
   },
   {
-   "id": "423439742e32b7d4",
-   "titolo": "The Semiconductor ETF Kept Falling After Nvidia Raised Its Forecast. Time to Buy?",
-   "punteggio": 0.1,
-   "verificata": false,
-   "ufficiale": false,
+   "id": "b108519531d2b6e1",
+   "titolo": "Diamond Certified Resource Publishes New Article About How Earning Diamond Certified for Consecutive Years Increases a Company's Valuation",
+   "punteggio": -1.6,
+   "verificata": true,
+   "ufficiale": true,
    "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-25T05:15:00+00:00",
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T20:10:00+00:00",
    "link": [
     {
-     "titolo": "The Semiconductor ETF Kept Falling After Nvidia Raised Its Forecast. Time to Buy?",
-     "url": "https://www.fool.com/investing/2026/11/24/the-semiconductor-etf-kept-falling-after-nvidia-raised-its-forecast-time-to-buy/?source=iedfolrf0000001",
-     "fonte": "fool.com",
+     "titolo": "Diamond Certified Resource Publishes New Article About How Earning Diamond Certified for Consecutive Years Increases a Company's Valuation",
+     "url": "https://www.prnewswire.com/news-releases/diamond-certified-resource-publishes-new-article-about-how-earning-diamond-certified-for-consecutive-years-increases-a-companys-valuation-302950822.html",
+     "fonte": "PR Newswire",
      "solo_verifica": false,
-     "via": "GDELT"
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "0a3ee50708308462",
+   "titolo": "Applications Now Open for the Jacob Frydman Scholarship for Real Estate Education",
+   "punteggio": -1.6,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T20:10:00+00:00",
+   "link": [
+    {
+     "titolo": "Applications Now Open for the Jacob Frydman Scholarship for Real Estate Education",
+     "url": "https://www.prnewswire.com/news-releases/applications-now-open-for-the-jacob-frydman-scholarship-for-real-estate-education-302950821.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
+   "id": "5560e85692bb8966",
+   "titolo": "Santa Clara Family Health Plan invests $19.2 million to help Medi-Cal members retain healthcare coverage",
+   "punteggio": -1.7,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-25T20:06:00+00:00",
+   "link": [
+    {
+     "titolo": "Santa Clara Family Health Plan invests $19.2 million to help Medi-Cal members retain healthcare coverage",
+     "url": "https://www.prnewswire.com/news-releases/santa-clara-family-health-plan-invests-19-2-million-to-help-medi-cal-members-retain-healthcare-coverage-302950703.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
     }
    ]
   }

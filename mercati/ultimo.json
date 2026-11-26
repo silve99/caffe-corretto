@@ -1,6 +1,6 @@
 {
- "aggiornato": "2026-11-26T00:58:03.337015+00:00",
- "aggiornato_roma": "26/11/2026 01:58",
+ "aggiornato": "2026-11-26T09:23:38.910786+00:00",
+ "aggiornato_roma": "26/11/2026 10:23",
  "errori": [],
  "cambi_bce": {
   "fonte": "Banca Centrale Europea",
@@ -37,51 +37,51 @@
   "dati": {
    "BTC": {
     "nome": "Bitcoin",
-    "prezzo_eur": 55087,
-    "variazione_24h_pct": 1.45,
-    "capitalizzazione_eur": 1108193776431
+    "prezzo_eur": 55366,
+    "variazione_24h_pct": 2.73,
+    "capitalizzazione_eur": 1113828189893
    },
    "ETH": {
     "nome": "Ethereum",
-    "prezzo_eur": 1543.94,
-    "variazione_24h_pct": 1.34,
-    "capitalizzazione_eur": 188748213543
+    "prezzo_eur": 1547.14,
+    "variazione_24h_pct": 3.19,
+    "capitalizzazione_eur": 189143312025
    },
    "BNB": {
     "nome": "BNB",
-    "prezzo_eur": 505.34,
-    "variazione_24h_pct": 1.52,
-    "capitalizzazione_eur": 66457019814
+    "prezzo_eur": 504.2,
+    "variazione_24h_pct": 2.19,
+    "capitalizzazione_eur": 66306663938
    },
    "XRP": {
     "nome": "XRP",
-    "prezzo_eur": 0.855879,
-    "variazione_24h_pct": 1.81,
-    "capitalizzazione_eur": 54362533528
+    "prezzo_eur": 0.868604,
+    "variazione_24h_pct": 3.8,
+    "capitalizzazione_eur": 55170778704
    },
    "SOL": {
     "nome": "Solana",
-    "prezzo_eur": 64.49,
-    "variazione_24h_pct": 1.61,
-    "capitalizzazione_eur": 38189866571
+    "prezzo_eur": 64.67,
+    "variazione_24h_pct": 4.84,
+    "capitalizzazione_eur": 38296354718
    },
    "DOGE": {
     "nome": "Dogecoin",
-    "prezzo_eur": 0.051374,
-    "variazione_24h_pct": 2.33,
-    "capitalizzazione_eur": 8060294526
+    "prezzo_eur": 0.051617,
+    "variazione_24h_pct": 4.56,
+    "capitalizzazione_eur": 8098884798
    },
    "ADA": {
     "nome": "Cardano",
-    "prezzo_eur": 0.133664,
-    "variazione_24h_pct": 1.92,
-    "capitalizzazione_eur": 5023761732
+    "prezzo_eur": 0.135637,
+    "variazione_24h_pct": 4.85,
+    "capitalizzazione_eur": 5097946749
    }
   }
  },
  "cripto_globale": {
-  "capitalizzazione_totale_eur": 1912023677739.11,
-  "variazione_24h_pct": -1.62,
-  "dominanza_btc_pct": 57.9
+  "capitalizzazione_totale_eur": 1892622167097.684,
+  "variazione_24h_pct": -0.48,
+  "dominanza_btc_pct": 58.7
  }
 }
