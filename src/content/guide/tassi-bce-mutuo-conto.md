@@ -11,7 +11,7 @@ fonti:
     url: "https://www.bancaditalia.it/"
   - nome: "Banca d'Italia – Economia per tutti"
     url: "https://economiapertutti.bancaditalia.it/"
-bozza: true
+bozza: false
 ---
 
 Un giovedì a Francoforte, attorno a un tavolo, poco meno di trenta persone decidono quanto costerà il denaro a 350 milioni di europei. Pochi minuti dopo la notizia rimbalza sui siti: "La BCE taglia i tassi", oppure "La BCE li lascia invariati". Sembra una cosa lontana, ma arriva dritta nella rata del tuo mutuo e negli interessi del tuo conto deposito.

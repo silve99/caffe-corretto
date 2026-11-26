@@ -11,7 +11,7 @@ fonti:
     url: "https://www.covip.it/"
   - nome: "INPS"
     url: "https://www.inps.it/"
-bozza: true
+bozza: false
 ---
 
 Ogni mese, in busta paga, c'è una cifra che non vedi mai: circa il 7% del tuo stipendio lordo viene messo da parte e ti verrà dato solo quando lascerai il lavoro. È il [TFR](/glossario/tfr/), la liquidazione. La domanda è dove farlo crescere nel frattempo: in azienda, come da tradizione, o in un [fondo pensione](/glossario/fondo-pensione/). E dal 2026, per chi viene assunto per la prima volta, chi non sceglie si ritrova nel fondo pensione in automatico.

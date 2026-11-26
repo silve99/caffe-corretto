@@ -9,7 +9,7 @@ fonti:
     url: "https://www.fitd.it/"
   - nome: "Banca d'Italia – La tutela dei depositi"
     url: "https://www.bancaditalia.it/"
-bozza: true
+bozza: false
 ---
 
 Leggi un titolo su una banca in difficoltà e ti viene un piccolo brivido: e se fosse la mia? I risparmi di una vita sono lì, su un conto corrente o un conto deposito. La buona notizia è che in Italia, come in tutta l'Unione europea, esiste una rete di sicurezza precisa, con una cifra precisa: **100.000 euro**. Vediamo cosa protegge davvero, e cosa no.

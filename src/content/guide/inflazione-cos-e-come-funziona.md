@@ -11,7 +11,7 @@ fonti:
     url: "https://www.ecb.europa.eu/"
   - nome: "Banca d'Italia – Economia per tutti"
     url: "https://economiapertutti.bancaditalia.it/"
-bozza: true
+bozza: false
 ---
 
 Ricordi quanto costava un caffè al bar vent'anni fa? Intorno agli 80 centesimi. Oggi in molte città supera l'euro e venti. Il caffè è sempre lo stesso, la tazzina pure: è cambiato il valore dei soldi con cui lo paghi. Questo lento e silenzioso aumento dei prezzi ha un nome, [inflazione](/glossario/inflazione/), e lavora ogni giorno sui tuoi risparmi anche se non te ne accorgi.
