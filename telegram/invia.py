@@ -8,7 +8,7 @@ manda un messaggio sul canale Telegram:
 - il caffè del mattino (tipo riepilogo o settimanale) con l'attacco, i punti "In 30 secondi"
   e i link alle notizie brevi dello stesso giorno;
 - le notizie brevi uscite da sole, in un messaggio unico;
-- ogni nuova guida di Caffè Lungo.
+- ogni nuova guida di Caffè Lungo (se ne escono più di due insieme, un solo messaggio con l'elenco).
 
 Ricorda cosa ha già inviato nel file `telegram/inviati.json` del branch `dati`.
 Usa solo la libreria standard di Python.
@@ -187,6 +187,13 @@ def messaggio_guida(sito: str, guida: dict, nome_sezione: str) -> tuple[str, str
     return "\n".join(righe), "📘 Leggi la guida"
 
 
+def messaggio_guide(sito: str, guide: list[dict], nome_sezione: str) -> tuple[str, str]:
+    righe = [f"📘 <b>Nuove guide di {html.escape(nome_sezione)}</b>", "",
+             "Da leggere con calma, spiegate semplici:", ""]
+    righe += [f'• <a href="{html.escape(link(sito, g))}">{in_linea(g["titolo"])}</a>' for g in guide[:10]]
+    return "\n".join(righe), "📘 Tutte le guide"
+
+
 # ---------- rete ----------
 
 def scarica(url: str, timeout: int = 20) -> int:
@@ -286,9 +293,14 @@ def main() -> int:
         testo, bottone = messaggio_brevi(sito, brevi)
         url = link(sito, brevi[0]) if len(brevi) == 1 else sito.rstrip("/") + "/articoli/"
         messaggi.append((brevi, testo, url, bottone))
-    for g in (c for c in pronti if c["tipo"] == "guida"):
-        testo, bottone = messaggio_guida(sito, g, nome_guide)
-        messaggi.append(([g], testo, link(sito, g), bottone))
+    guide = [c for c in pronti if c["tipo"] == "guida"]
+    if len(guide) > 2:  # tante guide insieme (es. un lotto): un solo messaggio con l'elenco
+        testo, bottone = messaggio_guide(sito, guide, nome_guide)
+        messaggi.append((guide, testo, sito.rstrip("/") + "/guide/", bottone))
+    else:
+        for g in guide:
+            testo, bottone = messaggio_guida(sito, g, nome_guide)
+            messaggi.append(([g], testo, link(sito, g), bottone))
 
     if not messaggi:
         print("Niente di nuovo da inviare.")
