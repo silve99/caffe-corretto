@@ -1,4 +1,5 @@
 ---
+import SeguiciTelegram from '../../components/SeguiciTelegram.astro';
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import SchedaGuida from '../../components/SchedaGuida.astro';
@@ -65,6 +66,7 @@ const jsonLd = {
       controlla sempre le fonti aggiornate. <a href="/come-lavoriamo/">Come lavoriamo</a>.
     </p>
   </article>
+  <SeguiciTelegram variante="guide" />
   {correlate.length > 0 && (
     <section>
       <h2>Leggi anche</h2>

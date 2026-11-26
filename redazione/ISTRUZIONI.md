@@ -56,6 +56,8 @@ File `AAAA-MM-GG-caffe-<parola-chiave>.md`. Struttura:
    Ogni sezione 4–5 si chiude con `**Cosa significa per te:**`. Se per una sezione non ci sono fatti verificati, toglila invece di riempirla.
 7. `## Domande frequenti`: 2–3 domande che la gente cerca davvero su Google oggi, con risposta breve.
 
+L'attacco e i punti "In 30 secondi" finiscono anche sul **canale Telegram** alle 06:30, insieme ai titoli delle brevi: scrivili perché facciano venire voglia di aprire il link. Non serve fare altro (se vuoi un testo diverso per Telegram, aggiungi nel frontmatter `telegram: "..."`, max 600 caratteri, senza link).
+
 ### B. 3–5 notizie brevi (`tipo: breve`), 200–350 parole ciascuna
 
 Una per ciascun fatto verificato più importante. File `AAAA-MM-GG-<slug>.md`. Stesso stile, un titolo con la parola chiave che la gente cercherebbe ("Nvidia Huang torna CEO"), attacco, contesto, "Cosa significa per te".

@@ -1,0 +1,25 @@
+---
+// Riquadro "Seguici su Telegram": compare solo quando in src/data/sito.json → social.telegram
+// c'è l'indirizzo del canale (si compila anche dal pannello: Dati del sito → Profili social).
+import { SOCIAL } from '../config';
+
+interface Props {
+  variante?: 'notizie' | 'guide';
+}
+const { variante = 'notizie' } = Astro.props;
+const canale = SOCIAL.find((s) => s.chiave === 'telegram');
+const testo =
+  variante === 'guide'
+    ? 'Ogni mattina alle 06:30 le notizie che contano e, quando escono, le nuove guide. Gratis, direttamente sul telefono.'
+    : 'Ogni mattina alle 06:30 il caffè con le notizie che contano, direttamente sul telefono. Gratis, senza spam.';
+---
+{canale && (
+  <aside class="telegram" aria-label="Canale Telegram">
+    <p class="telegram-titolo">☕ Il caffè ti arriva anche su Telegram</p>
+    <p class="telegram-testo">{testo}</p>
+    <a class="telegram-bottone" href={canale.url} rel="noopener" target="_blank">
+      <svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M21.9 4.6 18.7 19.7c-.2 1.1-.9 1.3-1.8.8l-4.9-3.6-2.4 2.3c-.3.3-.5.5-1 .5l.4-5 9.1-8.2c.4-.4-.1-.6-.6-.2L6.3 13.4l-4.8-1.5c-1-.3-1.1-1 .2-1.5L20.5 3.2c.9-.3 1.7.2 1.4 1.4Z"/></svg>
+      Seguici su Telegram
+    </a>
+  </aside>
+)}

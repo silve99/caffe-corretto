@@ -5,6 +5,7 @@ import { articoliPubblicati } from '../lib/articoli';
 import { SITO, editore } from '../config';
 import SchedaGuida from '../components/SchedaGuida.astro';
 import { guidePubblicate, SEZIONE_GUIDE } from '../lib/guide';
+import SeguiciTelegram from '../components/SeguiciTelegram.astro';
 
 const tutti = await articoliPubblicati();
 const ultimoRiepilogo = tutti.find((a) => a.data.tipo === 'riepilogo' || a.data.tipo === 'settimanale');
@@ -36,6 +37,7 @@ const jsonLd = {
     {altri.map((a) => <SchedaArticolo articolo={a} />)}
   </ul>
   {tutti.length > 13 && <p><a href="/articoli/">Tutte le notizie →</a></p>}
+  <SeguiciTelegram />
   {guide.length > 0 && (
     <section class="sezione-guide">
       <h2>{SEZIONE_GUIDE.nome}</h2>

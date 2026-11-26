@@ -84,3 +84,10 @@ article.testo blockquote { margin: 1.2em 0; padding: 12px 16px; background: var(
 .glossario dt { font-family: var(--serif); font-weight: 700; font-size: 1.1rem; margin-top: 1em; scroll-margin-top: 16px; }
 .glossario dd { margin: .2em 0 0; }
 .titolo-home { font-size: clamp(1.3rem, 4vw, 1.6rem); margin-top: 0; }
+
+/* Riquadro "Seguici su Telegram" (src/components/SeguiciTelegram.astro) */
+.telegram { margin: 32px 0 8px; padding: 18px 20px; border: 2px solid var(--accento); border-radius: 12px; background: var(--accento-tenue); }
+.telegram-titolo { font-family: var(--serif); font-weight: 700; font-size: 1.15rem; margin: 0 0 .3em; }
+.telegram-testo { margin: 0 0 12px; }
+.telegram-bottone { display: inline-flex; align-items: center; gap: 8px; padding: 10px 18px; border-radius: 999px; background: #229ED9; color: #fff; font-weight: 600; text-decoration: none; }
+.telegram-bottone:hover, .telegram-bottone:focus-visible { background: #1b86b9; color: #fff; }
