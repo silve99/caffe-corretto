@@ -364,6 +364,41 @@
       "id": "dazi",
       "termine": "Dazi",
       "spiegazione": "Tasse che uno Stato applica sulle merci importate dall'estero. Rendono i prodotti stranieri più cari e possono scatenare ritorsioni commerciali."
+    },
+    {
+      "id": "consob",
+      "termine": "Consob",
+      "spiegazione": "Autorità pubblica italiana che vigila sui mercati finanziari, sulle società quotate in Borsa e su chi offre investimenti ai risparmiatori."
+    },
+    {
+      "id": "book",
+      "termine": "Book di negoziazione",
+      "spiegazione": "Registro elettronico della Borsa che mostra in tempo reale le proposte di acquisto e di vendita di un titolo, con prezzi e quantità."
+    },
+    {
+      "id": "denaro-lettera",
+      "termine": "Differenza denaro-lettera",
+      "spiegazione": "Distanza tra il prezzo più alto offerto da chi compra (denaro) e il più basso chiesto da chi vende (lettera). Più è stretta, più il titolo è scambiato."
+    },
+    {
+      "id": "asta-di-apertura",
+      "termine": "Asta di apertura",
+      "spiegazione": "Fase prima dell'inizio degli scambi in cui la Borsa raccoglie gli ordini e calcola un unico prezzo di partenza per ogni titolo."
+    },
+    {
+      "id": "ordine-al-meglio",
+      "termine": "Ordine al meglio",
+      "spiegazione": "Ordine di Borsa senza limite di prezzo: viene eseguito al miglior prezzo disponibile in quel momento, qualunque sia."
+    },
+    {
+      "id": "stop-loss",
+      "termine": "Stop loss",
+      "spiegazione": "Ordine che scatta in automatico quando il prezzo scende fino a una soglia scelta, per limitare una perdita. Non garantisce il prezzo di uscita."
+    },
+    {
+      "id": "regolamento",
+      "termine": "Regolamento (Borsa)",
+      "spiegazione": "Passaggio effettivo di denaro e titoli tra compratore e venditore, che avviene alcuni giorni lavorativi dopo lo scambio."
     }
   ]
 }
