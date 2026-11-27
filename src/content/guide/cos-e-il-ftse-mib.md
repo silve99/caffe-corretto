@@ -11,7 +11,7 @@ fonti:
     url: "https://www.lseg.com/en/ftse-russell/"
   - nome: "Consob – Educazione finanziaria"
     url: "https://www.consob.it/web/investor-education"
-bozza: true
+bozza: false
 ---
 
 "Piazza Affari chiude in rialzo dell'1%". Lo senti al telegiornale della sera, lo leggi sul telefono, ma cosa è salito esattamente? Non tutte le aziende quotate a Milano, ma un gruppo scelto di quaranta. È il [FTSE MIB](/glossario/ftse-mib/), il termometro della Borsa italiana. Capire com'è fatto aiuta a leggere le notizie, e a non scambiare il termometro per il paziente.

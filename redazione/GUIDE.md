@@ -76,14 +76,13 @@ Se aggiorni una guida esistente (es. cambia un'aliquota), correggi il testo e ag
 ## 6. Piano editoriale (in ordine)
 
 Già pubblicate: Cos'è un ETF · Come si comprano i BTP · Bitcoin spiegato semplice ·
-Conto deposito o BTP · Cos'è lo spread BTP-Bund · Interesse composto · PAC · Fondo d'emergenza.
+Conto deposito o BTP · Cos'è lo spread BTP-Bund · Interesse composto · PAC · Fondo d'emergenza ·
+Tasse sugli investimenti (12,5%, 26%, bollo) · Regime amministrato o dichiarativo · Minusvalenze ·
+ETF ad accumulazione o a distribuzione · Come leggere il KID · Fondo pensione · TFR in azienda o
+nel fondo pensione · Fondo di garanzia dei depositi (100.000 euro) · Inflazione · Tassi della BCE ·
+Dividendi · FTSE MIB · Stablecoin · Conto titoli · Truffe finanziarie online.
 
-**In uscita con il lotto straordinario del 25–27/11/2026** (già scritte, NON riscriverle e non
-scegliere argomenti uguali o quasi uguali): Tasse sugli investimenti (12,5%, 26%, bollo) ·
-Regime amministrato o dichiarativo · Minusvalenze: come recuperarle · ETF ad accumulazione o a
-distribuzione · Come leggere il KID · Fondo pensione · TFR in azienda o nel fondo pensione ·
-Fondo di garanzia dei depositi (100.000 euro) · Inflazione · Tassi della BCE · Dividendi ·
-FTSE MIB · Stablecoin · Conto titoli · Truffe finanziarie online.
+**Già scritte, in bozza** (NON riscriverle e non scegliere argomenti uguali o quasi uguali).
 In uscita il 28 e 30/11/2026 (richiesta di Daniele del 25/11): Tasse sugli ETF con esempi · BTP o conto
 deposito con 1.000 euro · Come si dichiarano le criptovalute · Mutuo e tassi BCE.
 

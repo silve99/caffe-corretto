@@ -11,7 +11,7 @@ fonti:
     url: "https://www.bancaditalia.it/"
   - nome: "Consob – Cripto-attività"
     url: "https://www.consob.it/"
-bozza: true
+bozza: false
 ---
 
 Il prezzo del [Bitcoin](/glossario/bitcoin/) può salire o scendere del 10% in un giorno. Prova a pagare un caffè con una moneta così: stamattina costa un euro, stasera ottanta centesimi o un euro e venti. Per risolvere questo problema sono nate le [stablecoin](/glossario/stablecoin/), cripto che promettono di valere sempre la stessa cifra, di solito un dollaro o un euro. Promettono, appunto: vediamo come ci riescono e quando no.

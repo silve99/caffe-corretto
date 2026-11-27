@@ -11,7 +11,7 @@ fonti:
     url: "https://economiapertutti.bancaditalia.it/"
   - nome: "Agenzia delle Entrate"
     url: "https://www.agenziaentrate.gov.it/"
-bozza: true
+bozza: false
 ---
 
 Vuoi comprare il tuo primo BTP o il tuo primo ETF. Apri l'home banking, cerchi il pulsante "compra" e trovi un messaggio: "Per operare è necessario un conto titoli". Ecco il primo scalino di chi vuole investire. Niente di complicato: è un contenitore, come un armadio dove riporre gli investimenti. Ma conviene sapere quanto costa l'armadio prima di riempirlo.
