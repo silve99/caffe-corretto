@@ -22,7 +22,7 @@ La settimana di Nvidia non trova pace. Dopo il ritorno di Jensen Huang, lo scand
 
 1. **Lo stop.** Secondo l'ANSA, Nvidia ha interrotto le spedizioni di chip nei Paesi del sud-est asiatico. La notizia è riportata anche da CoinDesk.
 2. **Il contesto.** Per CoinDesk lo stop arriva insieme a nuove restrizioni americane sui chip, e la combinazione ha messo sotto pressione i titoli legati all'intelligenza artificiale.
-3. **Il precedente.** Lunedì gli Stati Uniti avevano inserito Megaspeed, la società di IA al centro dello scandalo che ha coinvolto Nvidia, nella lista nera commerciale, come riportava The Guardian.
+3. **Il precedente.** A inizio settimana gli Stati Uniti avevano inserito Megaspeed, la società di IA al centro dello scandalo che ha coinvolto Nvidia, nella lista nera commerciale, come riportava The Guardian.
 
 ## Cosa non sappiamo
 

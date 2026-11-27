@@ -98,11 +98,11 @@ Lo [spread](/glossario/spread/) tra BTP e Bund, invece, è sceso: a fine giornat
 
 Non tutto però è tornato sereno. Nvidia, riportano sia l'ANSA sia CoinDesk, ha fermato le spedizioni di chip verso il sud-est asiatico, mentre Washington stringe sulle esportazioni di semiconduttori. Stamattina Tokyo è partita in rialzo dello 0,39% (ANSA).
 
-**Cosa significa per te:** se hai un [ETF](/guide/cos-e-un-etf/) sulla Borsa italiana, ieri ha recuperato buona parte del terreno perso mercoledì. Uno spread più basso è una buona notizia per chi tiene [BTP](/glossario/btp/) in portafoglio e per i conti pubblici.
+**Cosa significa per te:** se hai un [ETF](/guide/cos-e-un-etf/) sulla Borsa italiana, ieri ha più che recuperato il terreno perso mercoledì. Uno spread più basso è una buona notizia per chi tiene [BTP](/glossario/btp/) in portafoglio e per i conti pubblici.
 
 ## Bitcoin fermo al bancone
 
-Le cripto, ieri, hanno bevuto un caffè decaffeinato. Secondo CoinGecko, alle 03:22 un Bitcoin valeva 55.724 €, appena lo 0,22% in più di 24 ore prima. Ethereum sale dello 0,41% a 1.561,03 €, Cardano fa meglio di tutti con +1,14%.
+Le cripto, nelle ultime 24 ore, hanno bevuto un caffè decaffeinato. Secondo CoinGecko, alle 03:22 un Bitcoin valeva 55.724 €, appena lo 0,22% in più di 24 ore prima. Ethereum sale dello 0,41% a 1.561,03 €, Cardano fa meglio di tutti con +1,14%.
 
 Anche CoinDesk descrive un Bitcoin poco mosso, con gli americani in festa per il Ringraziamento. Il quadro però non è roseo: secondo la testata, dagli [ETF](/glossario/etf/) su Bitcoin continuano a uscire soldi, e un aiuto dalla [Fed](/glossario/fed/) appare improbabile.
 
@@ -125,7 +125,7 @@ L'euro, infine, si rafforza: 1,0975 dollari (+0,37%) e +0,75% sul franco svizzer
 ## Domande frequenti
 
 **Chi sarà il nuovo presidente della BCE?**
-Secondo l'ANSA e diverse testate internazionali, i Paesi dell'euro si sono accordati sullo spagnolo Pablo Hernández de Cos, ex capo della banca centrale spagnola. Prenderà il posto di Christine Lagarde quando l'iter formale sarà concluso.
+Secondo l'ANSA e diverse testate internazionali, i Paesi dell'euro si sono accordati sullo spagnolo Pablo Hernández de Cos, ex capo della banca centrale spagnola. Dovrebbe prendere il posto di Christine Lagarde, ma prima la nomina deve completare l'iter formale.
 
 **La BCE alzerà i tassi a dicembre?**
 Non è deciso. Dai verbali di ottobre, secondo l'ANSA, emerge che numerosi governatori erano favorevoli a un ulteriore rialzo. La decisione spetta al Consiglio direttivo nella prossima riunione.
