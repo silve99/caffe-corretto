@@ -1,12 +1,12 @@
 {
- "aggiornato": "2026-11-27T11:20:52.824637+00:00",
+ "aggiornato": "2026-11-27T20:15:36.894692+00:00",
  "finestra_ore": 26,
- "notizie_considerate": 173,
+ "notizie_considerate": 125,
  "gruppi": [
   {
    "id": "ff68d4fc3008ce51",
    "titolo": "Nomura raises RBI rate hike call to 50 bps, sees inflation above 6% for two quarters",
-   "punteggio": 17.0,
+   "punteggio": 15.2,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 6,
@@ -58,9 +58,30 @@
    ]
   },
   {
+   "id": "cafb580033841375",
+   "titolo": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+   "punteggio": 12.7,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "macro"
+   ],
+   "ultima_ora": "2026-11-27T14:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+     "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+     "fonte": "Banca Centrale Europea",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "3951ee9fd56d1130",
    "titolo": "Bce, accordo su Pablo Hernández de Cos: succederà a Lagarde",
-   "punteggio": 10.9,
+   "punteggio": 9.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -79,7 +100,7 @@
   {
    "id": "3f36a67390575c55",
    "titolo": "ECB Consumer Expectations Survey results – October 2026",
-   "punteggio": 10.5,
+   "punteggio": 8.7,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -100,7 +121,7 @@
   {
    "id": "e9c5a1a483a91f0d",
    "titolo": "Bce: attese inflazione a 12 mesi salite al 3,5% a ottobre (da 3,1%)",
-   "punteggio": 9.8,
+   "punteggio": 8.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -119,7 +140,7 @@
   {
    "id": "f7a42d0ca033c7ef",
    "titolo": "Spain's Pablo Hernandez de Cos set to succeed Christine Lagarde as ECB president: Report",
-   "punteggio": 9.7,
+   "punteggio": 7.9,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 3,
@@ -152,7 +173,7 @@
   {
    "id": "3069682d72545535",
    "titolo": "Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
-   "punteggio": 9.2,
+   "punteggio": 7.4,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 4,
@@ -192,7 +213,7 @@
   {
    "id": "6a4c8154bed2c4b4",
    "titolo": "Los líderes europeos respaldan a Hernández de Cos para suceder a Lagarde al frente del BCE",
-   "punteggio": 8.9,
+   "punteggio": 7.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -209,9 +230,35 @@
    ]
   },
   {
+   "id": "a8b3b5c531fc7476",
+   "titolo": "Weeks of hot deals are encouraging record Black Friday spending despite inflation concerns",
+   "punteggio": 7.0,
+   "verificata": true,
+   "ufficiale": false,
+   "fonti_distinte": 2,
+   "categorie": [],
+   "ultima_ora": "2026-11-27T20:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Weeks of hot deals are encouraging record Black Friday spending despite inflation concerns",
+     "url": "https://www.wdio.com/ap-top-news/ap-top-news-us-headlines-ap-top-news/weeks-of-hot-deals-are-encouraging-record-black-friday-spending-despite-inflation-concerns/",
+     "fonte": "wdio.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    },
+    {
+     "titolo": "Black Friday deals are encouraging record spending despite inflation concerns",
+     "url": "https://www.presstelegram.com/2026/11/27/black-friday-new-playbook/",
+     "fonte": "presstelegram.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "b0f02450bfeeca08",
    "titolo": "Spanish inflation comes off the boil in November, offering some respite for the ECB",
-   "punteggio": 7.9,
+   "punteggio": 6.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -230,7 +277,7 @@
   {
    "id": "e06afe982be71f9e",
    "titolo": "Wall Street, il rally è dietro l'angolo: l'S&P 500 pronto a correre del 25% secondo Deutsche Bank",
-   "punteggio": 7.9,
+   "punteggio": 6.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -249,7 +296,7 @@
   {
    "id": "3d87e70451cc2120",
    "titolo": "Borse oggi in diretta | Ftse Mib il migliore in Ue con Stm +4,2% e Technoprobe +4,3%, lo spread scende a 104",
-   "punteggio": 7.9,
+   "punteggio": 6.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -268,7 +315,7 @@
   {
    "id": "98284a54d86405f7",
    "titolo": "Dazi Usa, ecco le 7 azioni di Piazza Affari che rischiano di più con la nuova stretta al 15% sull'Europa",
-   "punteggio": 7.9,
+   "punteggio": 6.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -287,7 +334,7 @@
   {
    "id": "2ce91c51a9de5804",
    "titolo": "U.S. Treasury, European Bond Yields Rise as Investors Anticipate Fed, ECB Rate Hikes in December — Update",
-   "punteggio": 7.9,
+   "punteggio": 6.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -306,7 +353,7 @@
   {
    "id": "0c17d72f127a46f1",
    "titolo": "RBI may surprise markets with 50-bps rate hike in December as inflation risks mount: Nomura",
-   "punteggio": 7.0,
+   "punteggio": 5.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -325,7 +372,7 @@
   {
    "id": "33a88f5652890651",
    "titolo": "Petrolio, attacchi in Medio Oriente e rischio 100 dollari: cosa deciderà l'Opec+ il 29 novembre",
-   "punteggio": 6.9,
+   "punteggio": 5.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -344,7 +391,7 @@
   {
    "id": "88c2d457c1826b64",
    "titolo": "Petrolio, Trump all'attacco dell'Opec: pressioni su Venezuela e Iraq per spingerli fuori dal cartello",
-   "punteggio": 6.9,
+   "punteggio": 5.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -363,7 +410,7 @@
   {
    "id": "30c816fe0cdb6d68",
    "titolo": "Chi è Pablo Hernández de Cos, futuro presidente della Bce",
-   "punteggio": 6.9,
+   "punteggio": 5.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -380,9 +427,47 @@
    ]
   },
   {
+   "id": "b88a9d083cd0d2a2",
+   "titolo": "Coesione, un quinto delle regioni Ue sotto il Pil del 2008",
+   "punteggio": 4.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-27T19:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Coesione, un quinto delle regioni Ue sotto il Pil del 2008",
+     "url": "https://www.ilsole24ore.com/art/coesione-quinto-regioni-ue-sotto-pil-2008-AJjb37UC",
+     "fonte": "Il Sole 24 Ore",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "b064d75f84323d0a",
+   "titolo": "Francia in recessione tecnica per un soffio",
+   "punteggio": 4.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-27T19:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Francia in recessione tecnica per un soffio",
+     "url": "https://www.ilsole24ore.com/art/francia-recessione-tecnica-un-soffio-AJeVvEVC",
+     "fonte": "Il Sole 24 Ore",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "501fb8879b968d7b",
    "titolo": "Gold Price Prediction: अपने रिकॉर्ड हाई से 58,500 रुपये सस्ता मिल रहा है सोना, अब ये 2 तारीखें तय करेंगी कीमतों का भविष्य | Gold Price Crash From Record High Know Reasons And Mcx Gold Price Target",
-   "punteggio": 5.9,
+   "punteggio": 4.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -401,7 +486,7 @@
   {
    "id": "ebabaf9fa5371aed",
    "titolo": "AI sell-off and Fed hikes: Where investors can look next",
-   "punteggio": 5.9,
+   "punteggio": 4.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -420,7 +505,7 @@
   {
    "id": "00eb0c5c2ecae698",
    "titolo": "Christine Lagarde ha detto che lascerà il suo incarico con otto mesi d'anticipo",
-   "punteggio": 5.8,
+   "punteggio": 4.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -439,7 +524,7 @@
   {
    "id": "8e7cedf529ef4565",
    "titolo": "Le Borse di oggi, 27 novembre. Il petrolio torna a salire. Bene Milano, attesa per Wall Street",
-   "punteggio": 5.8,
+   "punteggio": 4.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -458,7 +543,7 @@
   {
    "id": "f4ad212e88ca8271",
    "titolo": "L'économie française en récession \"technique\" depuis le deuxième trimestre, l'inflation ralentit en novembre",
-   "punteggio": 5.8,
+   "punteggio": 4.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -475,9 +560,47 @@
    ]
   },
   {
+   "id": "f4f712681c33dd76",
+   "titolo": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-27T20:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
+     "url": "https://www.livemint.com/market/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks-11795807102935.html",
+     "fonte": "livemint.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "b7f8c19e78ec7e68",
+   "titolo": "Canadian dollar holds on to weekly gain as investors bet on December rate hike",
+   "punteggio": 3.9,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-27T20:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Canadian dollar holds on to weekly gain as investors bet on December rate hike",
+     "url": "https://www.livemint.com/market/canadian-dollar-holds-on-to-weekly-gain-as-investors-bet-on-december-rate-hike-11795807102867.html",
+     "fonte": "livemint.com",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "4ed993246cccb2b1",
    "titolo": "Spain's De Cos to take over as ECB president from Lagarde",
-   "punteggio": 5.7,
+   "punteggio": 3.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -496,7 +619,7 @@
   {
    "id": "6847ee85daff3f4b",
    "titolo": "Spain's former central bank head to succeed Lagarde as ECB chief",
-   "punteggio": 5.7,
+   "punteggio": 3.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -513,9 +636,28 @@
    ]
   },
   {
+   "id": "b9443151afebf14f",
+   "titolo": "Cybersicurezza finanziaria, siglata intesa tra Gdf e autorità di vigilanza per contrastare le minacce digitali",
+   "punteggio": 3.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-27T19:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Cybersicurezza finanziaria, siglata intesa tra Gdf e autorità di vigilanza per contrastare le minacce digitali",
+     "url": "https://www.ilsole24ore.com/art/cybersicurezza-finanziaria-siglata-intesa-gdf-e-autorita-vigilanza-contrastare-minacce-digitali-AJD6E9UC",
+     "fonte": "Il Sole 24 Ore",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "9675c9bba5740407",
    "titolo": "Tokyo inflation accelerates, backing case for BOJ rate hike",
-   "punteggio": 5.2,
+   "punteggio": 3.4,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -534,7 +676,7 @@
   {
    "id": "08830de3e750c5f2",
    "titolo": "Ftse Mib future: spunti operativi per venerdì 27 novembre",
-   "punteggio": 4.9,
+   "punteggio": 3.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -553,7 +695,7 @@
   {
    "id": "9ae4ef98960fab71",
    "titolo": "In Francia (+2,9%) e in Spagna (+4,1%) rallenta inflazione su base annua a novembre",
-   "punteggio": 4.9,
+   "punteggio": 3.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -572,7 +714,7 @@
   {
    "id": "eeea925a0d26bb6c",
    "titolo": "Español Hernández de Cos presidirá el BCE",
-   "punteggio": 4.9,
+   "punteggio": 3.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -591,7 +733,7 @@
   {
    "id": "9bdbd142ad94b2da",
    "titolo": "Pablo Hernández de Cos presidirá el BCE desde el 7 de febrero de 2027 como primer español en el cargo",
-   "punteggio": 4.8,
+   "punteggio": 3.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -610,7 +752,7 @@
   {
    "id": "dbf865a74c2e3ad3",
    "titolo": "España llega por fin a la Presidencia del BCE",
-   "punteggio": 4.8,
+   "punteggio": 3.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -629,7 +771,7 @@
   {
    "id": "c18674713d86a6fb",
    "titolo": "V ECB už tuší jméno nového šéfa, evropští lídři podpoří Španěla de Cose",
-   "punteggio": 4.8,
+   "punteggio": 3.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -648,7 +790,7 @@
   {
    "id": "3966bbf067d9a976",
    "titolo": "Ebury: \"Escolha de Pablo Hernández de Cos para o BCE reflete orientação ligeiramente mais dovish\"",
-   "punteggio": 4.8,
+   "punteggio": 3.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -667,7 +809,7 @@
   {
    "id": "245fb2530755eb03",
    "titolo": "Gold slips, silver steadies as Fed rate hike expectations persist in holiday trading - Kitco AM Report",
-   "punteggio": 4.7,
+   "punteggio": 2.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -686,7 +828,7 @@
   {
    "id": "5e7287b69d6de1e3",
    "titolo": "ECB minutes show energy prices highlight inflation risks",
-   "punteggio": 4.7,
+   "punteggio": 2.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -703,9 +845,30 @@
    ]
   },
   {
+   "id": "241695e86ffb5994",
+   "titolo": "Montauk Renewables, Inc. (NASDAQ: MNTK) Investors: Class Action Lawsuit Filed - Lead Plaintiff Deadline January 25, 2027 - Contact Bronstein, Gewirtz & Grossman",
+   "punteggio": 2.3,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-27T17:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Montauk Renewables, Inc. (NASDAQ: MNTK) Investors: Class Action Lawsuit Filed - Lead Plaintiff Deadline January 25, 2027 - Contact Bronstein, Gewirtz & Grossman",
+     "url": "https://www.prnewswire.com/news-releases/montauk-renewables-inc-nasdaq-mntk-investors-class-action-lawsuit-filed--lead-plaintiff-deadline-january-25-2027--contact-bronstein-gewirtz--grossman-302950719.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "e52095564cd96dba",
    "titolo": "Apple Says No, Amazon Doesn't Care: AirPods Max 2 Hit Their Lowest Price on Black Friday Itself",
-   "punteggio": 3.9,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -724,7 +887,7 @@
   {
    "id": "e73b910fc7deceb5",
    "titolo": "Tout le monde en parle mais personne ne vous le dira : Amazon assomme la concurrence avec son offre sur l'iPhone 17 Pro Max 1 To d'Apple",
-   "punteggio": 3.9,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -743,7 +906,7 @@
   {
    "id": "46492c8fe8eb916d",
    "titolo": "Cina, famiglie in fuga dai debiti (e dagli acquisti): rimborsi record per 1.600 miliardi. Borse in corsa",
-   "punteggio": 3.9,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -762,7 +925,7 @@
   {
    "id": "21f1ebdccb7c5d76",
    "titolo": "Stellantis vuole ricomprare una parte di Marelli: sul tavolo tre fabbriche italiane",
-   "punteggio": 3.9,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -781,7 +944,7 @@
   {
    "id": "bde751ae196f95b4",
    "titolo": "Ecco gli Etf che possono aiutare i genitori a raggiungere gli obiettivi",
-   "punteggio": 3.9,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -800,7 +963,7 @@
   {
    "id": "bb94cbee0e030b63",
    "titolo": "Pablo Hernández de Cos a fost ales președinte al Băncii Centrale Europene. Fostul guvernator al Băncii Spaniei o va înlocui pe Christine Lagarde, având sprijinul Franței și Germaniei",
-   "punteggio": 3.9,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -819,7 +982,7 @@
   {
    "id": "4c843c5300879dd6",
    "titolo": "Apple Black Friday gift card vs. Amazon's M5 MacBook Air deal",
-   "punteggio": 3.9,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -838,7 +1001,7 @@
   {
    "id": "a09d07396ec69999",
    "titolo": "Nasdaq futures surge nearly 3%, S&P 500 futures jump 2% as AI stocks set for rebound after Thanksgiving holiday",
-   "punteggio": 3.9,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -857,7 +1020,7 @@
   {
    "id": "77ca043d82b8f697",
    "titolo": "Singulus sieht „Blut und Wasser!\" Jetzt 4 Hot-Stocks mit Tesla als Kunden und Nvidia-Glas-Fantasie",
-   "punteggio": 3.8,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -876,7 +1039,7 @@
   {
    "id": "6347f27fd98af0b8",
    "titolo": "EZB: Hernández de Cos soll Lagarde ablösen – was das für Zinsen bedeutet",
-   "punteggio": 3.8,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -895,7 +1058,7 @@
   {
    "id": "769d3771a0b9c056",
    "titolo": "Inwit debole con negoziati su affitti torri, mercato diviso su tempi intesa",
-   "punteggio": 3.8,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -914,7 +1077,7 @@
   {
    "id": "ba14e23ce9628383",
    "titolo": "Gold's rebound shows markets fear recession and doubt Fed rate follow-through – StoneX's Stanley",
-   "punteggio": 3.7,
+   "punteggio": 1.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -931,9 +1094,47 @@
    ]
   },
   {
+   "id": "279876212a3fc340",
+   "titolo": "Tlc, in Italia il ritorno degli investimenti non regge il costo del capitale",
+   "punteggio": 1.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-27T19:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Tlc, in Italia il ritorno degli investimenti non regge il costo del capitale",
+     "url": "https://www.ilsole24ore.com/art/tlc-italia-ritorno-investimenti-non-regge-costo-capitale-AJikp4TC",
+     "fonte": "Il Sole 24 Ore",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "a957a2b88c3b9423",
+   "titolo": "Transizione 5.0, in cinque mesi  investimenti per 1,3 miliardi in Veneto",
+   "punteggio": 1.8,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-27T19:30:00+00:00",
+   "link": [
+    {
+     "titolo": "Transizione 5.0, in cinque mesi  investimenti per 1,3 miliardi in Veneto",
+     "url": "https://www.ilsole24ore.com/art/transizione-50-cinque-mesi-investimenti-13-miliardi-veneto-AJL7PFVC",
+     "fonte": "Il Sole 24 Ore",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
    "id": "0904e0d40dae050c",
    "titolo": "Stablecoin fees could add 10% to a $20 purchase, research finds ahead of Black Friday",
-   "punteggio": 2.9,
+   "punteggio": 1.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -952,9 +1153,30 @@
    ]
   },
   {
+   "id": "de1c4568673407df",
+   "titolo": "Estate Planning Attorney Jennifer McKenna Addresses Whether You Need a Trust or if a Will Is Enough",
+   "punteggio": 0.5,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-27T18:00:00+00:00",
+   "link": [
+    {
+     "titolo": "Estate Planning Attorney Jennifer McKenna Addresses Whether You Need a Trust or if a Will Is Enough",
+     "url": "https://www.prnewswire.com/news-releases/estate-planning-attorney-jennifer-mckenna-addresses-whether-you-need-a-trust-or-if-a-will-is-enough-302950803.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "0e8cf83c0558752f",
    "titolo": "Cina, la nuova mania dei miliardari sono i pesci ornamentali. E sono disposti a pagarli anche 1,8 milioni",
-   "punteggio": 1.9,
+   "punteggio": 0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -973,7 +1195,7 @@
   {
    "id": "44a63906debb1c29",
    "titolo": "Transizione 5.0, pubblicato il decreto per 198 milioni agli esodati",
-   "punteggio": 1.9,
+   "punteggio": 0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -992,7 +1214,7 @@
   {
    "id": "b6e24b0d36999ee7",
    "titolo": "Transizione 5.0, arriva il decreto che stanzia 197,7 milioni per gli \"esodati\"",
-   "punteggio": 1.8,
+   "punteggio": 0.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1005,231 +1227,6 @@
      "fonte": "la Repubblica",
      "solo_verifica": false,
      "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "cf3d168d904e1d24",
-   "titolo": "Comunicato Stampa: Temu vince il premio \"Local Business Breakthrough Award\" per il supporto alle PMI italiane – il Giornale",
-   "punteggio": 1.8,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-27T10:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Comunicato Stampa: Temu vince il premio \"Local Business Breakthrough Award\" per il supporto alle PMI italiane – il Giornale",
-     "url": "https://www.ilgiornale.it/news/press-release/comunicato-stampa-temu-vince-il-premio-local-business-breakthrough-award-per-il-supporto-alle-pmi-italiane/",
-     "fonte": "il Giornale",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "26eff28487e980a6",
-   "titolo": "Spain's Pablo Hernández de Cos wins race to be next ECB president",
-   "punteggio": 1.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-26T19:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Spain's Pablo Hernández de Cos wins race to be next ECB president",
-     "url": "https://www.aol.co.uk/articles/spain-pablo-hern-ndez-cos-175054000.html",
-     "fonte": "aol.co.uk",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "b2700702dc94e610",
-   "titolo": "S&P 500 Sell-Off: Here's Why I'm Not Panicking -- and What I'm Doing Instead",
-   "punteggio": 1.7,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-26T18:45:00+00:00",
-   "link": [
-    {
-     "titolo": "S&P 500 Sell-Off: Here's Why I'm Not Panicking -- and What I'm Doing Instead",
-     "url": "https://www.fool.com/investing/2026/11/26/sp-500-sell-off-heres-why-im-not-panicking-and-what-im-doing-instead/?source=iedfolrf0000001",
-     "fonte": "fool.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "72494d7a50bc2ad3",
-   "titolo": "Meeting of 28-29 October 2026",
-   "punteggio": 1.4,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "macro"
-   ],
-   "ultima_ora": "2026-11-26T12:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Meeting of 28-29 October 2026",
-     "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
-     "fonte": "Banca Centrale Europea",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "904c83efe3990a14",
-   "titolo": "Lufax Announces Extraordinary General Meeting on December 22, 2026",
-   "punteggio": 0.9,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T11:00:00+00:00",
-   "link": [
-    {
-     "titolo": "Lufax Announces Extraordinary General Meeting on December 22, 2026",
-     "url": "https://www.prnewswire.com/news-releases/lufax-announces-extraordinary-general-meeting-on-december-22-2026-302951572.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "10bb2c46a70bf1a7",
-   "titolo": "ECARX Announces US$20 million Share Repurchase Program",
-   "punteggio": 0.9,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T11:00:00+00:00",
-   "link": [
-    {
-     "titolo": "ECARX Announces US$20 million Share Repurchase Program",
-     "url": "https://www.prnewswire.com/news-releases/ecarx-announces-us20-million-share-repurchase-program-302951459.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "264a3adbb8a5eb87",
-   "titolo": "X Financial Reports Third Quarter 2026 Unaudited Financial Results",
-   "punteggio": 0.9,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T10:50:00+00:00",
-   "link": [
-    {
-     "titolo": "X Financial Reports Third Quarter 2026 Unaudited Financial Results",
-     "url": "https://www.prnewswire.com/news-releases/x-financial-reports-third-quarter-2026-unaudited-financial-results-302951437.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "c700196f5caef10d",
-   "titolo": "Eye Exam Coverage Outside Medicare (2026): What to Know About VSP's Routine Vision Benefits by Better Business Advice",
-   "punteggio": 0.9,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T10:45:00+00:00",
-   "link": [
-    {
-     "titolo": "Eye Exam Coverage Outside Medicare (2026): What to Know About VSP's Routine Vision Benefits by Better Business Advice",
-     "url": "https://www.prnewswire.com/news-releases/eye-exam-coverage-outside-medicare-2026-what-to-know-about-vsps-routine-vision-benefits-by-better-business-advice-302951541.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "12ea32ff801091ca",
-   "titolo": "Rapport du DIFC sur l'avenir de la finance : Dubaï s'impose comme une référence mondiale en intégrant les cinq piliers de la compétitivité et en facilitant l'accès aux entreprises, aux capitaux et aux talents",
-   "punteggio": 0.8,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T10:29:00+00:00",
-   "link": [
-    {
-     "titolo": "Rapport du DIFC sur l'avenir de la finance : Dubaï s'impose comme une référence mondiale en intégrant les cinq piliers de la compétitivité et en facilitant l'accès aux entreprises, aux capitaux et aux talents",
-     "url": "https://www.prnewswire.com/news-releases/rapport-du-difc-sur-lavenir-de-la-finance--dubai-simpose-comme-une-reference-mondiale-en-integrant-les-cinq-piliers-de-la-competitivite-et-en-facilitant-lacces-aux-entreprises-aux-capitaux-et-aux-talents-302951684.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "0c08b2580df1514b",
-   "titolo": "Cheetah Mobile To Report Third Quarter 2026 Financial Results on December 4, 2026",
-   "punteggio": 0.6,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T09:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Cheetah Mobile To Report Third Quarter 2026 Financial Results on December 4, 2026",
-     "url": "https://www.prnewswire.com/news-releases/cheetah-mobile-to-report-third-quarter-2026-financial-results-on-december-4-2026-302951590.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "0ca88f75fca06648",
-   "titolo": "BBVA Drives its International Growth by Modernizing its Banking Platform with Finastra Universal Banking",
-   "punteggio": 0.5,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T09:00:00+00:00",
-   "link": [
-    {
-     "titolo": "BBVA Drives its International Growth by Modernizing its Banking Platform with Finastra Universal Banking",
-     "url": "https://www.prnewswire.com/news-releases/bbva-drives-its-international-growth-by-modernizing-its-banking-platform-with-finastra-universal-banking-302950664.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
     }
    ]
   }
