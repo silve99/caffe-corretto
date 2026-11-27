@@ -11,7 +11,7 @@ fonti:
     url: "https://www.consob.it/web/investor-education"
   - nome: "Agenzia delle Entrate"
     url: "https://www.agenziaentrate.gov.it/"
-bozza: true
+bozza: false
 ---
 
 Immagina di essere socio di una pizzeria di quartiere. A fine anno i conti tornano, avanza un bel guadagno, e i soci decidono: una parte la reinvestiamo in un forno nuovo, il resto ce lo dividiamo. Quella fetta che finisce in tasca ai soci è un dividendo. Con le azioni di una società quotata funziona allo stesso modo, solo con più zeri e un calendario preciso.

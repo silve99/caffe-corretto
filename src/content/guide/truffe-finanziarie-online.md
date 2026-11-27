@@ -13,7 +13,7 @@ fonti:
     url: "https://www.bancaditalia.it/"
   - nome: "Polizia Postale – Commissariato di PS online"
     url: "https://www.commissariatodips.it/"
-bozza: true
+bozza: false
 ---
 
 Il messaggio arriva su WhatsApp, cortese e preciso: "Buongiorno, sono l'assistente del professor Rossi. Ogni giorno condividiamo gratuitamente i nostri segnali di Borsa nel gruppo: oggi +12%". Dentro il gruppo, decine di persone ringraziano e mostrano guadagni. Sembra tutto vero. Non lo è quasi mai. Le truffe finanziarie online sono diventate abili, e il modo migliore per difendersi è riconoscerne i trucchi prima che inizino.
