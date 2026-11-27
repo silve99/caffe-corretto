@@ -80,7 +80,8 @@ Conto deposito o BTP · Cos'è lo spread BTP-Bund · Interesse composto · PAC �
 Tasse sugli investimenti (12,5%, 26%, bollo) · Regime amministrato o dichiarativo · Minusvalenze ·
 ETF ad accumulazione o a distribuzione · Come leggere il KID · Fondo pensione · TFR in azienda o
 nel fondo pensione · Fondo di garanzia dei depositi (100.000 euro) · Inflazione · Tassi della BCE ·
-Dividendi · FTSE MIB · Stablecoin · Conto titoli · Truffe finanziarie online.
+Dividendi · FTSE MIB · Stablecoin · Conto titoli · Truffe finanziarie online ·
+Come funziona la Borsa.
 
 **Già scritte, in bozza** (NON riscriverle e non scegliere argomenti uguali o quasi uguali).
 In uscita il 28 e 30/11/2026 (richiesta di Daniele del 25/11): Tasse sugli ETF con esempi · BTP o conto
@@ -88,24 +89,23 @@ deposito con 1.000 euro · Come si dichiarano le criptovalute · Mutuo e tassi B
 
 Prossime guide automatiche, in ordine:
 
-1. Come funziona la Borsa: azioni, indici e ordini (azioni)
-2. Cos'è un'obbligazione e come si legge il rendimento (obbligazioni)
-3. Ethereum spiegato semplice (cripto)
-4. Oro: come si investe e cosa sapere (basi)
-5. Recessione: cos'è e come si riconosce (basi)
-6. Buoni fruttiferi postali: come funzionano (risparmio)
-7. BOT: cosa sono e come si comprano (obbligazioni)
-8. BTP Italia e titoli legati all'inflazione (obbligazioni)
-9. Polizze vita di ramo I: come funzionano (risparmio)
-10. Cos'è il rating di uno Stato o di un'azienda (obbligazioni)
-11. Volatilità: cos'è e come si misura (basi)
-12. Cos'è l'S&P 500 e perché tutti ne parlano (azioni)
-13. ETF e ETP su Bitcoin: come funzionano (cripto)
-14. Wallet cripto: come custodire le criptovalute (cripto)
-15. Investimenti all'estero: quadro RW e IVAFE (tasse)
-16. Cos'è un'IPO, la quotazione in Borsa (azioni)
-17. Certificati di investimento: cosa sono e i rischi (azioni)
-18. Obbligazioni societarie: come funzionano (obbligazioni)
+1. Cos'è un'obbligazione e come si legge il rendimento (obbligazioni)
+2. Ethereum spiegato semplice (cripto)
+3. Oro: come si investe e cosa sapere (basi)
+4. Recessione: cos'è e come si riconosce (basi)
+5. Buoni fruttiferi postali: come funzionano (risparmio)
+6. BOT: cosa sono e come si comprano (obbligazioni)
+7. BTP Italia e titoli legati all'inflazione (obbligazioni)
+8. Polizze vita di ramo I: come funzionano (risparmio)
+9. Cos'è il rating di uno Stato o di un'azienda (obbligazioni)
+10. Volatilità: cos'è e come si misura (basi)
+11. Cos'è l'S&P 500 e perché tutti ne parlano (azioni)
+12. ETF e ETP su Bitcoin: come funzionano (cripto)
+13. Wallet cripto: come custodire le criptovalute (cripto)
+14. Investimenti all'estero: quadro RW e IVAFE (tasse)
+15. Cos'è un'IPO, la quotazione in Borsa (azioni)
+16. Certificati di investimento: cosa sono e i rischi (azioni)
+17. Obbligazioni societarie: come funzionano (obbligazioni)
 
 Quando pubblichi una guida, spostala da questo elenco alla riga "Già pubblicate". Quando il lotto
 straordinario è uscito, sposta anche quei titoli in "Già pubblicate".
