@@ -1,0 +1,71 @@
+name: Visite
+
+# Riepilogo delle visite del blog, in privato su Telegram: ogni giorno alle 08:00 (ora di Roma)
+# le visite di ieri, il lunedì anche la settimana e il confronto con il piano traffico.
+# Configurazione: secret CLOUDFLARE_API_TOKEN (sola lettura, Account Analytics: Read) e
+# TELEGRAM_BOT_TOKEN (già presente). Destinatario: chi scrive al bot la parola "visite".
+on:
+  schedule:
+    - cron: "7 6,7 * * *"  # 08:07 italiane con l'ora legale (06 UTC) e con l'ora solare (07 UTC)
+    - cron: "37 9 * * *"   # rete di sicurezza se GitHub salta il primo giro
+  workflow_dispatch:
+    inputs:
+      tipo:
+        description: "Quale riepilogo"
+        type: choice
+        options: [auto, giorno, settimana, entrambi]
+        default: auto
+      prova:
+        description: "Solo anteprima nei log, senza inviare"
+        type: boolean
+        default: false
+  pull_request:
+    paths: ["visite/**", ".github/workflows/visite.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: visite
+  cancel-in-progress: false
+
+jobs:
+  riepilogo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prendi lo stato (branch dati)
+        run: |
+          git clone --depth 1 --branch dati "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" dati
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Controllo del programma
+        if: github.event_name == 'pull_request'
+        run: python -m py_compile visite/riepilogo.py
+
+      - name: Manda il riepilogo
+        if: github.event_name != 'pull_request'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          ARGS="--stato dati/visite/stato.json --tipo ${{ inputs.tipo || 'auto' }}"
+          if [ "${{ inputs.prova }}" = "true" ]; then ARGS="$ARGS --prova"; fi
+          python visite/riepilogo.py $ARGS
+
+      - name: Ricorda cosa è stato inviato
+        if: always() && github.event_name != 'pull_request' && inputs.prova != true
+        run: |
+          cd dati
+          git config user.name "caffe-corretto-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add visite 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Niente da salvare"; exit 0; fi
+          git commit -qm "[CF-Pages-Skip] visite $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4; do git push -q origin dati && break; sleep $((i*5)); git pull -q --rebase origin dati || true; done
