@@ -49,8 +49,6 @@ fonti:
     url: "https://www.dailysabah.com/business/economy/spains-former-central-bank-head-to-succeed-lagarde-as-ecb-chief"
   - nome: "AOL: Spain's De Cos to take over as ECB president from Lagarde"
     url: "https://www.aol.com/articles/spains-cos-set-nominated-eu-141421000.html"
-  - nome: "Euronews: Los líderes europeos respaldan a Hernández de Cos para suceder a Lagarde al frente del BCE"
-    url: "https://es.euronews.com/2026/11/27/lideres-europeos-respaldan-a-hernandez-de-cos-para-suceder-a-lagarde-al-fre"
   - nome: "BCE: Account of the monetary policy meeting of 28-29 October 2026"
     url: "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html"
   - nome: "ANSA: Bce, numerosi governatori a favore di un ulteriore rialzo dei tassi"
@@ -135,7 +133,7 @@ I consumatori americani, intanto, non si fermano. Secondo l'agenzia AP, ripresa 
 
 ## 4. De Cos verso la BCE, e i verbali parlano di rialzi
 
-Giovedì i Paesi dell'euro trovano l'accordo: lo spagnolo Pablo Hernández de Cos, ex governatore della banca centrale spagnola, è indicato come successore di Christine Lagarde alla guida della [BCE](/glossario/bce/). Lo riportano l'ANSA, Daily Sabah e AOL. Venerdì, secondo Euronews, anche i leader europei gli danno il loro appoggio. La nomina deve ancora completare l'iter formale.
+Giovedì i Paesi dell'euro trovano l'accordo: lo spagnolo Pablo Hernández de Cos, ex governatore della banca centrale spagnola, è indicato come successore di Christine Lagarde alla guida della [BCE](/glossario/bce/). Lo riportano l'ANSA, Daily Sabah e AOL. La nomina deve ancora completare l'iter formale.
 
 Lo stesso giorno la BCE pubblica i verbali della riunione di ottobre. Secondo l'ANSA, numerosi governatori erano favorevoli a un ulteriore rialzo dei tassi.
 
