@@ -11,7 +11,7 @@ fonti:
     url: "https://www.agenziaentrate.gov.it/"
   - nome: "Fondo Interbancario di Tutela dei Depositi"
     url: "https://www.fitd.it/"
-bozza: true
+bozza: false
 ---
 
 Mille euro. Non una fortuna, ma abbastanza per chiedersi dove metterli perché non restino fermi. Le due risposte più comuni sono il BTP e il conto deposito, e sui grandi importi il BTP parte avvantaggiato grazie alle tasse più basse. Ma con 1.000 euro entrano in gioco i piccoli costi, e i conti possono cambiare. Prendiamo la calcolatrice.

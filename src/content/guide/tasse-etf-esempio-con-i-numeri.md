@@ -11,7 +11,7 @@ fonti:
     url: "https://www.consob.it/web/investor-education"
   - nome: "Borsa Italiana – ETF"
     url: "https://www.borsaitaliana.it/"
-bozza: true
+bozza: false
 ---
 
 Hai comprato un ETF tre anni fa con 10.000 euro. Oggi vale 13.000 euro e decidi di vendere. Sul conto ti arrivano 13.000 euro? No. Ma nemmeno 13.000 meno il 26% di tutto, come teme qualcuno. Le tasse si pagano solo sul guadagno, e con qualche dettaglio che conviene conoscere. Facciamo i conti insieme, con numeri tondi.
