@@ -1,12 +1,12 @@
 {
- "aggiornato": "2026-11-28T02:55:41.410240+00:00",
+ "aggiornato": "2026-11-28T11:36:56.231662+00:00",
  "finestra_ore": 26,
- "notizie_considerate": 119,
+ "notizie_considerate": 105,
  "gruppi": [
   {
    "id": "ff68d4fc3008ce51",
    "titolo": "Nomura raises RBI rate hike call to 50 bps, sees inflation above 6% for two quarters",
-   "punteggio": 13.9,
+   "punteggio": 12.1,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 6,
@@ -60,7 +60,7 @@
   {
    "id": "cafb580033841375",
    "titolo": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-   "punteggio": 11.4,
+   "punteggio": 9.7,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -81,7 +81,7 @@
   {
    "id": "3951ee9fd56d1130",
    "titolo": "Bce, accordo su Pablo Hernández de Cos: succederà a Lagarde",
-   "punteggio": 7.8,
+   "punteggio": 6.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -98,20 +98,20 @@
    ]
   },
   {
-   "id": "3f36a67390575c55",
-   "titolo": "ECB Consumer Expectations Survey results – October 2026",
-   "punteggio": 7.4,
+   "id": "187457c925c6dda0",
+   "titolo": "Boris Vujčić: Interview with Kurier",
+   "punteggio": 5.3,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
    "categorie": [
     "macro"
    ],
-   "ultima_ora": "2026-11-27T09:00:00+00:00",
+   "ultima_ora": "2026-11-28T08:00:00+00:00",
    "link": [
     {
-     "titolo": "ECB Consumer Expectations Survey results – October 2026",
-     "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+     "titolo": "Boris Vujčić: Interview with Kurier",
+     "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261128~10e11f78f1.en.html",
      "fonte": "Banca Centrale Europea",
      "solo_verifica": false,
      "via": null
@@ -121,7 +121,7 @@
   {
    "id": "55baca3ade5a0415",
    "titolo": "Canada's GDP, Jobs Data to Test Case for December Rate Hike",
-   "punteggio": 7.0,
+   "punteggio": 5.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -140,7 +140,7 @@
   {
    "id": "31c5a2e066a4bb1e",
    "titolo": "The Federal Reserve sends a troubling signal to S&P 500 investors",
-   "punteggio": 7.0,
+   "punteggio": 5.3,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -159,7 +159,7 @@
   {
    "id": "e9c5a1a483a91f0d",
    "titolo": "Bce: attese inflazione a 12 mesi salite al 3,5% a ottobre (da 3,1%)",
-   "punteggio": 6.7,
+   "punteggio": 5.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -176,40 +176,19 @@
    ]
   },
   {
-   "id": "3069682d72545535",
-   "titolo": "Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
-   "punteggio": 6.1,
-   "verificata": true,
+   "id": "3cd0c3bd9edd00fe",
+   "titolo": "Corporate Earnings Rise to 13.37% of U.S. GDP as Profit Outlook Faces Scrutiny",
+   "punteggio": 4.9,
+   "verificata": false,
    "ufficiale": false,
-   "fonti_distinte": 4,
+   "fonti_distinte": 1,
    "categorie": [],
-   "ultima_ora": "2026-11-27T02:15:00+00:00",
+   "ultima_ora": "2026-11-28T11:15:00+00:00",
    "link": [
     {
-     "titolo": "Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
-     "url": "http://www.tucsonpost.com/news/279462194/eurozone-countries-agree-to-nominate-spain-hernandez-de-cos-as-next-ecb-president",
-     "fonte": "tucsonpost.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
-     "url": "http://www.russiaherald.com/news/279462194/eurozone-countries-agree-to-nominate-spain-hernandez-de-cos-as-next-ecb-president",
-     "fonte": "russiaherald.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
-     "url": "http://www.africaleader.com/news/279462194/eurozone-countries-agree-to-nominate-spain-hernandez-de-cos-as-next-ecb-president",
-     "fonte": "africaleader.com",
-     "solo_verifica": false,
-     "via": "GDELT"
-    },
-    {
-     "titolo": "Eurozone countries agree to nominate Spain's Hernandez de Cos as next ECB president",
-     "url": "http://www.neworleanssun.com/news/279462194/eurozone-countries-agree-to-nominate-spain-hernandez-de-cos-as-next-ecb-president",
-     "fonte": "neworleanssun.com",
+     "titolo": "Corporate Earnings Rise to 13.37% of U.S. GDP as Profit Outlook Faces Scrutiny",
+     "url": "https://econotimes.com/Corporate-Earnings-Rise-to-13-37-of-U-S-GDP-as-Profit-Outlook-Faces-Scrutiny-1781338",
+     "fonte": "econotimes.com",
      "solo_verifica": false,
      "via": "GDELT"
     }
@@ -218,7 +197,7 @@
   {
    "id": "6a4c8154bed2c4b4",
    "titolo": "Los líderes europeos respaldan a Hernández de Cos para suceder a Lagarde al frente del BCE",
-   "punteggio": 5.8,
+   "punteggio": 4.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -237,7 +216,7 @@
   {
    "id": "a8b3b5c531fc7476",
    "titolo": "Weeks of hot deals are encouraging record Black Friday spending despite inflation concerns",
-   "punteggio": 5.7,
+   "punteggio": 3.9,
    "verificata": true,
    "ufficiale": false,
    "fonti_distinte": 2,
@@ -263,7 +242,7 @@
   {
    "id": "86240ec443841a41",
    "titolo": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
-   "punteggio": 5.0,
+   "punteggio": 3.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -289,7 +268,7 @@
   {
    "id": "b0f02450bfeeca08",
    "titolo": "Spanish inflation comes off the boil in November, offering some respite for the ECB",
-   "punteggio": 4.8,
+   "punteggio": 3.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -308,7 +287,7 @@
   {
    "id": "e06afe982be71f9e",
    "titolo": "Wall Street, il rally è dietro l'angolo: l'S&P 500 pronto a correre del 25% secondo Deutsche Bank",
-   "punteggio": 4.8,
+   "punteggio": 3.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -327,7 +306,7 @@
   {
    "id": "3d87e70451cc2120",
    "titolo": "Borse oggi in diretta | Ftse Mib il migliore in Ue con Stm +4,2% e Technoprobe +4,3%, lo spread scende a 104",
-   "punteggio": 4.8,
+   "punteggio": 3.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -346,7 +325,7 @@
   {
    "id": "98284a54d86405f7",
    "titolo": "Dazi Usa, ecco le 7 azioni di Piazza Affari che rischiano di più con la nuova stretta al 15% sull'Europa",
-   "punteggio": 4.8,
+   "punteggio": 3.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -365,7 +344,7 @@
   {
    "id": "2ce91c51a9de5804",
    "titolo": "U.S. Treasury, European Bond Yields Rise as Investors Anticipate Fed, ECB Rate Hikes in December — Update",
-   "punteggio": 4.8,
+   "punteggio": 3.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -382,9 +361,30 @@
    ]
   },
   {
+   "id": "7250baf73b9fa63d",
+   "titolo": "Binance Pay, DK Bank and Tether Sign MOU to Expand Stablecoin Payments to Merchants Across Bhutan, Starting with USD₮",
+   "punteggio": 2.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-28T07:27:00+00:00",
+   "link": [
+    {
+     "titolo": "Binance Pay, DK Bank and Tether Sign MOU to Expand Stablecoin Payments to Merchants Across Bhutan, Starting with USD₮",
+     "url": "https://www.prnewswire.com/news-releases/binance-pay-dk-bank-and-tether-sign-mou-to-expand-stablecoin-payments-to-merchants-across-bhutan-starting-with-usd-302952011.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "0c17d72f127a46f1",
    "titolo": "RBI may surprise markets with 50-bps rate hike in December as inflation risks mount: Nomura",
-   "punteggio": 3.9,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -403,7 +403,7 @@
   {
    "id": "33a88f5652890651",
    "titolo": "Petrolio, attacchi in Medio Oriente e rischio 100 dollari: cosa deciderà l'Opec+ il 29 novembre",
-   "punteggio": 3.8,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -422,7 +422,7 @@
   {
    "id": "88c2d457c1826b64",
    "titolo": "Petrolio, Trump all'attacco dell'Opec: pressioni su Venezuela e Iraq per spingerli fuori dal cartello",
-   "punteggio": 3.8,
+   "punteggio": 2.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -441,7 +441,7 @@
   {
    "id": "30c816fe0cdb6d68",
    "titolo": "Chi è Pablo Hernández de Cos, futuro presidente della Bce",
-   "punteggio": 3.8,
+   "punteggio": 2.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -460,7 +460,7 @@
   {
    "id": "b88a9d083cd0d2a2",
    "titolo": "Coesione, un quinto delle regioni Ue sotto il Pil del 2008",
-   "punteggio": 3.5,
+   "punteggio": 1.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -479,7 +479,7 @@
   {
    "id": "b064d75f84323d0a",
    "titolo": "Francia in recessione tecnica per un soffio",
-   "punteggio": 3.5,
+   "punteggio": 1.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -498,7 +498,7 @@
   {
    "id": "501fb8879b968d7b",
    "titolo": "Gold Price Prediction: अपने रिकॉर्ड हाई से 58,500 रुपये सस्ता मिल रहा है सोना, अब ये 2 तारीखें तय करेंगी कीमतों का भविष्य | Gold Price Crash From Record High Know Reasons And Mcx Gold Price Target",
-   "punteggio": 2.8,
+   "punteggio": 1.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -517,7 +517,7 @@
   {
    "id": "ebabaf9fa5371aed",
    "titolo": "AI sell-off and Fed hikes: Where investors can look next",
-   "punteggio": 2.8,
+   "punteggio": 1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -536,7 +536,7 @@
   {
    "id": "00eb0c5c2ecae698",
    "titolo": "Christine Lagarde ha detto che lascerà il suo incarico con otto mesi d'anticipo",
-   "punteggio": 2.7,
+   "punteggio": 1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -555,7 +555,7 @@
   {
    "id": "8e7cedf529ef4565",
    "titolo": "Le Borse di oggi, 27 novembre. Il petrolio torna a salire. Bene Milano, attesa per Wall Street",
-   "punteggio": 2.7,
+   "punteggio": 1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -574,7 +574,7 @@
   {
    "id": "f4ad212e88ca8271",
    "titolo": "L'économie française en récession \"technique\" depuis le deuxième trimestre, l'inflation ralentit en novembre",
-   "punteggio": 2.7,
+   "punteggio": 1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -593,7 +593,7 @@
   {
    "id": "f4f712681c33dd76",
    "titolo": "Gold pares gains as Fed hike risks linger, eyes first weekly rise in three weeks",
-   "punteggio": 2.6,
+   "punteggio": 0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -612,7 +612,7 @@
   {
    "id": "b7f8c19e78ec7e68",
    "titolo": "Canadian dollar holds on to weekly gain as investors bet on December rate hike",
-   "punteggio": 2.6,
+   "punteggio": 0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -631,7 +631,7 @@
   {
    "id": "b9443151afebf14f",
    "titolo": "Cybersicurezza finanziaria, siglata intesa tra Gdf e autorità di vigilanza per contrastare le minacce digitali",
-   "punteggio": 2.5,
+   "punteggio": 0.8,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -650,7 +650,7 @@
   {
    "id": "27e7cea2b746c8e0",
    "titolo": "Roundhill Investments Announces ETF Lineup Update",
-   "punteggio": 2.1,
+   "punteggio": 0.4,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -669,28 +669,30 @@
    ]
   },
   {
-   "id": "9675c9bba5740407",
-   "titolo": "Tokyo inflation accelerates, backing case for BOJ rate hike",
-   "punteggio": 2.1,
-   "verificata": false,
-   "ufficiale": false,
+   "id": "f187d137cfec69fb",
+   "titolo": "KuCoin Advances Australian Engagement at CryptoCon Sydney, Spotlighting Global Infrastructure and Local Accountability",
+   "punteggio": 0.3,
+   "verificata": true,
+   "ufficiale": true,
    "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-27T02:30:00+00:00",
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-28T08:12:00+00:00",
    "link": [
     {
-     "titolo": "Tokyo inflation accelerates, backing case for BOJ rate hike",
-     "url": "https://www.businesstimes.com.sg/international/tokyo-inflation-accelerates-backing-case-boj-rate-hike",
-     "fonte": "businesstimes.com.sg",
+     "titolo": "KuCoin Advances Australian Engagement at CryptoCon Sydney, Spotlighting Global Infrastructure and Local Accountability",
+     "url": "https://www.prnewswire.com/news-releases/kucoin-advances-australian-engagement-at-cryptocon-sydney-spotlighting-global-infrastructure-and-local-accountability-302952014.html",
+     "fonte": "PR Newswire",
      "solo_verifica": false,
-     "via": "GDELT"
+     "via": null
     }
    ]
   },
   {
    "id": "54ddcf19284eb8ee",
    "titolo": "Consolidato mondiale per la coop con partecipazioni all'estero",
-   "punteggio": 2.0,
+   "punteggio": 0.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -709,7 +711,7 @@
   {
    "id": "1d87f2b8b5def5ee",
    "titolo": "Lagioia: \"Non mi scandalizzo, i miei romanzi sono già schedati ma temo chi controlla i sistemi\"",
-   "punteggio": 1.9,
+   "punteggio": 0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -728,7 +730,7 @@
   {
    "id": "76aa7efbcb8cc657",
    "titolo": "ALLIANCEBERNSTEIN GLOBAL HIGH INCOME FUND, INC. REPORTS SECOND QUARTER EARNINGS",
-   "punteggio": 1.8,
+   "punteggio": 0.1,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -749,7 +751,7 @@
   {
    "id": "08830de3e750c5f2",
    "titolo": "Ftse Mib future: spunti operativi per venerdì 27 novembre",
-   "punteggio": 1.8,
+   "punteggio": 0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -768,7 +770,7 @@
   {
    "id": "9ae4ef98960fab71",
    "titolo": "In Francia (+2,9%) e in Spagna (+4,1%) rallenta inflazione su base annua a novembre",
-   "punteggio": 1.8,
+   "punteggio": 0.1,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -787,7 +789,7 @@
   {
    "id": "eeea925a0d26bb6c",
    "titolo": "Español Hernández de Cos presidirá el BCE",
-   "punteggio": 1.8,
+   "punteggio": 0.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -806,7 +808,7 @@
   {
    "id": "9bdbd142ad94b2da",
    "titolo": "Pablo Hernández de Cos presidirá el BCE desde el 7 de febrero de 2027 como primer español en el cargo",
-   "punteggio": 1.7,
+   "punteggio": -0.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -825,7 +827,7 @@
   {
    "id": "dbf865a74c2e3ad3",
    "titolo": "España llega por fin a la Presidencia del BCE",
-   "punteggio": 1.7,
+   "punteggio": -0.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -844,7 +846,7 @@
   {
    "id": "c18674713d86a6fb",
    "titolo": "V ECB už tuší jméno nového šéfa, evropští lídři podpoří Španěla de Cose",
-   "punteggio": 1.7,
+   "punteggio": -0.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -863,7 +865,7 @@
   {
    "id": "3966bbf067d9a976",
    "titolo": "Ebury: \"Escolha de Pablo Hernández de Cos para o BCE reflete orientação ligeiramente mais dovish\"",
-   "punteggio": 1.7,
+   "punteggio": -0.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -880,9 +882,68 @@
    ]
   },
   {
+   "id": "df39efc322596a00",
+   "titolo": "DWP cyber incident 'probably an attack', says former UK chief technology officer | Cybercrime",
+   "punteggio": -0.1,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-28T11:15:00+00:00",
+   "link": [
+    {
+     "titolo": "DWP cyber incident 'probably an attack', says former UK chief technology officer | Cybercrime",
+     "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+     "fonte": "The Guardian",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "c6c80cd5b60edf46",
+   "titolo": "Copper Is Flashing an AI Warning Sign - Business Insider",
+   "punteggio": -0.1,
+   "verificata": false,
+   "ufficiale": false,
+   "fonti_distinte": 1,
+   "categorie": [],
+   "ultima_ora": "2026-11-28T11:15:00+00:00",
+   "link": [
+    {
+     "titolo": "Copper Is Flashing an AI Warning Sign - Business Insider",
+     "url": "https://www.businessinsider.com/copper-prices-metal-ai-data-centers-china2026-11",
+     "fonte": "Business Insider",
+     "solo_verifica": false,
+     "via": "GDELT"
+    }
+   ]
+  },
+  {
+   "id": "ed446a6a5a6ec4ae",
+   "titolo": "Binance Secures In-Principle Approval in Gelephu Mindfulness City, Plans Asia Hub in Bhutan",
+   "punteggio": -0.2,
+   "verificata": true,
+   "ufficiale": true,
+   "fonti_distinte": 1,
+   "categorie": [
+    "azioni"
+   ],
+   "ultima_ora": "2026-11-28T05:42:00+00:00",
+   "link": [
+    {
+     "titolo": "Binance Secures In-Principle Approval in Gelephu Mindfulness City, Plans Asia Hub in Bhutan",
+     "url": "https://www.prnewswire.com/news-releases/binance-secures-in-principle-approval-in-gelephu-mindfulness-city-plans-asia-hub-in-bhutan-302951995.html",
+     "fonte": "PR Newswire",
+     "solo_verifica": false,
+     "via": null
+    }
+   ]
+  },
+  {
    "id": "241695e86ffb5994",
    "titolo": "Montauk Renewables, Inc. (NASDAQ: MNTK) Investors: Class Action Lawsuit Filed - Lead Plaintiff Deadline January 25, 2027 - Contact Bronstein, Gewirtz & Grossman",
-   "punteggio": 1.0,
+   "punteggio": -0.7,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -903,7 +964,7 @@
   {
    "id": "e52095564cd96dba",
    "titolo": "Apple Says No, Amazon Doesn't Care: AirPods Max 2 Hit Their Lowest Price on Black Friday Itself",
-   "punteggio": 0.8,
+   "punteggio": -0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -922,7 +983,7 @@
   {
    "id": "e73b910fc7deceb5",
    "titolo": "Tout le monde en parle mais personne ne vous le dira : Amazon assomme la concurrence avec son offre sur l'iPhone 17 Pro Max 1 To d'Apple",
-   "punteggio": 0.8,
+   "punteggio": -0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -941,7 +1002,7 @@
   {
    "id": "46492c8fe8eb916d",
    "titolo": "Cina, famiglie in fuga dai debiti (e dagli acquisti): rimborsi record per 1.600 miliardi. Borse in corsa",
-   "punteggio": 0.8,
+   "punteggio": -0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -960,7 +1021,7 @@
   {
    "id": "21f1ebdccb7c5d76",
    "titolo": "Stellantis vuole ricomprare una parte di Marelli: sul tavolo tre fabbriche italiane",
-   "punteggio": 0.8,
+   "punteggio": -0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -979,7 +1040,7 @@
   {
    "id": "bde751ae196f95b4",
    "titolo": "Ecco gli Etf che possono aiutare i genitori a raggiungere gli obiettivi",
-   "punteggio": 0.8,
+   "punteggio": -0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -998,7 +1059,7 @@
   {
    "id": "bb94cbee0e030b63",
    "titolo": "Pablo Hernández de Cos a fost ales președinte al Băncii Centrale Europene. Fostul guvernator al Băncii Spaniei o va înlocui pe Christine Lagarde, având sprijinul Franței și Germaniei",
-   "punteggio": 0.8,
+   "punteggio": -0.9,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1017,7 +1078,7 @@
   {
    "id": "4c843c5300879dd6",
    "titolo": "Apple Black Friday gift card vs. Amazon's M5 MacBook Air deal",
-   "punteggio": 0.8,
+   "punteggio": -1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1036,7 +1097,7 @@
   {
    "id": "a09d07396ec69999",
    "titolo": "Nasdaq futures surge nearly 3%, S&P 500 futures jump 2% as AI stocks set for rebound after Thanksgiving holiday",
-   "punteggio": 0.8,
+   "punteggio": -1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1055,7 +1116,7 @@
   {
    "id": "77ca043d82b8f697",
    "titolo": "Singulus sieht „Blut und Wasser!\" Jetzt 4 Hot-Stocks mit Tesla als Kunden und Nvidia-Glas-Fantasie",
-   "punteggio": 0.7,
+   "punteggio": -1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1074,7 +1135,7 @@
   {
    "id": "6347f27fd98af0b8",
    "titolo": "EZB: Hernández de Cos soll Lagarde ablösen – was das für Zinsen bedeutet",
-   "punteggio": 0.7,
+   "punteggio": -1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1093,7 +1154,7 @@
   {
    "id": "769d3771a0b9c056",
    "titolo": "Inwit debole con negoziati su affitti torri, mercato diviso su tempi intesa",
-   "punteggio": 0.7,
+   "punteggio": -1.0,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1112,7 +1173,7 @@
   {
    "id": "1edf20a804fd5b65",
    "titolo": "First Citizens Bank Enters into Whole Bank Purchase of United Fidelity Bank, fsb",
-   "punteggio": 0.5,
+   "punteggio": -1.2,
    "verificata": true,
    "ufficiale": true,
    "fonti_distinte": 1,
@@ -1133,7 +1194,7 @@
   {
    "id": "279876212a3fc340",
    "titolo": "Tlc, in Italia il ritorno degli investimenti non regge il costo del capitale",
-   "punteggio": 0.5,
+   "punteggio": -1.2,
    "verificata": false,
    "ufficiale": false,
    "fonti_distinte": 1,
@@ -1146,88 +1207,6 @@
      "fonte": "Il Sole 24 Ore",
      "solo_verifica": false,
      "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "a957a2b88c3b9423",
-   "titolo": "Transizione 5.0, in cinque mesi  investimenti per 1,3 miliardi in Veneto",
-   "punteggio": 0.5,
-   "verificata": false,
-   "ufficiale": false,
-   "fonti_distinte": 1,
-   "categorie": [],
-   "ultima_ora": "2026-11-27T19:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Transizione 5.0, in cinque mesi  investimenti per 1,3 miliardi in Veneto",
-     "url": "https://www.ilsole24ore.com/art/transizione-50-cinque-mesi-investimenti-13-miliardi-veneto-AJL7PFVC",
-     "fonte": "Il Sole 24 Ore",
-     "solo_verifica": false,
-     "via": "GDELT"
-    }
-   ]
-  },
-  {
-   "id": "16e6d80ebab8e22e",
-   "titolo": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank",
-   "punteggio": 0.1,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T22:30:00+00:00",
-   "link": [
-    {
-     "titolo": "Peak Credit Union Announces Agreement to Acquire Southwest Heritage Bank",
-     "url": "https://www.prnewswire.com/news-releases/peak-credit-union-announces-agreement-to-acquire-southwest-heritage-bank-302951825.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "aa61efc6f142597c",
-   "titolo": "Quantum Space to Hold Financial Update Call",
-   "punteggio": -0.2,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T20:59:00+00:00",
-   "link": [
-    {
-     "titolo": "Quantum Space to Hold Financial Update Call",
-     "url": "https://www.prnewswire.com/news-releases/quantum-space-to-hold-financial-update-call-302951919.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
-    }
-   ]
-  },
-  {
-   "id": "0904e0d40dae050c",
-   "titolo": "Stablecoin fees could add 10% to a $20 purchase, research finds ahead of Black Friday",
-   "punteggio": -0.2,
-   "verificata": true,
-   "ufficiale": true,
-   "fonti_distinte": 1,
-   "categorie": [
-    "azioni"
-   ],
-   "ultima_ora": "2026-11-27T11:03:00+00:00",
-   "link": [
-    {
-     "titolo": "Stablecoin fees could add 10% to a $20 purchase, research finds ahead of Black Friday",
-     "url": "https://www.prnewswire.com/news-releases/stablecoin-fees-could-add-10-to-a-20-purchase-research-finds-ahead-of-black-friday-302951697.html",
-     "fonte": "PR Newswire",
-     "solo_verifica": false,
-     "via": null
     }
    ]
   }
